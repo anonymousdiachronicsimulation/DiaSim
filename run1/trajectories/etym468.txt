@@ -16,8 +16,8 @@ k l ˈɑː w e m
 #klˈae̯v# | Rule 442 : β > v 
 #klˈae̯f# | Rule 450 : [-son] > [-voi] / __ #
 #klˈeːf# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#klˈɛːf# | Rule 614 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons,-cor] #
-#klˈɛːfə̯# | Rule 732 : ∅ > ə̯ / f __ #
-#klˈɛːf# | Rule 736 : ə̯ > ∅ 
-#klɛːf# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#klɛf# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#klˈɛːf# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons,-cor] #
+#klˈɛːfə̯# | Rule 731 : ∅ > ə̯ / f __ #
+#klˈɛːf# | Rule 735 : ə̯ > ∅ 
+#klɛːf# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#klɛf# | Rule 753 : [+syl,+long] > [-long,-splng] 

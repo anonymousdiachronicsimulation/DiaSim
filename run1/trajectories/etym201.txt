@@ -8,8 +8,8 @@ d̪ u ˈoː s
 #d̪wˈows# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #d̪ˈows# | Rule 481 : w > ∅ / [-cont,-back] __ 
 #d̪ˈews# | Rule 544 : ˈo > ˈe / __ w
-#d̪ˈøws# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#d̪ˈøːs# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#d̪ˈøː# | Rule 734 : [-son] > ∅ / __ #
-#d̪øː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#d̪ø# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#d̪ˈøws# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#d̪ˈøːs# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#d̪ˈøː# | Rule 733 : [-son] > ∅ / __ #
+#d̪øː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#d̪ø# | Rule 753 : [+syl,+long] > [-long,-splng] 

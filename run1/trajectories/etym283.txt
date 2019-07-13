@@ -9,11 +9,11 @@ f ˈo r t̪ i ɑ
 #fˈɔrt͡sʲa# | Rule 205 : [+lo] > [+front,-back] 
 #fˈɔrt͡sʲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #fˈɔrt͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#fˈɔrsə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#fˈɔrsə̯# | Rule 708 : ə > ə̯ / __ #
-#fˈɔɹsə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#fˈɔɹs# | Rule 736 : ə̯ > ∅ 
-#fˈɔrs# | Rule 750 : ɹ > r 
-#fˈɔʀs# | Rule 752 : r > ʀ 
-#fɔʀs# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fˈɔrsə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#fˈɔrsə̯# | Rule 707 : ə > ə̯ / __ #
+#fˈɔɹsə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#fˈɔɹs# | Rule 735 : ə̯ > ∅ 
+#fˈɔrs# | Rule 749 : ɹ > r 
+#fˈɔʀs# | Rule 751 : r > ʀ 
+#fɔʀs# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #fɔʁs# | Rule 759 : ʀ > ʁ 

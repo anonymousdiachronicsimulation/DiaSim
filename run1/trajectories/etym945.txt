@@ -14,13 +14,13 @@ p r ˌɑ e̯ p ˈo s i t̪ u m
 #prˌɛβˈɔst̪# | Rule 385 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [-cons]
 #prˌeβˈɔst̪# | Rule 432 : ˌɛ > ˌe / __ @ @
 #prˌevˈɔst̪# | Rule 442 : β > v 
-#prˌɛvˈɔst̪# | Rule 593 : ˌe > ˌɛ / __ [+cont,-lat,-nas,+voi] [+syl]
-#prˌɛvˈɔxt̪# | Rule 595 : s > x / [-cons] __ [+cons]
-#prˌevˈɔxt̪# | Rule 609 : ˌɛ > ˌe / __ [+cont,-lat,-nas,+voi] [+syl]
-#prˌevˈɔːt̪# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#prˌevˈoːt̪# | Rule 723 : [-hi,-lo,+back,+syl,+long] > [+tense,-cons,-lat,+cont,0delrel] 
-#prˌevˈoː# | Rule 734 : [-son] > ∅ / __ #
-#pʀˌevˈoː# | Rule 752 : r > ʀ 
-#pʀevoː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pʀevo# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#prˌɛvˈɔst̪# | Rule 592 : ˌe > ˌɛ / __ [+cont,-lat,-nas,+voi] [+syl]
+#prˌɛvˈɔxt̪# | Rule 594 : s > x / [-cons] __ [+cons]
+#prˌevˈɔxt̪# | Rule 608 : ˌɛ > ˌe / __ [+cont,-lat,-nas,+voi] [+syl]
+#prˌevˈɔːt̪# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#prˌevˈoːt̪# | Rule 722 : [-hi,-lo,+back,+syl,+long] > [+tense,-cons,-lat,+cont,0delrel] 
+#prˌevˈoː# | Rule 733 : [-son] > ∅ / __ #
+#pʀˌevˈoː# | Rule 751 : r > ʀ 
+#pʀevoː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pʀevo# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #pʁevo# | Rule 759 : ʀ > ʁ 

@@ -17,10 +17,10 @@ Trajectory file for run 'run1'; etymon number :207:
 #ˈie̯jβrʲə# | Rule 382 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
 #ˈie̯jβrə# | Rule 394 : rʲ > r 
 #ˈie̯jvrə# | Rule 442 : β > v 
-#ˈijvrə# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#ˈivrə# | Rule 560 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
-#ˈivrə̯# | Rule 708 : ə > ə̯ / __ #
-#ˈivr# | Rule 736 : ə̯ > ∅ 
-#ˈivʀ# | Rule 752 : r > ʀ 
-#ivʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ˈijvrə# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#ˈivrə# | Rule 559 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
+#ˈivrə̯# | Rule 707 : ə > ə̯ / __ #
+#ˈivr# | Rule 735 : ə̯ > ∅ 
+#ˈivʀ# | Rule 751 : r > ʀ 
+#ivʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ivʁ# | Rule 759 : ʀ > ʁ 

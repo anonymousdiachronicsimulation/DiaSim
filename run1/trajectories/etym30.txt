@@ -15,9 +15,9 @@ Trajectory file for run 'run1'; etymon number :30:
 #ˈaʝt͡sʲ# | Rule 464 : ç > ʝ 
 #ˈajt͡sʲ# | Rule 470 : ʝ > j / [-cons] __ 
 #ˈajt͡s# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#ˈɛjt͡s# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#ˈɛːt͡s# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#ˈɛːs# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ˈɛː# | Rule 734 : [-son] > ∅ / __ #
-#ɛː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ɛ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈɛjt͡s# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#ˈɛːt͡s# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#ˈɛːs# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ˈɛː# | Rule 733 : [-son] > ∅ / __ #
+#ɛː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ɛ# | Rule 753 : [+syl,+long] > [-long,-splng] 

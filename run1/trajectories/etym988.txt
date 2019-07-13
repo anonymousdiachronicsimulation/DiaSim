@@ -9,6 +9,6 @@ p ˈu t̪ t̪ u m
 #pˈot̪t̪# | Rule 308 : ə̯ > ∅ 
 #pˈot̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #pˈɔt̪# | Rule 551 : {ˌo;ˈo} > {ˌɔ;ˈɔ} / __ [-cont,-lab,-delrel] #
-#pˈɔ# | Rule 734 : [-son] > ∅ / __ #
-#pɔ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#po# | Rule 758 : ɔ > o / __ #
+#pˈɔ# | Rule 733 : [-son] > ∅ / __ #
+#pɔ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#po# | Rule 757 : ɔ > o / __ #

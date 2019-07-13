@@ -15,8 +15,8 @@ i ˈu ɡ u m
 #ɟˈow# | Rule 260 : [+hi,-syl,+cont] > [-delrel,-son,-cont,+cons,0tense] / # __ [+syl]
 #d͡ʒˈow# | Rule 263 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
 #d͡ʒˈew# | Rule 544 : ˈo > ˈe / __ w
-#d͡ʒˈøw# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#d͡ʒˈøː# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#ʒˈøː# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʒøː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʒø# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#d͡ʒˈøw# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#d͡ʒˈøː# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#ʒˈøː# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʒøː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʒø# | Rule 753 : [+syl,+long] > [-long,-splng] 

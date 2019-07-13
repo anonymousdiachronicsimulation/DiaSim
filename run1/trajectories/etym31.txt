@@ -13,10 +13,10 @@ Trajectory file for run 'run1'; etymon number :31:
 #ˌaʝsˈellə# | Rule 464 : ç > ʝ 
 #ˌajsˈellə# | Rule 470 : ʝ > j / [-cons] __ 
 #ˌajsˈelə# | Rule 497 : {p p;b b;f f;m m;t̪ t̪;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d͡ʒ;n̪ n̪;s s;z z;l l;k k;ɡ ɡ;n̪ n̪} > {p;b;f;m;t̪;t͡s;t͡sʲ;t͡ʃ;d̪;d͡ʒ;n̪;s;z;l;k;ɡ;n̪} 
-#ˌajsˈɛlə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#ˌɛjsˈɛlə# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#ˌɛːsˈɛlə# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#ˌɛːsˈɛlə̯# | Rule 708 : ə > ə̯ / __ #
-#ˌɛːsˈɛl# | Rule 736 : ə̯ > ∅ 
-#ɛːsɛl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ɛsɛl# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌajsˈɛlə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#ˌɛjsˈɛlə# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#ˌɛːsˈɛlə# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#ˌɛːsˈɛlə̯# | Rule 707 : ə > ə̯ / __ #
+#ˌɛːsˈɛl# | Rule 735 : ə̯ > ∅ 
+#ɛːsɛl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ɛsɛl# | Rule 753 : [+syl,+long] > [-long,-splng] 

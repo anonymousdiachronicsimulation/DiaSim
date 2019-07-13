@@ -9,10 +9,10 @@ s ˈe r w ɑ m
 #sˈɛrβa# | Rule 205 : [+lo] > [+front,-back] 
 #sˈɛrva# | Rule 442 : β > v 
 #sˈɛrvə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#sˈɛrvə̯# | Rule 708 : ə > ə̯ / __ #
-#sˈɛɹvə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#sˈɛɹv# | Rule 736 : ə̯ > ∅ 
-#sˈɛrv# | Rule 750 : ɹ > r 
-#sˈɛʀv# | Rule 752 : r > ʀ 
-#sɛʀv# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sˈɛrvə̯# | Rule 707 : ə > ə̯ / __ #
+#sˈɛɹvə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#sˈɛɹv# | Rule 735 : ə̯ > ∅ 
+#sˈɛrv# | Rule 749 : ɹ > r 
+#sˈɛʀv# | Rule 751 : r > ʀ 
+#sɛʀv# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #sɛʁv# | Rule 759 : ʀ > ʁ 

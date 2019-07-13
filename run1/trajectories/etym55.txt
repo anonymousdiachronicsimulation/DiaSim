@@ -20,12 +20,12 @@ Trajectory file for run 'run1'; etymon number :55:
 #ˌaɫmˈaːʎa# | Rule 409 : [+prim] > [+long] / __ [+cons] [+syl]
 #ˌaɫmˈaʎa# | Rule 413 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
 #ˌaɫmˈaʎə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#ˌawmˈaʎə# | Rule 582 : [+lat,+back] > w 
-#ˌoːmˈaʎə# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#ˌoːmˈaːʎə# | Rule 706 : [+lo] > [+long] / __ ʎ ə #
-#ˌoːmˈaːʎə̯# | Rule 708 : ə > ə̯ / __ #
-#ˌoːmˈɑːʎə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#ˌoːmˈɑːʎ# | Rule 736 : ə̯ > ∅ 
-#oːmɑːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#omɑʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌawmˈaʎə# | Rule 581 : [+lat,+back] > w 
+#ˌoːmˈaʎə# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#ˌoːmˈaːʎə# | Rule 705 : [+lo] > [+long] / __ ʎ ə #
+#ˌoːmˈaːʎə̯# | Rule 707 : ə > ə̯ / __ #
+#ˌoːmˈɑːʎə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#ˌoːmˈɑːʎ# | Rule 735 : ə̯ > ∅ 
+#oːmɑːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#omɑʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #omɑj# | Rule 760 : ʎ > j 

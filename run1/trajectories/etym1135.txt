@@ -14,11 +14,11 @@ s p ˈo n̪ s ɑ m
 #ˌespˈowzə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #ˌespˈewzə# | Rule 544 : ˈo > ˈe / __ w
 #ˌespˈowzə# | Rule 547 : ˈe > ˈo / __ w z
-#ˌespˈuwzə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#ˌespˈuzə# | Rule 583 : w > ∅ / [+syl,+hi,+round] __ 
-#ˌexpˈuzə# | Rule 595 : s > x / [-cons] __ [+cons]
-#ˌeːpˈuzə# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#ˌeːpˈuzə̯# | Rule 708 : ə > ə̯ / __ #
-#ˌeːpˈuz# | Rule 736 : ə̯ > ∅ 
-#eːpuz# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#epuz# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌespˈuwzə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#ˌespˈuzə# | Rule 582 : w > ∅ / [+syl,+hi,+round] __ 
+#ˌexpˈuzə# | Rule 594 : s > x / [-cons] __ [+cons]
+#ˌeːpˈuzə# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#ˌeːpˈuzə̯# | Rule 707 : ə > ə̯ / __ #
+#ˌeːpˈuz# | Rule 735 : ə̯ > ∅ 
+#eːpuz# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#epuz# | Rule 753 : [+syl,+long] > [-long,-splng] 

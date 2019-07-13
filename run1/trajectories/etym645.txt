@@ -21,13 +21,13 @@ m ˌɑ n̪ uː ˈo p e r ɑ
 #mˌãn̪ˈyo̯vrə# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #mˌæ̃n̪ˈyo̯vrə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
 #mˌæ̃n̪ˈye̯vrə# | Rule 537 : o̯ > e̯ 
-#mˌãn̪ˈye̯vrə# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#mˌãn̪ˈøːvrə# | Rule 581 : [+hi,+round,+tense,+prim] e̯ > ˈøː
-#mˌãn̪ˈøːvrə̯# | Rule 708 : ə > ə̯ / __ #
-#mˌãn̪ˈøːvr# | Rule 736 : ə̯ > ∅ 
-#mˌãn̪ˈœːvr# | Rule 740 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-#mˌan̪ˈœːvr# | Rule 743 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
-#mˌan̪ˈœːvʀ# | Rule 752 : r > ʀ 
-#man̪œːvʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#man̪œvʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˌãn̪ˈye̯vrə# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#mˌãn̪ˈøːvrə# | Rule 580 : [+hi,+round,+tense,+prim] e̯ > ˈøː
+#mˌãn̪ˈøːvrə̯# | Rule 707 : ə > ə̯ / __ #
+#mˌãn̪ˈøːvr# | Rule 735 : ə̯ > ∅ 
+#mˌãn̪ˈœːvr# | Rule 739 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+#mˌan̪ˈœːvr# | Rule 742 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
+#mˌan̪ˈœːvʀ# | Rule 751 : r > ʀ 
+#man̪œːvʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#man̪œvʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #man̪œvʁ# | Rule 759 : ʀ > ʁ 

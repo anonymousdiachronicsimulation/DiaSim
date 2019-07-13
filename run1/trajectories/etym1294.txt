@@ -18,5 +18,5 @@ w ˌɑ s s e l l ˈi t̪ t̪ u m
 #vˌazlˈet̪t̪# | Rule 482 : s > z / __ [+voi,+cons]
 #vˌazlˈet̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #vˌalˈet̪# | Rule 536 : z > ∅ / __ [+cons]
-#vˌalˈe# | Rule 734 : [-son] > ∅ / __ #
-#vale# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vˌalˈe# | Rule 733 : [-son] > ∅ / __ #
+#vale# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

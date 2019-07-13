@@ -18,9 +18,9 @@ p ˌuː l i k ˈe l l ɑ m
 #pˌʉɫt͡sʲˈɛlə# | Rule 506 : [+lat] > ɫ / __ [+cons]
 #pˌyɫt͡sʲˈɛlə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #pˌyɫt͡sˈɛlə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#pˌywt͡sˈɛlə# | Rule 582 : [+lat,+back] > w 
-#pˌyt͡sˈɛlə# | Rule 583 : w > ∅ / [+syl,+hi,+round] __ 
-#pˌysˈɛlə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#pˌysˈɛlə̯# | Rule 708 : ə > ə̯ / __ #
-#pˌysˈɛl# | Rule 736 : ə̯ > ∅ 
-#pysɛl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pˌywt͡sˈɛlə# | Rule 581 : [+lat,+back] > w 
+#pˌyt͡sˈɛlə# | Rule 582 : w > ∅ / [+syl,+hi,+round] __ 
+#pˌysˈɛlə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#pˌysˈɛlə̯# | Rule 707 : ə > ə̯ / __ #
+#pˌysˈɛl# | Rule 735 : ə̯ > ∅ 
+#pysɛl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

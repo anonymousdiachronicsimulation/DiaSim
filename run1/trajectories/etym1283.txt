@@ -12,8 +12,8 @@ w ˈɑ l l eː s
 #vˈalls# | Rule 442 : β > v 
 #vˈals# | Rule 477 : [+cons] > ∅ / [+cons] __ [-son]
 #vˈaɫs# | Rule 506 : [+lat] > ɫ / __ [+cons]
-#vˈaws# | Rule 582 : [+lat,+back] > w 
-#vˈoːs# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#vˈoː# | Rule 734 : [-son] > ∅ / __ #
-#voː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vo# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˈaws# | Rule 581 : [+lat,+back] > w 
+#vˈoːs# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#vˈoː# | Rule 733 : [-son] > ∅ / __ #
+#voː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vo# | Rule 753 : [+syl,+long] > [-long,-splng] 

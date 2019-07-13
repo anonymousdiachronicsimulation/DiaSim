@@ -16,12 +16,12 @@ m ˌuː r ˈɑː l i ɑ
 #mˌʉrˈaʎa# | Rule 413 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
 #mˌʉrˈaʎə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #mˌyrˈaʎə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#mˌyrˈaːʎə# | Rule 706 : [+lo] > [+long] / __ ʎ ə #
-#mˌyrˈaːʎə̯# | Rule 708 : ə > ə̯ / __ #
-#mˌyrˈɑːʎə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#mˌyrˈɑːʎ# | Rule 736 : ə̯ > ∅ 
-#mˌyʀˈɑːʎ# | Rule 752 : r > ʀ 
-#myʀɑːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#myʀɑʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˌyrˈaːʎə# | Rule 705 : [+lo] > [+long] / __ ʎ ə #
+#mˌyrˈaːʎə̯# | Rule 707 : ə > ə̯ / __ #
+#mˌyrˈɑːʎə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#mˌyrˈɑːʎ# | Rule 735 : ə̯ > ∅ 
+#mˌyʀˈɑːʎ# | Rule 751 : r > ʀ 
+#myʀɑːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#myʀɑʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #myʁɑʎ# | Rule 759 : ʀ > ʁ 
 #myʁɑj# | Rule 760 : ʎ > j 

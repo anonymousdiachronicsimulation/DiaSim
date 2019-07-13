@@ -19,9 +19,9 @@ s ˌɑ n̪ ɡ w i s ˈuː ɡ ɑ m
 #sˌaŋsˈyːə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #sˌãŋsˈyːə# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #sˌæ̃ŋsˈyːə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#sˌãŋsˈyːə# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#sˌãːsˈyːə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#sˌãːsˈyː# | Rule 696 : ə > ∅ / [+syl] __ 
-#sˌɑ̃ːsˈyː# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#sɑ̃ːsyː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sɑ̃sy# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˌãŋsˈyːə# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#sˌãːsˈyːə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#sˌãːsˈyː# | Rule 695 : ə > ∅ / [+syl] __ 
+#sˌɑ̃ːsˈyː# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#sɑ̃ːsyː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sɑ̃sy# | Rule 753 : [+syl,+long] > [-long,-splng] 

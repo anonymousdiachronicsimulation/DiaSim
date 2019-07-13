@@ -11,9 +11,9 @@ k w ˈɑ t̪ t̪ u o r
 #kwˈat̪t̪ə̯r# | Rule 284 : ə > ə̯ 
 #kwˈat̪t̪rə# | Rule 289 : {ə̯ r;ə̯ ɾ} > {r ə;ɾ ə} / __ #
 #kwˈat̪rə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#kˈat̪rə# | Rule 623 : [-syl,+round,+cont] > ∅ / [+back,-cont] __ 
-#kˈat̪rə̯# | Rule 708 : ə > ə̯ / __ #
-#kˈat̪r# | Rule 736 : ə̯ > ∅ 
-#kˈat̪ʀ# | Rule 752 : r > ʀ 
-#kat̪ʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kˈat̪rə# | Rule 622 : [-syl,+round,+cont] > ∅ / [+back,-cont] __ 
+#kˈat̪rə̯# | Rule 707 : ə > ə̯ / __ #
+#kˈat̪r# | Rule 735 : ə̯ > ∅ 
+#kˈat̪ʀ# | Rule 751 : r > ʀ 
+#kat̪ʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #kat̪ʁ# | Rule 759 : ʀ > ʁ 

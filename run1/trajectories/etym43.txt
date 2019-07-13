@@ -19,7 +19,7 @@ Trajectory file for run 'run1'; etymon number :43:
 #ˌamˈiː# | Rule 471 : j > ∅ / [+hi,+front,+tense] __ 
 #ˌãmˈiː# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #ˌæ̃mˈiː# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#ˌãmˈiː# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#ˌamˈiː# | Rule 743 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
-#amiː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ami# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌãmˈiː# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#ˌamˈiː# | Rule 742 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
+#amiː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ami# | Rule 753 : [+syl,+long] > [-long,-splng] 

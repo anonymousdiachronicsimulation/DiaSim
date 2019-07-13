@@ -10,13 +10,13 @@ p ˌe r s ˈoː n̪ ɑ m
 #pˌɨrsˈũːn̪a# | Rule 431 : ˌɛ > ˌɨ / __ [+cor,+cont] [+cor]
 #pˌɛrsˈũːn̪a# | Rule 436 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
 #pˌɛrsˈũːn̪ə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#pˌɛrsˈũːn̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#pˌɛɹsˈũːn̪ə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#pˌɛɹsˈũːn̪# | Rule 736 : ə̯ > ∅ 
-#pˌɛrsˈũːn̪# | Rule 750 : ɹ > r 
-#pˌɛʀsˈũːn̪# | Rule 752 : r > ʀ 
-#pɛʀsũːn̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pɛʀsũn̪# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#pɛʀsɔ̃n̪# | Rule 755 : ũ > ɔ̃ 
-#pɛʀsɔn̪# | Rule 757 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
+#pˌɛrsˈũːn̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#pˌɛɹsˈũːn̪ə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#pˌɛɹsˈũːn̪# | Rule 735 : ə̯ > ∅ 
+#pˌɛrsˈũːn̪# | Rule 749 : ɹ > r 
+#pˌɛʀsˈũːn̪# | Rule 751 : r > ʀ 
+#pɛʀsũːn̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pɛʀsũn̪# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#pɛʀsɔ̃n̪# | Rule 754 : ũ > ɔ̃ 
+#pɛʀsɔn̪# | Rule 756 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
 #pɛʁsɔn̪# | Rule 759 : ʀ > ʁ 

@@ -17,11 +17,11 @@ b r ˌuː k ˈɑ r i ɑ m
 #brˌʉjˈie̯ra# | Rule 382 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
 #brˌʉjˈie̯rə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #brˌyjˈie̯rə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#brˌyjjˈerə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#brˌyjjˈɛrə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#brɥˌijˈɛrə# | Rule 635 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
-#brɥˌijˈɛrə̯# | Rule 708 : ə > ə̯ / __ #
-#brɥˌijˈɛr# | Rule 736 : ə̯ > ∅ 
-#bʀɥˌijˈɛʀ# | Rule 752 : r > ʀ 
-#bʀɥijɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#brˌyjjˈerə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#brˌyjjˈɛrə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#brɥˌijˈɛrə# | Rule 634 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
+#brɥˌijˈɛrə̯# | Rule 707 : ə > ə̯ / __ #
+#brɥˌijˈɛr# | Rule 735 : ə̯ > ∅ 
+#bʀɥˌijˈɛʀ# | Rule 751 : r > ʀ 
+#bʀɥijɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #bʁɥijɛʁ# | Rule 759 : ʀ > ʁ 

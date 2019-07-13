@@ -19,10 +19,10 @@ Trajectory file for run 'run1'; etymon number :35:
 #ˈaːʎa# | Rule 409 : [+prim] > [+long] / __ [+cons] [+syl]
 #ˈaʎa# | Rule 413 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
 #ˈaʎə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#ˈaːʎə# | Rule 706 : [+lo] > [+long] / __ ʎ ə #
-#ˈaːʎə̯# | Rule 708 : ə > ə̯ / __ #
-#ˈɑːʎə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#ˈɑːʎ# | Rule 736 : ə̯ > ∅ 
-#ɑːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ɑʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈaːʎə# | Rule 705 : [+lo] > [+long] / __ ʎ ə #
+#ˈaːʎə̯# | Rule 707 : ə > ə̯ / __ #
+#ˈɑːʎə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#ˈɑːʎ# | Rule 735 : ə̯ > ∅ 
+#ɑːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ɑʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ɑj# | Rule 760 : ʎ > j 

@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :582:
-#lˌeːɡˈɑːlem# >>> #lwɛjal# ( Correct : #lwajal#) :
+#lˌeːɡˈɑːlem# >>> #lwajal# ( Correct : #lwajal#) :
 l ˌeː ɡ ˈɑː l e m 
 #lˌeːɡˈɑːlɛm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
 #lˌeɡˈɑlɛm# | Rule 58 : [+syl,+long] > [-long,-splng] 
@@ -14,6 +14,7 @@ l ˌeː ɡ ˈɑː l e m
 #lˌejˈaːl# | Rule 308 : ə̯ > ∅ 
 #lˌejˈal# | Rule 418 : ˈaː > ˈa / [+cont] [-syl,+son] __ l #
 #lˌojˈal# | Rule 545 : [+front,+tense,-hi,-lo,+syl] > [+back,-front,+round,+lab] / __ j
-#lˌujˈal# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#lwˌɛjˈal# | Rule 631 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
-#lwɛjal# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lˌujˈal# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#lwˌɛjˈal# | Rule 630 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
+#lwɛjal# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lwajal# | Rule 758 : ɛ > a / w __ 

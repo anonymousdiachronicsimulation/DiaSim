@@ -19,9 +19,9 @@ l ˈa e̯ t̪ i t̪ i ɑ
 #lˈie̯t̪t͡sʲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #lˈie̯t͡sʲə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #lˈie̯t͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#ljˈet͡sə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#ljˈɛt͡sə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#ljˈɛsə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ljˈɛsə̯# | Rule 708 : ə > ə̯ / __ #
-#ljˈɛs# | Rule 736 : ə̯ > ∅ 
-#ljɛs# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ljˈet͡sə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#ljˈɛt͡sə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#ljˈɛsə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ljˈɛsə̯# | Rule 707 : ə > ə̯ / __ #
+#ljˈɛs# | Rule 735 : ə̯ > ∅ 
+#ljɛs# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

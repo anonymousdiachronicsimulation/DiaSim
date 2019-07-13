@@ -19,10 +19,10 @@ f ˌe b r u ˈɑː r i u m
 #fˌɛβrˈie̯r# | Rule 382 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
 #fˌeβrˈie̯r# | Rule 432 : ˌɛ > ˌe / __ @ @
 #fˌevrˈie̯r# | Rule 442 : β > v 
-#fˌevrjˈer# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#fˌevrijˈer# | Rule 716 : ∅ > i / [+cons] [+ant,+son] __ j [+front,-hi,-lo,+tense,-round,+syl]
-#fˌevrijˈeɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#fˌevrijˈe# | Rule 748 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
-#fˌevʀijˈe# | Rule 752 : r > ʀ 
-#fevʀije# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fˌevrjˈer# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#fˌevrijˈer# | Rule 715 : ∅ > i / [+cons] [+ant,+son] __ j [+front,-hi,-lo,+tense,-round,+syl]
+#fˌevrijˈeɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#fˌevrijˈe# | Rule 747 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+#fˌevʀijˈe# | Rule 751 : r > ʀ 
+#fevʀije# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #fevʁije# | Rule 759 : ʀ > ʁ 

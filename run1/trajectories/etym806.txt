@@ -12,14 +12,14 @@ p ˌɑ l p ˈe t̪ r ɑ m
 #pˌaɫpˈie̯d̪ra# | Rule 361 : [-voi,-delrel,+ant] > [+voi] / [-cons] __ [+cor,+son,-nas]
 #pˌaɫpˈie̯ðra# | Rule 386 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
 #pˌaɫpˈie̯ðrə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#pˌawpˈie̯ðrə# | Rule 582 : [+lat,+back] > w 
-#pˌawpjˈeðrə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#pˌawpjˈerə# | Rule 608 : {θ;ð} > {∅;∅} 
-#pˌawpjˈɛrə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#pˌoːpjˈɛrə# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#pˌoːpjˈɛrə̯# | Rule 708 : ə > ə̯ / __ #
-#pˌoːpjˈɛr# | Rule 736 : ə̯ > ∅ 
-#pˌoːpjˈɛʀ# | Rule 752 : r > ʀ 
-#poːpjɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#popjɛʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˌawpˈie̯ðrə# | Rule 581 : [+lat,+back] > w 
+#pˌawpjˈeðrə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#pˌawpjˈerə# | Rule 607 : {θ;ð} > {∅;∅} 
+#pˌawpjˈɛrə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#pˌoːpjˈɛrə# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#pˌoːpjˈɛrə̯# | Rule 707 : ə > ə̯ / __ #
+#pˌoːpjˈɛr# | Rule 735 : ə̯ > ∅ 
+#pˌoːpjˈɛʀ# | Rule 751 : r > ʀ 
+#poːpjɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#popjɛʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #popjɛʁ# | Rule 759 : ʀ > ʁ 

@@ -19,10 +19,10 @@ b r ˌi t̪ t̪ ˈɑ n̪ i ɑ m
 #brˌet̪ˈãɲə# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #brˌət̪ˈãɲə# | Rule 514 : ˌe > ˌə / __ ( [+cons] ) [+lo,+prim]
 #brˌət̪ˈæ̃ɲə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#brˌət̪ˈãɲə# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#brˌət̪ˈãɲə̯# | Rule 708 : ə > ə̯ / __ #
-#brˌət̪ˈãɲ# | Rule 736 : ə̯ > ∅ 
-#bʀˌət̪ˈãɲ# | Rule 752 : r > ʀ 
-#bʀət̪ãɲ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#bʀət̪aɲ# | Rule 757 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
+#brˌət̪ˈãɲə# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#brˌət̪ˈãɲə̯# | Rule 707 : ə > ə̯ / __ #
+#brˌət̪ˈãɲ# | Rule 735 : ə̯ > ∅ 
+#bʀˌət̪ˈãɲ# | Rule 751 : r > ʀ 
+#bʀət̪ãɲ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bʀət̪aɲ# | Rule 756 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
 #bʁət̪aɲ# | Rule 759 : ʀ > ʁ 

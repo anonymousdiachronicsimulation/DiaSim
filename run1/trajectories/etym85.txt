@@ -14,10 +14,10 @@ Trajectory file for run 'run1'; etymon number :85:
 #ˌajˈowla# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #ˌajˈowlə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #ˌajˈewlə# | Rule 544 : ˈo > ˈe / __ w
-#ˌajˈøwlə# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#ˌajˈøːlə# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#ˌajˈøːlə̯# | Rule 708 : ə > ə̯ / __ #
-#ˌajˈøːl# | Rule 736 : ə̯ > ∅ 
-#ˌajˈœːl# | Rule 740 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-#ajœːl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ajœl# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌajˈøwlə# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#ˌajˈøːlə# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#ˌajˈøːlə̯# | Rule 707 : ə > ə̯ / __ #
+#ˌajˈøːl# | Rule 735 : ə̯ > ∅ 
+#ˌajˈœːl# | Rule 739 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+#ajœːl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ajœl# | Rule 753 : [+syl,+long] > [-long,-splng] 

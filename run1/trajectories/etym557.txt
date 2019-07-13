@@ -20,13 +20,13 @@ l ˈɑ k r i m ɑ m
 #lˈae̯jrma# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #lˈajrma# | Rule 425 : e̯ > ∅ / ˈa __ [+front,+son,-syl]
 #lˈajrmə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#lˈɛjrmə# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#lˈɛːrmə# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#lˈɛːrmə̯# | Rule 708 : ə > ə̯ / __ #
-#lˈɛːɹmə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#lˈɛːɹm# | Rule 736 : ə̯ > ∅ 
-#lˈɛːrm# | Rule 750 : ɹ > r 
-#lˈɛːʀm# | Rule 752 : r > ʀ 
-#lɛːʀm# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#lɛʀm# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#lˈɛjrmə# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#lˈɛːrmə# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#lˈɛːrmə̯# | Rule 707 : ə > ə̯ / __ #
+#lˈɛːɹmə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#lˈɛːɹm# | Rule 735 : ə̯ > ∅ 
+#lˈɛːrm# | Rule 749 : ɹ > r 
+#lˈɛːʀm# | Rule 751 : r > ʀ 
+#lɛːʀm# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lɛʀm# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #lɛʁm# | Rule 759 : ʀ > ʁ 

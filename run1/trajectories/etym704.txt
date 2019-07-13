@@ -15,10 +15,10 @@ m ˈoː b i l e m
 #mˈoːblə# | Rule 314 : β > b / __ l
 #mˈowblə# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #mˈewblə# | Rule 544 : ˈo > ˈe / __ w
-#mˈøwblə# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#mˈøːblə# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#mˈøːblə̯# | Rule 708 : ə > ə̯ / __ #
-#mˈøːbl# | Rule 736 : ə̯ > ∅ 
-#mˈœːbl# | Rule 740 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-#mœːbl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mœbl# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˈøwblə# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#mˈøːblə# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#mˈøːblə̯# | Rule 707 : ə > ə̯ / __ #
+#mˈøːbl# | Rule 735 : ə̯ > ∅ 
+#mˈœːbl# | Rule 739 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+#mœːbl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mœbl# | Rule 753 : [+syl,+long] > [-long,-splng] 

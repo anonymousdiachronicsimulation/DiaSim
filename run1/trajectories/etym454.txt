@@ -17,14 +17,14 @@ k ˌe r t̪ ˈɑː n̪ ɑ m
 #t͡sʲˌɛrt̪ˈaj̃n̪ə# | Rule 509 : j > j̃ / [+lo] __ [+nas,-syl]
 #t͡sʲˌɛrt̪ˈãj̃n̪ə# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #t͡sˌɛrt̪ˈãj̃n̪ə# | Rule 549 : t͡sʲ > t͡s / # __ 
-#t͡sˌɛrt̪ˈɛ̃j̃n̪ə# | Rule 588 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
-#sˌɛrt̪ˈɛ̃j̃n̪ə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˌɛrt̪ˈɛ̃n̪ə# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#sˌɛrt̪ˈɛn̪ə# | Rule 684 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
-#sˌɛrt̪ˈɛn̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#sˌɛɹt̪ˈɛn̪ə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#sˌɛɹt̪ˈɛn̪# | Rule 736 : ə̯ > ∅ 
-#sˌɛrt̪ˈɛn̪# | Rule 750 : ɹ > r 
-#sˌɛʀt̪ˈɛn̪# | Rule 752 : r > ʀ 
-#sɛʀt̪ɛn̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡sˌɛrt̪ˈɛ̃j̃n̪ə# | Rule 587 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
+#sˌɛrt̪ˈɛ̃j̃n̪ə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˌɛrt̪ˈɛ̃n̪ə# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#sˌɛrt̪ˈɛn̪ə# | Rule 683 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+#sˌɛrt̪ˈɛn̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#sˌɛɹt̪ˈɛn̪ə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#sˌɛɹt̪ˈɛn̪# | Rule 735 : ə̯ > ∅ 
+#sˌɛrt̪ˈɛn̪# | Rule 749 : ɹ > r 
+#sˌɛʀt̪ˈɛn̪# | Rule 751 : r > ʀ 
+#sɛʀt̪ɛn̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #sɛʁt̪ɛn̪# | Rule 759 : ʀ > ʁ 

@@ -14,8 +14,8 @@ m ˈɑ s k u l u m
 #mˈazlə# | Rule 482 : s > z / __ [+voi,+cons]
 #mˈaːzlə# | Rule 533 : [+prim] > [+long] / @ __ z [+cons]
 #mˈaːlə# | Rule 536 : z > ∅ / __ [+cons]
-#mˈaːlə̯# | Rule 708 : ə > ə̯ / __ #
-#mˈɑːlə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#mˈɑːl# | Rule 736 : ə̯ > ∅ 
-#mɑːl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mɑl# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˈaːlə̯# | Rule 707 : ə > ə̯ / __ #
+#mˈɑːlə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#mˈɑːl# | Rule 735 : ə̯ > ∅ 
+#mɑːl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mɑl# | Rule 753 : [+syl,+long] > [-long,-splng] 

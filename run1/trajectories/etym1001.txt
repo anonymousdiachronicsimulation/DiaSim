@@ -19,17 +19,17 @@ r ˌe d̪ ˌe m p t̪ i ˈoː n̪ e m
 #rˌəðˌemt͡sʲˈũːn̪# | Rule 513 : ˌe > ˌə / # [+son] __ ( [+cons] ) [+syl]
 #rˌəðˌẽmt͡sʲˈũːn̪# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #rˌəðˌɛ̃mt͡sʲˈũːn̪# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#rˌəðˌãmt͡sʲˈũːn̪# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#rˌəˌãmt͡sʲˈũːn̪# | Rule 608 : {θ;ð} > {∅;∅} 
-#rˌəˌãmsʲˈũːn̪# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#rˌəˌãːsʲˈũːn̪# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#rˌəˌãːsʲˈũː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#rˌəˌãːsˈũː# | Rule 673 : {sʲ;d̪ʲ;t̪ʲ} > {s;d̪;t̪} 
-#rˌaˌãːsˈũː# | Rule 690 : ˌə > ˌa / __ [+lo,+stres]
-#rˌãːsˈũː# | Rule 697 : [+lo] [+lo] > ∅ [+long]
-#rˌɑ̃ːsˈũː# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#ʀˌɑ̃ːsˈũː# | Rule 752 : r > ʀ 
-#ʀɑ̃ːsũː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀɑ̃sũ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#ʀɑ̃sɔ̃# | Rule 755 : ũ > ɔ̃ 
+#rˌəðˌãmt͡sʲˈũːn̪# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#rˌəˌãmt͡sʲˈũːn̪# | Rule 607 : {θ;ð} > {∅;∅} 
+#rˌəˌãmsʲˈũːn̪# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#rˌəˌãːsʲˈũːn̪# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#rˌəˌãːsʲˈũː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#rˌəˌãːsˈũː# | Rule 672 : {sʲ;d̪ʲ;t̪ʲ} > {s;d̪;t̪} 
+#rˌaˌãːsˈũː# | Rule 689 : ˌə > ˌa / __ [+lo,+stres]
+#rˌãːsˈũː# | Rule 696 : [+lo] [+lo] > ∅ [+long]
+#rˌɑ̃ːsˈũː# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#ʀˌɑ̃ːsˈũː# | Rule 751 : r > ʀ 
+#ʀɑ̃ːsũː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀɑ̃sũ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#ʀɑ̃sɔ̃# | Rule 754 : ũ > ɔ̃ 
 #ʁɑ̃sɔ̃# | Rule 759 : ʀ > ʁ 

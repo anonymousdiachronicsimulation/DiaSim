@@ -10,10 +10,10 @@ p ˈɑ r e m
 #pˈaːr# | Rule 308 : ə̯ > ∅ 
 #pˈae̯r# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #pˈeːr# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#pˈɛːr# | Rule 686 : [-hi,-lo,+syl,+front,-round] > [-tense,-cons,-lat,+cont,0delrel] / # ( [-syl] )* __ r #
-#pˈɛːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#pˈɛːr# | Rule 750 : ɹ > r 
-#pˈɛːʀ# | Rule 752 : r > ʀ 
-#pɛːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pɛʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˈɛːr# | Rule 685 : [-hi,-lo,+syl,+front,-round] > [-tense,-cons,-lat,+cont,0delrel] / # ( [-syl] )* __ r #
+#pˈɛːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#pˈɛːr# | Rule 749 : ɹ > r 
+#pˈɛːʀ# | Rule 751 : r > ʀ 
+#pɛːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pɛʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #pɛʁ# | Rule 759 : ʀ > ʁ 

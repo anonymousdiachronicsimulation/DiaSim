@@ -11,9 +11,9 @@ m ˈɑ n̪ uː s
 #mˈan̪s# | Rule 363 : [+syl] > [-long,-splng] / __ [-syl] [+cons,-son]
 #mˈãn̪s# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #mˈæ̃n̪s# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#mˈãn̪s# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#mˈãːs# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#mˈɑ̃ːs# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#mˈɑ̃ː# | Rule 734 : [-son] > ∅ / __ #
-#mɑ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mɑ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˈãn̪s# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#mˈãːs# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#mˈɑ̃ːs# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#mˈɑ̃ː# | Rule 733 : [-son] > ∅ / __ #
+#mɑ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mɑ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 

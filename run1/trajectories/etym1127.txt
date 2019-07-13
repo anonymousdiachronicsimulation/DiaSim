@@ -10,12 +10,12 @@ s ˈo r o r
 #sˈʉo̯rrə# | Rule 289 : {ə̯ r;ə̯ ɾ} > {r ə;ɾ ə} / __ #
 #sˈyo̯rrə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #sˈye̯rrə# | Rule 537 : o̯ > e̯ 
-#sˈøːrrə# | Rule 581 : [+hi,+round,+tense,+prim] e̯ > ˈøː
-#sˈøːrə# | Rule 605 : r r > r 
-#sˈøːrə̯# | Rule 708 : ə > ə̯ / __ #
-#sˈøːr# | Rule 736 : ə̯ > ∅ 
-#sˈœːr# | Rule 739 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
-#sˈœːʀ# | Rule 752 : r > ʀ 
-#sœːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sœʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˈøːrrə# | Rule 580 : [+hi,+round,+tense,+prim] e̯ > ˈøː
+#sˈøːrə# | Rule 604 : r r > r 
+#sˈøːrə̯# | Rule 707 : ə > ə̯ / __ #
+#sˈøːr# | Rule 735 : ə̯ > ∅ 
+#sˈœːr# | Rule 738 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
+#sˈœːʀ# | Rule 751 : r > ʀ 
+#sœːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sœʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #sœʁ# | Rule 759 : ʀ > ʁ 

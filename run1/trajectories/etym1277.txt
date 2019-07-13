@@ -6,11 +6,11 @@ Trajectory file for run 'run1'; etymon number :1277:
 #ˈorsɑ# | Rule 74 : [+nas,+cons] > ∅ / [-stres] __ #
 #ˈorsa# | Rule 205 : [+lo] > [+front,-back] 
 #ˈorsə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#ˈursə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#ˈursə̯# | Rule 708 : ə > ə̯ / __ #
-#ˈuɹsə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#ˈuɹs# | Rule 736 : ə̯ > ∅ 
-#ˈurs# | Rule 750 : ɹ > r 
-#ˈuʀs# | Rule 752 : r > ʀ 
-#uʀs# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ˈursə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#ˈursə̯# | Rule 707 : ə > ə̯ / __ #
+#ˈuɹsə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#ˈuɹs# | Rule 735 : ə̯ > ∅ 
+#ˈurs# | Rule 749 : ɹ > r 
+#ˈuʀs# | Rule 751 : r > ʀ 
+#uʀs# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #uʁs# | Rule 759 : ʀ > ʁ 

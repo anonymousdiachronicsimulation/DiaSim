@@ -16,7 +16,7 @@ k ˈa e̯ l u m
 #t͡sʲˈie̯lə̯# | Rule 284 : ə > ə̯ 
 #t͡sʲˈie̯l# | Rule 308 : ə̯ > ∅ 
 #t͡sˈie̯l# | Rule 549 : t͡sʲ > t͡s / # __ 
-#t͡sjˈel# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#t͡sjˈɛl# | Rule 616 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+lat] #
-#sjˈɛl# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sjɛl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡sjˈel# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#t͡sjˈɛl# | Rule 615 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+lat] #
+#sjˈɛl# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sjɛl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

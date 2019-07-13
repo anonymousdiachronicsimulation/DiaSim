@@ -16,9 +16,9 @@ p ˌu l l ˈɑː m e n̪
 #pˌolˈaj̃m# | Rule 509 : j > j̃ / [+lo] __ [+nas,-syl]
 #pˌolˈãj̃m# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #pˌolˈãj̃n̪# | Rule 543 : m > n̪ / [-cons] __ #
-#pˌulˈãj̃n̪# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#pˌulˈɛ̃j̃n̪# | Rule 588 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
-#pˌulˈɛ̃n̪# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#pˌulˈɛ̃ː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#pulɛ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pulɛ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˌulˈãj̃n̪# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#pˌulˈɛ̃j̃n̪# | Rule 587 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
+#pˌulˈɛ̃n̪# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#pˌulˈɛ̃ː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#pulɛ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pulɛ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 

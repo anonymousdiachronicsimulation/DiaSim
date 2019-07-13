@@ -11,7 +11,7 @@ Trajectory file for run 'run1'; etymon number :315:
 #ɡlˈat̪t͡sʲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #ɡlˈat͡sʲə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #ɡlˈat͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#ɡlˈasə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ɡlˈasə̯# | Rule 708 : ə > ə̯ / __ #
-#ɡlˈas# | Rule 736 : ə̯ > ∅ 
-#ɡlas# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ɡlˈasə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ɡlˈasə̯# | Rule 707 : ə > ə̯ / __ #
+#ɡlˈas# | Rule 735 : ə̯ > ∅ 
+#ɡlas# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

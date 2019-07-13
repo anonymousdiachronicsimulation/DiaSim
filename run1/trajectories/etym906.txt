@@ -16,12 +16,12 @@ p l ˌɑ n̪ t̪ i ˈoː n̪ e m
 #plˌan̪t͡sʲˈũːn̪# | Rule 308 : ə̯ > ∅ 
 #plˌãn̪t͡sʲˈũːn̪# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #plˌæ̃n̪t͡sʲˈũːn̪# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#plˌãn̪t͡sʲˈũːn̪# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#plˌãn̪sʲˈũːn̪# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#plˌãːsʲˈũːn̪# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#plˌãːsʲˈũː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#plˌãːsˈũː# | Rule 673 : {sʲ;d̪ʲ;t̪ʲ} > {s;d̪;t̪} 
-#plˌɑ̃ːsˈũː# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#plɑ̃ːsũː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#plɑ̃sũ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#plɑ̃sɔ̃# | Rule 755 : ũ > ɔ̃ 
+#plˌãn̪t͡sʲˈũːn̪# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#plˌãn̪sʲˈũːn̪# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#plˌãːsʲˈũːn̪# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#plˌãːsʲˈũː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#plˌãːsˈũː# | Rule 672 : {sʲ;d̪ʲ;t̪ʲ} > {s;d̪;t̪} 
+#plˌɑ̃ːsˈũː# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#plɑ̃ːsũː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#plɑ̃sũ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#plɑ̃sɔ̃# | Rule 754 : ũ > ɔ̃ 

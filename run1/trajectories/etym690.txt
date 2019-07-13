@@ -17,11 +17,11 @@ m ˌe r k ˈeː d̪ e m
 #mˌɛrt͡sʲˈiːð# | Rule 436 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
 #mˌɛrt͡sʲˈiːθ# | Rule 450 : [-son] > [-voi] / __ #
 #mˌɛrt͡sˈiːθ# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#mˌɛrt͡sˈiː# | Rule 608 : {θ;ð} > {∅;∅} 
-#mˌɛrsˈiː# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#mˌɛɹsˈiː# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#mˌɛrsˈiː# | Rule 750 : ɹ > r 
-#mˌɛʀsˈiː# | Rule 752 : r > ʀ 
-#mɛʀsiː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mɛʀsi# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˌɛrt͡sˈiː# | Rule 607 : {θ;ð} > {∅;∅} 
+#mˌɛrsˈiː# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#mˌɛɹsˈiː# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#mˌɛrsˈiː# | Rule 749 : ɹ > r 
+#mˌɛʀsˈiː# | Rule 751 : r > ʀ 
+#mɛʀsiː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mɛʀsi# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #mɛʁsi# | Rule 759 : ʀ > ʁ 

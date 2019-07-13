@@ -12,11 +12,11 @@ r ˈe t̪ i n̪ ɑ m
 #rˈɛzn̪ə# | Rule 530 : ð > z / r [+syl] __ n̪
 #rˈɛːzn̪ə# | Rule 533 : [+prim] > [+long] / @ __ z [+cons]
 #rˈɛːn̪ə# | Rule 536 : z > ∅ / __ [+cons]
-#rˈɛ̃ːn̪ə# | Rule 628 : [+syl,-hi] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#rˈɛːn̪ə# | Rule 684 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
-#rˈɛːn̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#rˈɛːn̪# | Rule 736 : ə̯ > ∅ 
-#ʀˈɛːn̪# | Rule 752 : r > ʀ 
-#ʀɛːn̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀɛn̪# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#rˈɛ̃ːn̪ə# | Rule 627 : [+syl,-hi] > [+nas,+son,0delrel] / __ [+nas,-syl]
+#rˈɛːn̪ə# | Rule 683 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+#rˈɛːn̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#rˈɛːn̪# | Rule 735 : ə̯ > ∅ 
+#ʀˈɛːn̪# | Rule 751 : r > ʀ 
+#ʀɛːn̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀɛn̪# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ʁɛn̪# | Rule 759 : ʀ > ʁ 

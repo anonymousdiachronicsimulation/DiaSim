@@ -16,10 +16,10 @@ k ˌɑː n̪ ˈuː t̪ ɑ m
 #t͡ʃˌen̪ˈʉːðə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #t͡ʃˌen̪ˈyːðə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #t͡ʃˌən̪ˈyːðə# | Rule 511 : ˌe > ˌə / t͡ʃ __ ( [+cons] ) [+syl]
-#t͡ʃˌən̪ˈyːə# | Rule 608 : {θ;ð} > {∅;∅} 
-#t͡ʃˌə̃n̪ˈyːə# | Rule 627 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#ʃˌə̃n̪ˈyːə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˌən̪ˈyːə# | Rule 654 : {ə̃;ˌə̃} > {ə;ˌə} 
-#ʃˌən̪ˈyː# | Rule 696 : ə > ∅ / [+syl] __ 
-#ʃən̪yː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʃən̪y# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t͡ʃˌən̪ˈyːə# | Rule 607 : {θ;ð} > {∅;∅} 
+#t͡ʃˌə̃n̪ˈyːə# | Rule 626 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
+#ʃˌə̃n̪ˈyːə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˌən̪ˈyːə# | Rule 653 : {ə̃;ˌə̃} > {ə;ˌə} 
+#ʃˌən̪ˈyː# | Rule 695 : ə > ∅ / [+syl] __ 
+#ʃən̪yː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʃən̪y# | Rule 753 : [+syl,+long] > [-long,-splng] 

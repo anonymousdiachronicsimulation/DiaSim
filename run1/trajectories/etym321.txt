@@ -14,10 +14,10 @@ Trajectory file for run 'run1'; etymon number :321:
 #ɡrˈajn̪# | Rule 443 : e̯ > j / [+lo,+stres] __ [+nas,+cons,-hi]
 #ɡrˈaj̃n̪# | Rule 509 : j > j̃ / [+lo] __ [+nas,-syl]
 #ɡrˈãj̃n̪# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#ɡrˈɛ̃j̃n̪# | Rule 588 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
-#ɡrˈɛ̃n̪# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#ɡrˈɛ̃ː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#ɡʀˈɛ̃ː# | Rule 752 : r > ʀ 
-#ɡʀɛ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ɡʀɛ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ɡrˈɛ̃j̃n̪# | Rule 587 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
+#ɡrˈɛ̃n̪# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#ɡrˈɛ̃ː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#ɡʀˈɛ̃ː# | Rule 751 : r > ʀ 
+#ɡʀɛ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ɡʀɛ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ɡʁɛ̃# | Rule 759 : ʀ > ʁ 

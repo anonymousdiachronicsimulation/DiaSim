@@ -19,9 +19,9 @@ w ˌe r r ˈuː k ɑ m
 #vˌerrˈʉːa# | Rule 442 : β > v 
 #vˌerrˈʉːə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #vˌerrˈyːə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#vˌerˈyːə# | Rule 605 : r r > r 
-#vˌerˈyː# | Rule 696 : ə > ∅ / [+syl] __ 
-#vˌeʀˈyː# | Rule 752 : r > ʀ 
-#veʀyː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#veʀy# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˌerˈyːə# | Rule 604 : r r > r 
+#vˌerˈyː# | Rule 695 : ə > ∅ / [+syl] __ 
+#vˌeʀˈyː# | Rule 751 : r > ʀ 
+#veʀyː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#veʀy# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #veʁy# | Rule 759 : ʀ > ʁ 

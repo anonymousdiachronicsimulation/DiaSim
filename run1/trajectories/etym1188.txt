@@ -10,9 +10,9 @@ t̪ ˈɑ n̪ t̪ u m
 #t̪ˈan̪t̪# | Rule 308 : ə̯ > ∅ 
 #t̪ˈãn̪t̪# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #t̪ˈæ̃n̪t̪# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#t̪ˈãn̪t̪# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#t̪ˈãːt̪# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#t̪ˈɑ̃ːt̪# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#t̪ˈɑ̃ː# | Rule 734 : [-son] > ∅ / __ #
-#t̪ɑ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#t̪ɑ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t̪ˈãn̪t̪# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#t̪ˈãːt̪# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#t̪ˈɑ̃ːt̪# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#t̪ˈɑ̃ː# | Rule 733 : [-son] > ∅ / __ #
+#t̪ɑ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ɑ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 

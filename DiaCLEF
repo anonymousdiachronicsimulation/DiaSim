@@ -1954,7 +1954,8 @@ $ CORRECTION: word-initial /k/ voices when before r,l and then followed by a (re
 	$ by placing it here, we also do not accidentally hit as that become o later, and do not trigger the shift:
 		$ i.e. clavem > clef, clavum > clou
 	$ ... or those that become ae̯ : clarum > cler, etc. 
-k > ɡ / # __ [+cor,+son] [+lo]
+$ note currently suppressed for demonstration
+$ k > ɡ / # __ [+cor,+son] [+lo]
 
 $ CORRECTION : ˌo opens before r,l then stressed a or ɛ or ə 
 $ CORRECTION : first one is counterfed by ae > eː -- moved down past s231-3

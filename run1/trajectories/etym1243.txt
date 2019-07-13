@@ -1,14 +1,15 @@
 Trajectory file for run 'run1'; etymon number :1243:
-#t̪rˈeːs# >>> #t̪ʁwɛ# ( Correct : #t̪ʁwa#) :
+#t̪rˈeːs# >>> #t̪ʁwa# ( Correct : #t̪ʁwa#) :
 t̪ r ˈeː s 
 #t̪rˈes# | Rule 58 : [+syl,+long] > [-long,-splng] 
 #t̪rˈeːs# | Rule 119 : [+prim] > [+long] / # ( [-syl] )* __ [+cons] #
 #t̪rˈejs# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #t̪rˈojs# | Rule 545 : [+front,+tense,-hi,-lo,+syl] > [+back,-front,+round,+lab] / __ j
-#t̪rˈujs# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#t̪rˈuɛ̯s# | Rule 632 : j > ɛ̯ / [+syl,+back,+round] __ 
-#t̪rwˈɛs# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#t̪rwˈɛ# | Rule 734 : [-son] > ∅ / __ #
-#t̪ʀwˈɛ# | Rule 752 : r > ʀ 
-#t̪ʀwɛ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#t̪ʁwɛ# | Rule 759 : ʀ > ʁ 
+#t̪rˈujs# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#t̪rˈuɛ̯s# | Rule 631 : j > ɛ̯ / [+syl,+back,+round] __ 
+#t̪rwˈɛs# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#t̪rwˈɛ# | Rule 733 : [-son] > ∅ / __ #
+#t̪ʀwˈɛ# | Rule 751 : r > ʀ 
+#t̪ʀwɛ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ʀwa# | Rule 758 : ɛ > a / w __ 
+#t̪ʁwa# | Rule 759 : ʀ > ʁ 

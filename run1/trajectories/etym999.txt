@@ -17,11 +17,11 @@ r ˌɑ t̪ i ˈoː n̪ e m
 #rˌad͡zʲˈũːn̪# | Rule 360 : [-voi] > [+voi] / [-cons] __ [-cons]
 #rˌajd͡zˈũːn̪# | Rule 396 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z} / [-cons] __ 
 #rˌajzˈũːn̪# | Rule 401 : d͡z > z / [-cons] __ [-cons]
-#rˌɛjzˈũːn̪# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#rˌɛːzˈũːn̪# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#rˌɛːzˈũː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#ʀˌɛːzˈũː# | Rule 752 : r > ʀ 
-#ʀɛːzũː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀɛzũ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#ʀɛzɔ̃# | Rule 755 : ũ > ɔ̃ 
+#rˌɛjzˈũːn̪# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#rˌɛːzˈũːn̪# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#rˌɛːzˈũː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#ʀˌɛːzˈũː# | Rule 751 : r > ʀ 
+#ʀɛːzũː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀɛzũ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#ʀɛzɔ̃# | Rule 754 : ũ > ɔ̃ 
 #ʁɛzɔ̃# | Rule 759 : ʀ > ʁ 

@@ -18,8 +18,8 @@ Trajectory file for run 'run1'; etymon number :789:
 #ˈʉo̯ʎ# | Rule 384 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
 #ˈyo̯ʎ# | Rule 508 : [+hi,+round,-back] > [+front] 
 #ˈye̯ʎ# | Rule 537 : o̯ > e̯ 
-#ˈøːʎ# | Rule 581 : [+hi,+round,+tense,+prim] e̯ > ˈøː
-#ˈœːʎ# | Rule 740 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-#œːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#œʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈøːʎ# | Rule 580 : [+hi,+round,+tense,+prim] e̯ > ˈøː
+#ˈœːʎ# | Rule 739 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+#œːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#œʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #œj# | Rule 760 : ʎ > j 

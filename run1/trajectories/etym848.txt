@@ -17,9 +17,9 @@ p ˈe k t̪ i n̪ e m
 #pˈeɲə# | Rule 448 : ɲ > ∅ / __ ɲ
 #pˈẽɲə# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #pˈɛ̃ɲə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#pˈɛ̃j̃ɲə# | Rule 569 : ∅ > j̃ / [-hi,-lo,-round,+stres] __ ɲ [+syl]
-#pˈɛ̃ɲə# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#pˈɛɲə# | Rule 684 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
-#pˈɛɲə̯# | Rule 708 : ə > ə̯ / __ #
-#pˈɛɲ# | Rule 736 : ə̯ > ∅ 
-#pɛɲ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pˈɛ̃j̃ɲə# | Rule 568 : ∅ > j̃ / [-hi,-lo,-round,+stres] __ ɲ [+syl]
+#pˈɛ̃ɲə# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#pˈɛɲə# | Rule 683 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+#pˈɛɲə̯# | Rule 707 : ə > ə̯ / __ #
+#pˈɛɲ# | Rule 735 : ə̯ > ∅ 
+#pɛɲ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

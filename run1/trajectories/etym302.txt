@@ -9,8 +9,8 @@ f ˈuː s t̪ e m
 #fˈʉst̪ə̯# | Rule 284 : ə > ə̯ 
 #fˈʉst̪# | Rule 308 : ə̯ > ∅ 
 #fˈyst̪# | Rule 508 : [+hi,+round,-back] > [+front] 
-#fˈyxt̪# | Rule 595 : s > x / [-cons] __ [+cons]
-#fˈyːt̪# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#fˈyː# | Rule 734 : [-son] > ∅ / __ #
-#fyː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fy# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˈyxt̪# | Rule 594 : s > x / [-cons] __ [+cons]
+#fˈyːt̪# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#fˈyː# | Rule 733 : [-son] > ∅ / __ #
+#fyː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fy# | Rule 753 : [+syl,+long] > [-long,-splng] 

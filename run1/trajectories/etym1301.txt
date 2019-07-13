@@ -19,16 +19,16 @@ w ˌeː n̪ ɑː t̪ ˈoː r e m
 #vˌen̪əðˈowr# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #vˌən̪əðˈowr# | Rule 512 : ˌe > ˌə / v __ ( [+cons] ) [+syl]
 #vˌən̪əðˈewr# | Rule 544 : ˈo > ˈe / __ w
-#vˌən̪əˈewr# | Rule 608 : {θ;ð} > {∅;∅} 
-#vˌən̪əˈøwr# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#vˌən̪əˈøːr# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#vˌə̃n̪əˈøːr# | Rule 627 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#vˌən̪əˈøːr# | Rule 654 : {ə̃;ˌə̃} > {ə;ˌə} 
-#vˌən̪əˈœːr# | Rule 687 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
-#vˌən̪ˈœːr# | Rule 694 : [+syl,-front,-back] > ∅ / __ ( w ) [+syl]
-#vˌən̪ˈœːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#vˌən̪ˈœːr# | Rule 750 : ɹ > r 
-#vˌən̪ˈœːʀ# | Rule 752 : r > ʀ 
-#vən̪œːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vən̪œʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˌən̪əˈewr# | Rule 607 : {θ;ð} > {∅;∅} 
+#vˌən̪əˈøwr# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#vˌən̪əˈøːr# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#vˌə̃n̪əˈøːr# | Rule 626 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
+#vˌən̪əˈøːr# | Rule 653 : {ə̃;ˌə̃} > {ə;ˌə} 
+#vˌən̪əˈœːr# | Rule 686 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
+#vˌən̪ˈœːr# | Rule 693 : [+syl,-front,-back] > ∅ / __ ( w ) [+syl]
+#vˌən̪ˈœːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#vˌən̪ˈœːr# | Rule 749 : ɹ > r 
+#vˌən̪ˈœːʀ# | Rule 751 : r > ʀ 
+#vən̪œːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vən̪œʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #vən̪œʁ# | Rule 759 : ʀ > ʁ 

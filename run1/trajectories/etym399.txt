@@ -12,10 +12,10 @@ k ˈɑ l w ɑ m
 #t͡ʃˈaɫβa# | Rule 263 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
 #t͡ʃˈaɫva# | Rule 442 : β > v 
 #t͡ʃˈaɫvə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#t͡ʃˈawvə# | Rule 582 : [+lat,+back] > w 
-#ʃˈawvə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˈoːvə# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#ʃˈoːvə̯# | Rule 708 : ə > ə̯ / __ #
-#ʃˈoːv# | Rule 736 : ə̯ > ∅ 
-#ʃoːv# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʃov# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t͡ʃˈawvə# | Rule 581 : [+lat,+back] > w 
+#ʃˈawvə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˈoːvə# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#ʃˈoːvə̯# | Rule 707 : ə > ə̯ / __ #
+#ʃˈoːv# | Rule 735 : ə̯ > ∅ 
+#ʃoːv# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʃov# | Rule 753 : [+syl,+long] > [-long,-splng] 

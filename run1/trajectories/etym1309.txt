@@ -23,9 +23,9 @@ w ˌeː r ˈɑː k u m
 #vˌerˈae̯j# | Rule 470 : ʝ > j / [-cons] __ 
 #vˌərˈae̯j# | Rule 512 : ˌe > ˌə / v __ ( [+cons] ) [+syl]
 #vˌərˈeːj# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#vrˈeːj# | Rule 650 : ˌə > ∅ / [+cont,-son] __ [+son,-hi,-nas] [+prim]
-#vrˈeː# | Rule 651 : j > ∅ / [-hi,+syl] __ #
-#vʀˈeː# | Rule 752 : r > ʀ 
-#vʀeː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vʀe# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vrˈeːj# | Rule 649 : ˌə > ∅ / [+cont,-son] __ [+son,-hi,-nas] [+prim]
+#vrˈeː# | Rule 650 : j > ∅ / [-hi,+syl] __ #
+#vʀˈeː# | Rule 751 : r > ʀ 
+#vʀeː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vʀe# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #vʁe# | Rule 759 : ʀ > ʁ 

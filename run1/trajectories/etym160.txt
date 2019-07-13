@@ -10,13 +10,13 @@ d̪ ˌe ˈi n̪ t̪ u s
 #d̪ˌeˈen̪t͡s# | Rule 432 : ˌɛ > ˌe / __ @ @
 #d̪ˌeˈẽn̪t͡s# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #d̪ˌeˈɛ̃n̪t͡s# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#d̪ˌeˈãn̪t͡s# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#d̪ˌəˈãn̪t͡s# | Rule 600 : ˌe > ˌə / __ ( [+cons] ) [-cons]
-#d̪ˌəˈãn̪s# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#d̪ˌəˈãːs# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#d̪ˌaˈãːs# | Rule 690 : ˌə > ˌa / __ [+lo,+stres]
-#d̪ˈãːs# | Rule 697 : [+lo] [+lo] > ∅ [+long]
-#d̪ˈɑ̃ːs# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#d̪ˈɑ̃ː# | Rule 734 : [-son] > ∅ / __ #
-#d̪ɑ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#d̪ɑ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#d̪ˌeˈãn̪t͡s# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#d̪ˌəˈãn̪t͡s# | Rule 599 : ˌe > ˌə / __ ( [+cons] ) [-cons]
+#d̪ˌəˈãn̪s# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#d̪ˌəˈãːs# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#d̪ˌaˈãːs# | Rule 689 : ˌə > ˌa / __ [+lo,+stres]
+#d̪ˈãːs# | Rule 696 : [+lo] [+lo] > ∅ [+long]
+#d̪ˈɑ̃ːs# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#d̪ˈɑ̃ː# | Rule 733 : [-son] > ∅ / __ #
+#d̪ɑ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#d̪ɑ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 

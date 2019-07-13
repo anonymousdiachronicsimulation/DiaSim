@@ -11,10 +11,10 @@ w ˈi d̪ w ɑ m
 #βˈeðβa# | Rule 258 : d̪ > ð / __ [+cont,+lab,+cons]
 #vˈeðva# | Rule 442 : β > v 
 #vˈeðvə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#vˈevə# | Rule 608 : {θ;ð} > {∅;∅} 
-#vˈɛvə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#vˈøvə# | Rule 656 : {ə;ˌə;ˈɛ} > {ø;ˌø;ˈø} / [+lab,+cons,+voi] __ [+lab,+cons]
-#vˈøvə̯# | Rule 708 : ə > ə̯ / __ #
-#vˈøv# | Rule 736 : ə̯ > ∅ 
-#vˈœv# | Rule 740 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-#vœv# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vˈevə# | Rule 607 : {θ;ð} > {∅;∅} 
+#vˈɛvə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#vˈøvə# | Rule 655 : {ə;ˌə;ˈɛ} > {ø;ˌø;ˈø} / [+lab,+cons,+voi] __ [+lab,+cons]
+#vˈøvə̯# | Rule 707 : ə > ə̯ / __ #
+#vˈøv# | Rule 735 : ə̯ > ∅ 
+#vˈœv# | Rule 739 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+#vœv# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

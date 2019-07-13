@@ -7,11 +7,11 @@ f ˌo r ˈe s t̪ e m
 #fˌɔrˈɛst̪ə̯# | Rule 284 : ə > ə̯ 
 #fˌɔrˈɛst̪# | Rule 308 : ə̯ > ∅ 
 #fˌorˈɛst̪# | Rule 435 : ˌɔ > ˌo 
-#fˌɔrˈɛst̪# | Rule 557 : ˌo > ˌɔ / __ [+cons,+cor,+son] ˈɛ
-#fˌɔrˈɛxt̪# | Rule 595 : s > x / [-cons] __ [+cons]
-#fˌɔrˈɛːt̪# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#fˌɔrˈɛː# | Rule 734 : [-son] > ∅ / __ #
-#fˌɔʀˈɛː# | Rule 752 : r > ʀ 
-#fɔʀɛː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fɔʀɛ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˌɔrˈɛst̪# | Rule 556 : ˌo > ˌɔ / __ [+cons,+cor,+son] ˈɛ
+#fˌɔrˈɛxt̪# | Rule 594 : s > x / [-cons] __ [+cons]
+#fˌɔrˈɛːt̪# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#fˌɔrˈɛː# | Rule 733 : [-son] > ∅ / __ #
+#fˌɔʀˈɛː# | Rule 751 : r > ʀ 
+#fɔʀɛː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fɔʀɛ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #fɔʁɛ# | Rule 759 : ʀ > ʁ 

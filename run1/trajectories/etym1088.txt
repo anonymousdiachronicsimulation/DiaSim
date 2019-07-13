@@ -16,15 +16,15 @@ s ˌe n̪ i ˈoː r e m
 #sˌẽɲˈowr# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #sˌɛ̃ɲˈowr# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
 #sˌɛ̃ɲˈewr# | Rule 544 : ˈo > ˈe / __ w
-#sˌɛ̃j̃ɲˈewr# | Rule 569 : ∅ > j̃ / [-hi,-lo,-round,+stres] __ ɲ [+syl]
-#sˌɛ̃j̃ɲˈøwr# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#sˌɛ̃j̃ɲˈøːr# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#sˌɛ̃ɲˈøːr# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#sˌɛɲˈøːr# | Rule 684 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
-#sˌɛɲˈœːr# | Rule 687 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
-#sˌɛɲˈœːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sˌɛɲˈœːr# | Rule 750 : ɹ > r 
-#sˌɛɲˈœːʀ# | Rule 752 : r > ʀ 
-#sɛɲœːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sɛɲœʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˌɛ̃j̃ɲˈewr# | Rule 568 : ∅ > j̃ / [-hi,-lo,-round,+stres] __ ɲ [+syl]
+#sˌɛ̃j̃ɲˈøwr# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#sˌɛ̃j̃ɲˈøːr# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#sˌɛ̃ɲˈøːr# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#sˌɛɲˈøːr# | Rule 683 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+#sˌɛɲˈœːr# | Rule 686 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
+#sˌɛɲˈœːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sˌɛɲˈœːr# | Rule 749 : ɹ > r 
+#sˌɛɲˈœːʀ# | Rule 751 : r > ʀ 
+#sɛɲœːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sɛɲœʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #sɛɲœʁ# | Rule 759 : ʀ > ʁ 

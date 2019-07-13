@@ -20,12 +20,12 @@ s ˌu p e r k ˈi l i u m
 #sˌoβrt͡sʲˈiːʎ# | Rule 386 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
 #sˌowrt͡sʲˈiːʎ# | Rule 441 : β > w / __ r ( ə ) [+cons]
 #sˌowrt͡sˈiːʎ# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#sˌɔrt͡sˈiːʎ# | Rule 565 : {ˌɔ w;ˌo w;ˈɔ w} > {ˌɔ;ˌɔ;ˈɔ} / __ [+cor,+son]
-#sˌɔrsˈiːʎ# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˌɔrsˈiː# | Rule 682 : [+lat] > ∅ / [+strid,+cor] [+syl,+hi,+front] __ #
-#sˌɔɹsˈiː# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#sˌɔrsˈiː# | Rule 750 : ɹ > r 
-#sˌɔʀsˈiː# | Rule 752 : r > ʀ 
-#sɔʀsiː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sɔʀsi# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˌɔrt͡sˈiːʎ# | Rule 564 : {ˌɔ w;ˌo w;ˈɔ w} > {ˌɔ;ˌɔ;ˈɔ} / __ [+cor,+son]
+#sˌɔrsˈiːʎ# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˌɔrsˈiː# | Rule 681 : [+lat] > ∅ / [+strid,+cor] [+syl,+hi,+front] __ #
+#sˌɔɹsˈiː# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#sˌɔrsˈiː# | Rule 749 : ɹ > r 
+#sˌɔʀsˈiː# | Rule 751 : r > ʀ 
+#sɔʀsiː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sɔʀsi# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #sɔʁsi# | Rule 759 : ʀ > ʁ 

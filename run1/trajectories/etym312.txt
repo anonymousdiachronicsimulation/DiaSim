@@ -24,11 +24,11 @@ Trajectory file for run 'run1'; etymon number :312:
 #d͡ʒˌen̪ˈoɫt͡sʲ# | Rule 506 : [+lat] > ɫ / __ [+cons]
 #d͡ʒˌən̪ˈoɫt͡sʲ# | Rule 517 : ˌe > ˌə / __ [+nas,+ant,+cons] [+syl]
 #d͡ʒˌən̪ˈoɫt͡s# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#d͡ʒˌən̪ˈuɫt͡s# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#d͡ʒˌən̪ˈuwt͡s# | Rule 582 : [+lat,+back] > w 
-#d͡ʒˌən̪ˈut͡s# | Rule 583 : w > ∅ / [+syl,+hi,+round] __ 
-#d͡ʒˌə̃n̪ˈut͡s# | Rule 627 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#ʒˌə̃n̪ˈus# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʒˌən̪ˈus# | Rule 654 : {ə̃;ˌə̃} > {ə;ˌə} 
-#ʒˌən̪ˈu# | Rule 734 : [-son] > ∅ / __ #
-#ʒən̪u# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#d͡ʒˌən̪ˈuɫt͡s# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#d͡ʒˌən̪ˈuwt͡s# | Rule 581 : [+lat,+back] > w 
+#d͡ʒˌən̪ˈut͡s# | Rule 582 : w > ∅ / [+syl,+hi,+round] __ 
+#d͡ʒˌə̃n̪ˈut͡s# | Rule 626 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
+#ʒˌə̃n̪ˈus# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʒˌən̪ˈus# | Rule 653 : {ə̃;ˌə̃} > {ə;ˌə} 
+#ʒˌən̪ˈu# | Rule 733 : [-son] > ∅ / __ #
+#ʒən̪u# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

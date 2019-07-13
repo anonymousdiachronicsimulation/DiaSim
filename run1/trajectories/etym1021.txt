@@ -13,10 +13,10 @@ r ˈu b e u m
 #rˈobd͡ʒə# | Rule 302 : ə̯ > ə / [+delrel,-ant] __ 
 #rˈod̪d͡ʒə# | Rule 341 : [+lab,-nas,-round,+cons] > d̪ / __ [-cont,+cor,+voi]
 #rˈod͡ʒə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#rˈud͡ʒə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#rˈuʒə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#rˈuʒə̯# | Rule 708 : ə > ə̯ / __ #
-#rˈuʒ# | Rule 736 : ə̯ > ∅ 
-#ʀˈuʒ# | Rule 752 : r > ʀ 
-#ʀuʒ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rˈud͡ʒə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#rˈuʒə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#rˈuʒə̯# | Rule 707 : ə > ə̯ / __ #
+#rˈuʒ# | Rule 735 : ə̯ > ∅ 
+#ʀˈuʒ# | Rule 751 : r > ʀ 
+#ʀuʒ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ʁuʒ# | Rule 759 : ʀ > ʁ 

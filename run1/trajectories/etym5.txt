@@ -15,11 +15,11 @@ Trajectory file for run 'run1'; etymon number :5:
 #ˌaðrˈie̯t̪rə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
 #ˌaðrˈie̯d̪rə# | Rule 361 : [-voi,-delrel,+ant] > [+voi] / [-cons] __ [+cor,+son,-nas]
 #ˌaðrˈie̯ðrə# | Rule 386 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
-#ˌaðrjˈeðrə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#ˌarjˈerə# | Rule 608 : {θ;ð} > {∅;∅} 
-#ˌarjˈɛrə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#ˌarjˈɛrə̯# | Rule 708 : ə > ə̯ / __ #
-#ˌarjˈɛr# | Rule 736 : ə̯ > ∅ 
-#ˌaʀjˈɛʀ# | Rule 752 : r > ʀ 
-#aʀjɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌaðrjˈeðrə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#ˌarjˈerə# | Rule 607 : {θ;ð} > {∅;∅} 
+#ˌarjˈɛrə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#ˌarjˈɛrə̯# | Rule 707 : ə > ə̯ / __ #
+#ˌarjˈɛr# | Rule 735 : ə̯ > ∅ 
+#ˌaʀjˈɛʀ# | Rule 751 : r > ʀ 
+#aʀjɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #aʁjɛʁ# | Rule 759 : ʀ > ʁ 

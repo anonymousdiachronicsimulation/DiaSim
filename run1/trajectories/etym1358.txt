@@ -23,10 +23,10 @@ w ˌo l ˈɑː t̪ i k u m
 #βˌolˈad̪d͡ʒə# | Rule 435 : ˌɔ > ˌo 
 #vˌolˈad̪d͡ʒə# | Rule 442 : β > v 
 #vˌolˈad͡ʒə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#vˌɔlˈad͡ʒə# | Rule 556 : ˌo > ˌɔ / __ [+cons,+cor,+son] ˈa
-#vˌɔlˈaʒə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#vˌɔlˈaʒə̯# | Rule 708 : ə > ə̯ / __ #
-#vˌɔlˈaːʒə̯# | Rule 720 : [+lo] > [+long] / __ ʒ ə̯ #
-#vˌɔlˈaːʒ# | Rule 736 : ə̯ > ∅ 
-#vɔlaːʒ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vɔlaʒ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˌɔlˈad͡ʒə# | Rule 555 : ˌo > ˌɔ / __ [+cons,+cor,+son] ˈa
+#vˌɔlˈaʒə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#vˌɔlˈaʒə̯# | Rule 707 : ə > ə̯ / __ #
+#vˌɔlˈaːʒə̯# | Rule 719 : [+lo] > [+long] / __ ʒ ə̯ #
+#vˌɔlˈaːʒ# | Rule 735 : ə̯ > ∅ 
+#vɔlaːʒ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vɔlaʒ# | Rule 753 : [+syl,+long] > [-long,-splng] 

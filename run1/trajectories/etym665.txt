@@ -14,11 +14,11 @@ m ˌɑː t̪ ˈuː r u m
 #mˌad̪ˈʉːr# | Rule 360 : [-voi] > [+voi] / [-cons] __ [-cons]
 #mˌaðˈʉːr# | Rule 385 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [-cons]
 #mˌaðˈyːr# | Rule 508 : [+hi,+round,-back] > [+front] 
-#mˌaˈyːr# | Rule 608 : {θ;ð} > {∅;∅} 
-#mˈyːr# | Rule 704 : ˌa > ∅ / __ [+prim]
-#mˈyːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#mˈyːr# | Rule 750 : ɹ > r 
-#mˈyːʀ# | Rule 752 : r > ʀ 
-#myːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#myʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˌaˈyːr# | Rule 607 : {θ;ð} > {∅;∅} 
+#mˈyːr# | Rule 703 : ˌa > ∅ / __ [+prim]
+#mˈyːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#mˈyːr# | Rule 749 : ɹ > r 
+#mˈyːʀ# | Rule 751 : r > ʀ 
+#myːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#myʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #myʁ# | Rule 759 : ʀ > ʁ 

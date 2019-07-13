@@ -12,6 +12,6 @@ m ˈiː k ɑ m
 #mˈiːja# | Rule 391 : ʝ > j 
 #mˈiːjə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #mˈiːə# | Rule 471 : j > ∅ / [+hi,+front,+tense] __ 
-#mˈiː# | Rule 696 : ə > ∅ / [+syl] __ 
-#miː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mi# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˈiː# | Rule 695 : ə > ∅ / [+syl] __ 
+#miː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mi# | Rule 753 : [+syl,+long] > [-long,-splng] 

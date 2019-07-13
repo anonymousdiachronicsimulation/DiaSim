@@ -11,13 +11,13 @@ p ˌɑ t̪ r ˈɑ s t̪ r u m
 #pˌat̪rˈast̪rə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
 #pˌad̪rˈast̪rə# | Rule 361 : [-voi,-delrel,+ant] > [+voi] / [-cons] __ [+cor,+son,-nas]
 #pˌaðrˈast̪rə# | Rule 386 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
-#pˌaðrˈaxt̪rə# | Rule 595 : s > x / [-cons] __ [+cons]
-#pˌarˈaxt̪rə# | Rule 608 : {θ;ð} > {∅;∅} 
-#pˌarˈaːt̪rə# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#pˌarˈaːt̪rə̯# | Rule 708 : ə > ə̯ / __ #
-#pˌarˈɑːt̪rə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#pˌarˈɑːt̪r# | Rule 736 : ə̯ > ∅ 
-#pˌaʀˈɑːt̪ʀ# | Rule 752 : r > ʀ 
-#paʀɑːt̪ʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#paʀɑt̪ʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˌaðrˈaxt̪rə# | Rule 594 : s > x / [-cons] __ [+cons]
+#pˌarˈaxt̪rə# | Rule 607 : {θ;ð} > {∅;∅} 
+#pˌarˈaːt̪rə# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#pˌarˈaːt̪rə̯# | Rule 707 : ə > ə̯ / __ #
+#pˌarˈɑːt̪rə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#pˌarˈɑːt̪r# | Rule 735 : ə̯ > ∅ 
+#pˌaʀˈɑːt̪ʀ# | Rule 751 : r > ʀ 
+#paʀɑːt̪ʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#paʀɑt̪ʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #paʁɑt̪ʁ# | Rule 759 : ʀ > ʁ 

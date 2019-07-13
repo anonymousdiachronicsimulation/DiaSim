@@ -7,10 +7,10 @@ t̪ ˈu r r e m
 #t̪ˈorrə# | Rule 276 : [-stres,-lo,+syl] > ə / __ #
 #t̪ˈorrə̯# | Rule 284 : ə > ə̯ 
 #t̪ˈorr# | Rule 308 : ə̯ > ∅ 
-#t̪ˈurr# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#t̪ˈur# | Rule 605 : r r > r 
-#t̪ˈuɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#t̪ˈur# | Rule 750 : ɹ > r 
-#t̪ˈuʀ# | Rule 752 : r > ʀ 
-#t̪uʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈurr# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#t̪ˈur# | Rule 604 : r r > r 
+#t̪ˈuɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#t̪ˈur# | Rule 749 : ɹ > r 
+#t̪ˈuʀ# | Rule 751 : r > ʀ 
+#t̪uʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #t̪uʁ# | Rule 759 : ʀ > ʁ 

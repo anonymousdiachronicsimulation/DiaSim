@@ -6,10 +6,10 @@ b ˈe r u l ɑ m
 #bˈɛrlɑ# | Rule 74 : [+nas,+cons] > ∅ / [-stres] __ #
 #bˈɛrla# | Rule 205 : [+lo] > [+front,-back] 
 #bˈɛrlə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#bˈɛrlə̯# | Rule 708 : ə > ə̯ / __ #
-#bˈɛɹlə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#bˈɛɹl# | Rule 736 : ə̯ > ∅ 
-#bˈɛrl# | Rule 750 : ɹ > r 
-#bˈɛʀl# | Rule 752 : r > ʀ 
-#bɛʀl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bˈɛrlə̯# | Rule 707 : ə > ə̯ / __ #
+#bˈɛɹlə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#bˈɛɹl# | Rule 735 : ə̯ > ∅ 
+#bˈɛrl# | Rule 749 : ɹ > r 
+#bˈɛʀl# | Rule 751 : r > ʀ 
+#bɛʀl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #bɛʁl# | Rule 759 : ʀ > ʁ 

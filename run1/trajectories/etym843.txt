@@ -11,5 +11,5 @@ p ˈeː d̪ i t̪ u m
 #pˈet̪t̪ə̯# | Rule 284 : ə > ə̯ 
 #pˈet̪t̪# | Rule 308 : ə̯ > ∅ 
 #pˈet̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#pˈe# | Rule 734 : [-son] > ∅ / __ #
-#pe# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pˈe# | Rule 733 : [-son] > ∅ / __ #
+#pe# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

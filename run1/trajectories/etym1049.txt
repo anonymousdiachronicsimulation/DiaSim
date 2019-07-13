@@ -12,6 +12,6 @@ s ˌɑ l ˈuː t̪ e m
 #sˌalˈʉːt̪# | Rule 308 : ə̯ > ∅ 
 #sˌalˈʉːθ# | Rule 444 : [-delrel] > [+cont,0delrel] / [-cons] __ #
 #sˌalˈyːθ# | Rule 508 : [+hi,+round,-back] > [+front] 
-#sˌalˈyː# | Rule 608 : {θ;ð} > {∅;∅} 
-#salyː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#saly# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˌalˈyː# | Rule 607 : {θ;ð} > {∅;∅} 
+#salyː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#saly# | Rule 753 : [+syl,+long] > [-long,-splng] 

@@ -15,7 +15,7 @@ f ˌɑ t̪ ˈuː t̪ u m
 #fˌaðˈʉːt̪# | Rule 385 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [-cons]
 #fˌaðˈʉːθ# | Rule 444 : [-delrel] > [+cont,0delrel] / [-cons] __ #
 #fˌaðˈyːθ# | Rule 508 : [+hi,+round,-back] > [+front] 
-#fˌaˈyː# | Rule 608 : {θ;ð} > {∅;∅} 
-#fˈyː# | Rule 704 : ˌa > ∅ / __ [+prim]
-#fyː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fy# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˌaˈyː# | Rule 607 : {θ;ð} > {∅;∅} 
+#fˈyː# | Rule 703 : ˌa > ∅ / __ [+prim]
+#fyː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fy# | Rule 753 : [+syl,+long] > [-long,-splng] 

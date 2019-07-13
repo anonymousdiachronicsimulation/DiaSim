@@ -22,10 +22,10 @@ Trajectory file for run 'run1'; etymon number :788:
 #ˈyo̯ɫt͡sʲ# | Rule 508 : [+hi,+round,-back] > [+front] 
 #ˈye̯ɫt͡sʲ# | Rule 537 : o̯ > e̯ 
 #ˈye̯ɫt͡s# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#ˈøːɫt͡s# | Rule 581 : [+hi,+round,+tense,+prim] e̯ > ˈøː
-#ˈøːwt͡s# | Rule 582 : [+lat,+back] > w 
-#ˈøːt͡s# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#ˈøːs# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ˈøː# | Rule 734 : [-son] > ∅ / __ #
-#øː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ø# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈøːɫt͡s# | Rule 580 : [+hi,+round,+tense,+prim] e̯ > ˈøː
+#ˈøːwt͡s# | Rule 581 : [+lat,+back] > w 
+#ˈøːt͡s# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#ˈøːs# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ˈøː# | Rule 733 : [-son] > ∅ / __ #
+#øː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ø# | Rule 753 : [+syl,+long] > [-long,-splng] 

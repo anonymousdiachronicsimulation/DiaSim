@@ -16,6 +16,6 @@ s ˌo l ˈi k u l u m
 #sˌɔlˈeʎ# | Rule 308 : ə̯ > ∅ 
 #sˌolˈeʎ# | Rule 435 : ˌɔ > ˌo 
 #sˌolˈɛʎ# | Rule 550 : [+front,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ʎ
-#sˌɔlˈɛʎ# | Rule 557 : ˌo > ˌɔ / __ [+cons,+cor,+son] ˈɛ
-#sɔlɛʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sˌɔlˈɛʎ# | Rule 556 : ˌo > ˌɔ / __ [+cons,+cor,+son] ˈɛ
+#sɔlɛʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #sɔlɛj# | Rule 760 : ʎ > j 

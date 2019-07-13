@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :1342:
-#wˌin̪d̪ˈeːsiɑm# >>> #vɑ̃d̪wɛz# ( Correct : #vɑ̃d̪waz#) :
+#wˌin̪d̪ˈeːsiɑm# >>> #vɑ̃d̪waz# ( Correct : #vɑ̃d̪waz#) :
 w ˌi n̪ d̪ ˈeː s i ɑ m 
 #ɣʷˌin̪d̪ˈeːsiɑm# | Rule 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
 #ɣʷˌɪn̪d̪ˈeːsɪɑm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -21,13 +21,14 @@ w ˌi n̪ d̪ ˈeː s i ɑ m
 #vˌẽn̪d̪ˈejzə# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #vˌɛ̃n̪d̪ˈejzə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
 #vˌɛ̃n̪d̪ˈojzə# | Rule 545 : [+front,+tense,-hi,-lo,+syl] > [+back,-front,+round,+lab] / __ j
-#vˌɛ̃n̪d̪ˈujzə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#vˌãn̪d̪ˈujzə# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#vˌãn̪d̪ˈuɛ̯zə# | Rule 632 : j > ɛ̯ / [+syl,+back,+round] __ 
-#vˌãn̪d̪wˈɛzə# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#vˌãːd̪wˈɛzə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#vˌãːd̪wˈɛzə̯# | Rule 708 : ə > ə̯ / __ #
-#vˌɑ̃ːd̪wˈɛzə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#vˌɑ̃ːd̪wˈɛz# | Rule 736 : ə̯ > ∅ 
-#vɑ̃ːd̪wɛz# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vɑ̃d̪wɛz# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˌɛ̃n̪d̪ˈujzə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#vˌãn̪d̪ˈujzə# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#vˌãn̪d̪ˈuɛ̯zə# | Rule 631 : j > ɛ̯ / [+syl,+back,+round] __ 
+#vˌãn̪d̪wˈɛzə# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#vˌãːd̪wˈɛzə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#vˌãːd̪wˈɛzə̯# | Rule 707 : ə > ə̯ / __ #
+#vˌɑ̃ːd̪wˈɛzə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#vˌɑ̃ːd̪wˈɛz# | Rule 735 : ə̯ > ∅ 
+#vɑ̃ːd̪wɛz# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vɑ̃d̪wɛz# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#vɑ̃d̪waz# | Rule 758 : ɛ > a / w __ 

@@ -17,9 +17,9 @@ h ˌo s p i t̪ ˈɑː l e
 #ˌɯst̪ˈae̯l# | Rule 433 : ˌɔ > ˌɯ / __ [+cor,-voi]
 #ˌɔst̪ˈae̯l# | Rule 436 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
 #ˌɔst̪ˈeːl# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#ˌɔxt̪ˈeːl# | Rule 595 : s > x / [-cons] __ [+cons]
-#ˌɔxt̪ˈɛːl# | Rule 616 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+lat] #
-#ˌɔːt̪ˈɛːl# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#ˌoːt̪ˈɛːl# | Rule 723 : [-hi,-lo,+back,+syl,+long] > [+tense,-cons,-lat,+cont,0delrel] 
-#oːt̪ɛːl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ot̪ɛl# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌɔxt̪ˈeːl# | Rule 594 : s > x / [-cons] __ [+cons]
+#ˌɔxt̪ˈɛːl# | Rule 615 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+lat] #
+#ˌɔːt̪ˈɛːl# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#ˌoːt̪ˈɛːl# | Rule 722 : [-hi,-lo,+back,+syl,+long] > [+tense,-cons,-lat,+cont,0delrel] 
+#oːt̪ɛːl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ot̪ɛl# | Rule 753 : [+syl,+long] > [-long,-splng] 

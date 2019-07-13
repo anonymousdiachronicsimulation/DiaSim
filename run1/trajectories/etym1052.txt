@@ -19,16 +19,16 @@ s ˌɑ l w ɑː t̪ ˈoː r e m
 #sˌaɫvaðˈowr# | Rule 442 : β > v 
 #sˌaɫvəðˈowr# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #sˌaɫvəðˈewr# | Rule 544 : ˈo > ˈe / __ w
-#sˌawvəðˈewr# | Rule 582 : [+lat,+back] > w 
-#sˌawvəˈewr# | Rule 608 : {θ;ð} > {∅;∅} 
-#sˌawvəˈøwr# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#sˌawvəˈøːr# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#sˌoːvəˈøːr# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#sˌoːvəˈœːr# | Rule 687 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
-#sˌoːvˈœːr# | Rule 694 : [+syl,-front,-back] > ∅ / __ ( w ) [+syl]
-#sˌoːvˈœːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sˌoːvˈœːr# | Rule 750 : ɹ > r 
-#sˌoːvˈœːʀ# | Rule 752 : r > ʀ 
-#soːvœːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sovœʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˌawvəðˈewr# | Rule 581 : [+lat,+back] > w 
+#sˌawvəˈewr# | Rule 607 : {θ;ð} > {∅;∅} 
+#sˌawvəˈøwr# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#sˌawvəˈøːr# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#sˌoːvəˈøːr# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#sˌoːvəˈœːr# | Rule 686 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
+#sˌoːvˈœːr# | Rule 693 : [+syl,-front,-back] > ∅ / __ ( w ) [+syl]
+#sˌoːvˈœːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sˌoːvˈœːr# | Rule 749 : ɹ > r 
+#sˌoːvˈœːʀ# | Rule 751 : r > ʀ 
+#soːvœːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sovœʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #sovœʁ# | Rule 759 : ʀ > ʁ 

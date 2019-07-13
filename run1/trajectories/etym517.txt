@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :517:
-#krˈukem# >>> #kʁwɛ# ( Correct : #kʁwa#) :
+#krˈukem# >>> #kʁwa# ( Correct : #kʁwa#) :
 k r ˈu k e m 
 #krˈʊkɛm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
 #krˈokɛm# | Rule 69 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
@@ -14,11 +14,12 @@ k r ˈu k e m
 #krˈowt͡sʲ# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #krˈojt͡sʲ# | Rule 424 : w > j / [+round,+syl] __ t͡sʲ
 #krˈojt͡s# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#krˈujt͡s# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#krˈuɛ̯t͡s# | Rule 632 : j > ɛ̯ / [+syl,+back,+round] __ 
-#krwˈɛt͡s# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#krwˈɛs# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#krwˈɛ# | Rule 734 : [-son] > ∅ / __ #
-#kʀwˈɛ# | Rule 752 : r > ʀ 
-#kʀwɛ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#kʁwɛ# | Rule 759 : ʀ > ʁ 
+#krˈujt͡s# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#krˈuɛ̯t͡s# | Rule 631 : j > ɛ̯ / [+syl,+back,+round] __ 
+#krwˈɛt͡s# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#krwˈɛs# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#krwˈɛ# | Rule 733 : [-son] > ∅ / __ #
+#kʀwˈɛ# | Rule 751 : r > ʀ 
+#kʀwɛ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kʀwa# | Rule 758 : ɛ > a / w __ 
+#kʁwa# | Rule 759 : ʀ > ʁ 

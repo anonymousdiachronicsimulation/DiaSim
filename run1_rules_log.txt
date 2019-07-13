@@ -553,7 +553,6 @@ t͡sʲ > t͡s / # __
 ˌo > ˌɔ / __ r [+ant,-lab,-cont]
 ˌɔ > ˌo / __ r t̪ r
 {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-k > ɡ / # __ [+cor,+son] [+lo]
 ˌo > ˌɔ / __ [+cons,+cor,+son] ˈa
 ˌo > ˌɔ / __ [+cons,+cor,+son] ˈɛ
 ˈu > ˈy / __ e̯ j
@@ -757,6 +756,7 @@ ũ > ɔ̃
 [+round,+nas] > [-nas] / __ [+nas,+cons] [+syl]
 [+syl,+nas] > [-nas] / __ [+nas,+cons]
 ɔ > o / __ #
+ɛ > a / w __ 
 ʀ > ʁ 
 ʎ > j 
 [+hi,+front,-round] > ∅ / [+syl] __ j

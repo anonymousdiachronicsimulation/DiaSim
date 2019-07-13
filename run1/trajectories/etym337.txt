@@ -24,14 +24,14 @@ h i ˌe r ˈoː n̪ y m u m
 #d͡ʒˌerˈũzmə# | Rule 432 : ˌɛ > ˌe / __ @ @
 #d͡ʒˌerˈũːzmə# | Rule 533 : [+prim] > [+long] / @ __ z [+cons]
 #d͡ʒˌerˈũːmə# | Rule 536 : z > ∅ / __ [+cons]
-#d͡ʒˌɛrˈũːmə# | Rule 593 : ˌe > ˌɛ / __ [+cont,-lat,-nas,+voi] [+syl]
-#d͡ʒˌerˈũːmə# | Rule 609 : ˌɛ > ˌe / __ [+cont,-lat,-nas,+voi] [+syl]
-#ʒˌerˈũːmə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʒˌerˈũːmə̯# | Rule 708 : ə > ə̯ / __ #
-#ʒˌerˈũːm# | Rule 736 : ə̯ > ∅ 
-#ʒˌeʀˈũːm# | Rule 752 : r > ʀ 
-#ʒeʀũːm# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʒeʀũm# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#ʒeʀɔ̃m# | Rule 755 : ũ > ɔ̃ 
-#ʒeʀɔm# | Rule 757 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
+#d͡ʒˌɛrˈũːmə# | Rule 592 : ˌe > ˌɛ / __ [+cont,-lat,-nas,+voi] [+syl]
+#d͡ʒˌerˈũːmə# | Rule 608 : ˌɛ > ˌe / __ [+cont,-lat,-nas,+voi] [+syl]
+#ʒˌerˈũːmə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʒˌerˈũːmə̯# | Rule 707 : ə > ə̯ / __ #
+#ʒˌerˈũːm# | Rule 735 : ə̯ > ∅ 
+#ʒˌeʀˈũːm# | Rule 751 : r > ʀ 
+#ʒeʀũːm# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʒeʀũm# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#ʒeʀɔ̃m# | Rule 754 : ũ > ɔ̃ 
+#ʒeʀɔm# | Rule 756 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
 #ʒeʁɔm# | Rule 759 : ʀ > ʁ 

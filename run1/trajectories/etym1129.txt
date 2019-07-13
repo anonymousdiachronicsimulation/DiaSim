@@ -23,12 +23,12 @@ s ˌo r t̪ i ˈɑː r i u m
 #sˌort͡sʲˈie̯r# | Rule 435 : ˌɔ > ˌo 
 #sˌort͡sˈie̯r# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
 #sˌɔrt͡sˈie̯r# | Rule 552 : ˌo > ˌɔ / __ r [+ant,-lab,-cont]
-#sˌɔrt͡sjˈer# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#sˌɔrsjˈer# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˌɔrsjˈeɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sˌɔɹsjˈeɹ# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#sˌɔɹsjˈe# | Rule 748 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
-#sˌɔrsjˈe# | Rule 750 : ɹ > r 
-#sˌɔʀsjˈe# | Rule 752 : r > ʀ 
-#sɔʀsje# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sˌɔrt͡sjˈer# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#sˌɔrsjˈer# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˌɔrsjˈeɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sˌɔɹsjˈeɹ# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#sˌɔɹsjˈe# | Rule 747 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+#sˌɔrsjˈe# | Rule 749 : ɹ > r 
+#sˌɔʀsjˈe# | Rule 751 : r > ʀ 
+#sɔʀsje# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #sɔʁsje# | Rule 759 : ʀ > ʁ 

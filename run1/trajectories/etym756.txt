@@ -10,7 +10,7 @@ n̪ ˈi t̪ i d̪ u m
 #n̪ˈet̪d̪# | Rule 308 : ə̯ > ∅ 
 #n̪ˈet̪t̪ə# | Rule 330 : [+cor,+ant,+distr,+voi,-cont] > t̪ ə/ [-voi] __ #
 #n̪ˈet̪ə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#n̪ˈɛt̪ə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#n̪ˈɛt̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#n̪ˈɛt̪# | Rule 736 : ə̯ > ∅ 
-#n̪ɛt̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#n̪ˈɛt̪ə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#n̪ˈɛt̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#n̪ˈɛt̪# | Rule 735 : ə̯ > ∅ 
+#n̪ɛt̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

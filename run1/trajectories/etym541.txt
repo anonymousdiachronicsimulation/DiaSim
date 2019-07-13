@@ -8,6 +8,6 @@ k w e m
 #kwə# | Rule 276 : [-stres,-lo,+syl] > ə / __ #
 #kwə̯# | Rule 284 : ə > ə̯ 
 #kwə# | Rule 305 : ə̯ > ə / # ( [-syl] )* __ #
-#kə# | Rule 623 : [-syl,+round,+cont] > ∅ / [+back,-cont] __ 
-#kə̯# | Rule 708 : ə > ə̯ / __ #
-#kə# | Rule 735 : ə̯ > ə / # ( [-syl] )* __ ( [-syl] )* #
+#kə# | Rule 622 : [-syl,+round,+cont] > ∅ / [+back,-cont] __ 
+#kə̯# | Rule 707 : ə > ə̯ / __ #
+#kə# | Rule 734 : ə̯ > ə / # ( [-syl] )* __ ( [-syl] )* #

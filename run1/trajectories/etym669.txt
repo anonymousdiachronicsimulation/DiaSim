@@ -9,4 +9,4 @@ m e oː s
 #mʝə̯s# | Rule 284 : ə > ə̯ 
 #mʝes# | Rule 303 : ə̯ > e / # [-syl] ( [-syl] )* __ s #
 #mjes# | Rule 391 : ʝ > j 
-#mje# | Rule 734 : [-son] > ∅ / __ #
+#mje# | Rule 733 : [-son] > ∅ / __ #

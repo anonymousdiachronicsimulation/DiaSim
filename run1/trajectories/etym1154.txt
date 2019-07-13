@@ -18,12 +18,12 @@ s ˌuː d̪ ˈɑː r i u m
 #sˌʉðˈɛːr# | Rule 308 : ə̯ > ∅ 
 #sˌʉðˈie̯r# | Rule 382 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
 #sˌyðˈie̯r# | Rule 508 : [+hi,+round,-back] > [+front] 
-#sˌyðjˈer# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#sˌyjˈer# | Rule 608 : {θ;ð} > {∅;∅} 
-#sɥˌiˈer# | Rule 635 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
-#sɥjˈer# | Rule 718 : [+hi,+stres,-prim] [-hi,-lo,+syl] > [-syl,0stres,0prim] [+stres,+syl,+son,0delrel]
-#sɥjˈeɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sɥjˈer# | Rule 750 : ɹ > r 
-#sɥjˈeʀ# | Rule 752 : r > ʀ 
-#sɥjeʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sˌyðjˈer# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#sˌyjˈer# | Rule 607 : {θ;ð} > {∅;∅} 
+#sɥˌiˈer# | Rule 634 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
+#sɥjˈer# | Rule 717 : [+hi,+stres,-prim] [-hi,-lo,+syl] > [-syl,0stres,0prim] [+stres,+syl,+son,0delrel]
+#sɥjˈeɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sɥjˈer# | Rule 749 : ɹ > r 
+#sɥjˈeʀ# | Rule 751 : r > ʀ 
+#sɥjeʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #sɥjeʁ# | Rule 759 : ʀ > ʁ 

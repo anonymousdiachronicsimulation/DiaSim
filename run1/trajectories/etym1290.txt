@@ -20,11 +20,11 @@ w ˈɑ r i u m
 #βˈajr# | Rule 403 : [+syl] > [-long,-splng] / __ [-syl] [-syl] ( [-syl] )* #
 #vˈajr# | Rule 442 : β > v 
 #vˈajrə# | Rule 500 : ∅ > ə / [+lo] j r __ #
-#vˈɛjrə# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#vˈɛːrə# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#vˈɛːrə̯# | Rule 708 : ə > ə̯ / __ #
-#vˈɛːr# | Rule 736 : ə̯ > ∅ 
-#vˈɛːʀ# | Rule 752 : r > ʀ 
-#vɛːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vɛʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˈɛjrə# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#vˈɛːrə# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#vˈɛːrə̯# | Rule 707 : ə > ə̯ / __ #
+#vˈɛːr# | Rule 735 : ə̯ > ∅ 
+#vˈɛːʀ# | Rule 751 : r > ʀ 
+#vɛːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vɛʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #vɛʁ# | Rule 759 : ʀ > ʁ 

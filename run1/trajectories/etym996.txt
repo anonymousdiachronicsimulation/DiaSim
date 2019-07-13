@@ -17,8 +17,8 @@ r ˈɑ p i d̪ u m
 #rˈaːd̪d̪ə# | Rule 341 : [+lab,-nas,-round,+cons] > d̪ / __ [-cont,+cor,+voi]
 #rˈad̪d̪ə# | Rule 363 : [+syl] > [-long,-splng] / __ [-syl] [+cons,-son]
 #rˈad̪ə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#rˈad̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#rˈad̪# | Rule 736 : ə̯ > ∅ 
-#ʀˈad̪# | Rule 752 : r > ʀ 
-#ʀad̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rˈad̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#rˈad̪# | Rule 735 : ə̯ > ∅ 
+#ʀˈad̪# | Rule 751 : r > ʀ 
+#ʀad̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ʁad̪# | Rule 759 : ʀ > ʁ 

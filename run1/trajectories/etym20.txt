@@ -15,8 +15,8 @@ Trajectory file for run 'run1'; etymon number :20:
 #ˈalt͡sʲˌi# | Rule 476 : [+cor,-delrel] s > t͡sʲ
 #ˈaɫt͡sʲˌi# | Rule 506 : [+lat] > ɫ / __ [+cons]
 #ˈaɫt͡sˌi# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#ˈawt͡sˌi# | Rule 582 : [+lat,+back] > w 
-#ˈawsˌi# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ˈoːsˌi# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#oːsi# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#osi# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈawt͡sˌi# | Rule 581 : [+lat,+back] > w 
+#ˈawsˌi# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ˈoːsˌi# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#oːsi# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#osi# | Rule 753 : [+syl,+long] > [-long,-splng] 

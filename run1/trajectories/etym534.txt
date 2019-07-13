@@ -14,8 +14,8 @@ k w ˈa e̯ s i t̪ u m
 #kwˈɛst̪ə̯# | Rule 284 : ə > ə̯ 
 #kwˈɛst̪# | Rule 308 : ə̯ > ∅ 
 #kˈɛst̪# | Rule 392 : w > ∅ / k __ [+front,-lo]
-#kˈɛxt̪# | Rule 595 : s > x / [-cons] __ [+cons]
-#kˈɛːt̪# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#kˈɛː# | Rule 734 : [-son] > ∅ / __ #
-#kɛː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#kɛ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#kˈɛxt̪# | Rule 594 : s > x / [-cons] __ [+cons]
+#kˈɛːt̪# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#kˈɛː# | Rule 733 : [-son] > ∅ / __ #
+#kɛː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kɛ# | Rule 753 : [+syl,+long] > [-long,-splng] 

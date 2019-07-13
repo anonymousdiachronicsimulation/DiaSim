@@ -17,9 +17,9 @@ k ˈa e̯ k u m
 #t͡sʲˈie̯o# | Rule 196 : ɣ > ∅ / ˈi e̯ __ o
 #t͡sʲˈie̯w# | Rule 243 : [-lo,-stres] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+prim] ( [-cons,-hi] ) __ 
 #t͡sˈie̯w# | Rule 549 : t͡sʲ > t͡s / # __ 
-#t͡sjˈew# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#t͡sjˈøw# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#t͡sjˈøː# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#sjˈøː# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sjøː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sjø# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t͡sjˈew# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#t͡sjˈøw# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#t͡sjˈøː# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#sjˈøː# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sjøː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sjø# | Rule 753 : [+syl,+long] > [-long,-splng] 

@@ -10,8 +10,8 @@ f ˈiː l i ɑ m
 #fˈiːʎɑ# | Rule 116 : [+prim] > [+long] / __ [+cons] [-cons]
 #fˈiːʎa# | Rule 205 : [+lo] > [+front,-back] 
 #fˈiːʎə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#fˈiːʎə̯# | Rule 708 : ə > ə̯ / __ #
-#fˈiːʎ# | Rule 736 : ə̯ > ∅ 
-#fiːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fiʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˈiːʎə̯# | Rule 707 : ə > ə̯ / __ #
+#fˈiːʎ# | Rule 735 : ə̯ > ∅ 
+#fiːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fiʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #fij# | Rule 760 : ʎ > j 

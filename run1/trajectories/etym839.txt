@@ -10,7 +10,7 @@ p ˈe d̪ eː s
 #pˈie̯ðə̯s# | Rule 284 : ə > ə̯ 
 #pˈie̯ðs# | Rule 308 : ə̯ > ∅ 
 #pˈie̯t͡s# | Rule 333 : [+ant,+distr,-nas] s > t͡s/ __ #
-#pjˈet͡s# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#pjˈes# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#pjˈe# | Rule 734 : [-son] > ∅ / __ #
-#pje# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pjˈet͡s# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#pjˈes# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#pjˈe# | Rule 733 : [-son] > ∅ / __ #
+#pje# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

@@ -16,9 +16,9 @@ k ˌu l p ˈɑː b i l e m
 #kˌoɫpˈaːβlə# | Rule 308 : ə̯ > ∅ 
 #kˌoɫpˈaːblə# | Rule 314 : β > b / __ l
 #kˌoɫpˈablə# | Rule 415 : [+syl,-round] > [-long,-splng] / __ [-cont] l
-#kˌuɫpˈablə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#kˌuwpˈablə# | Rule 582 : [+lat,+back] > w 
-#kˌupˈablə# | Rule 583 : w > ∅ / [+syl,+hi,+round] __ 
-#kˌupˈablə̯# | Rule 708 : ə > ə̯ / __ #
-#kˌupˈabl# | Rule 736 : ə̯ > ∅ 
-#kupabl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kˌuɫpˈablə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#kˌuwpˈablə# | Rule 581 : [+lat,+back] > w 
+#kˌupˈablə# | Rule 582 : w > ∅ / [+syl,+hi,+round] __ 
+#kˌupˈablə̯# | Rule 707 : ə > ə̯ / __ #
+#kˌupˈabl# | Rule 735 : ə̯ > ∅ 
+#kupabl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

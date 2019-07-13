@@ -9,9 +9,9 @@ k r ˈuː d̪ ɑ m
 #krˈʉːða# | Rule 223 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
 #krˈʉːðə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #krˈyːðə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#krˈyːə# | Rule 608 : {θ;ð} > {∅;∅} 
-#krˈyː# | Rule 696 : ə > ∅ / [+syl] __ 
-#kʀˈyː# | Rule 752 : r > ʀ 
-#kʀyː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#kʀy# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#krˈyːə# | Rule 607 : {θ;ð} > {∅;∅} 
+#krˈyː# | Rule 695 : ə > ∅ / [+syl] __ 
+#kʀˈyː# | Rule 751 : r > ʀ 
+#kʀyː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kʀy# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #kʁy# | Rule 759 : ʀ > ʁ 

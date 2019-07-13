@@ -8,8 +8,8 @@ f ˈɑ b ɑ
 #fˈae̯va# | Rule 442 : β > v 
 #fˈae̯və# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #fˈeːvə# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#fˈɛːvə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#fˈɛːvə̯# | Rule 708 : ə > ə̯ / __ #
-#fˈɛːv# | Rule 736 : ə̯ > ∅ 
-#fɛːv# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fɛv# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˈɛːvə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#fˈɛːvə̯# | Rule 707 : ə > ə̯ / __ #
+#fˈɛːv# | Rule 735 : ə̯ > ∅ 
+#fɛːv# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fɛv# | Rule 753 : [+syl,+long] > [-long,-splng] 

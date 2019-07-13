@@ -11,10 +11,10 @@ f ˈi n̪ d̪ i t̪ ɑ m
 #fˈen̪t̪ə# | Rule 477 : [+cons] > ∅ / [+cons] __ [-son]
 #fˈẽn̪t̪ə# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #fˈɛ̃n̪t̪ə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#fˈãn̪t̪ə# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#fˈãːt̪ə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#fˈãːt̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#fˈɑ̃ːt̪ə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#fˈɑ̃ːt̪# | Rule 736 : ə̯ > ∅ 
-#fɑ̃ːt̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fɑ̃t̪# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˈãn̪t̪ə# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#fˈãːt̪ə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#fˈãːt̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#fˈɑ̃ːt̪ə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#fˈɑ̃ːt̪# | Rule 735 : ə̯ > ∅ 
+#fɑ̃ːt̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fɑ̃t̪# | Rule 753 : [+syl,+long] > [-long,-splng] 

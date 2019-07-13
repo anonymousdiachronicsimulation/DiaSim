@@ -16,10 +16,10 @@ d̪ iː r ˈe k t̪ ɑ m
 #d̪rˈie̯çt̪ə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #d̪rˈie̯ʝt̪ə# | Rule 464 : ç > ʝ 
 #d̪rˈie̯jt̪ə# | Rule 470 : ʝ > j / [-cons] __ 
-#d̪rˈijt̪ə# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#d̪rˈit̪ə# | Rule 560 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
-#d̪rˈit̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#d̪rˈit̪# | Rule 736 : ə̯ > ∅ 
-#d̪ʀˈit̪# | Rule 752 : r > ʀ 
-#d̪ʀit̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#d̪rˈijt̪ə# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#d̪rˈit̪ə# | Rule 559 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
+#d̪rˈit̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#d̪rˈit̪# | Rule 735 : ə̯ > ∅ 
+#d̪ʀˈit̪# | Rule 751 : r > ʀ 
+#d̪ʀit̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #d̪ʁit̪# | Rule 759 : ʀ > ʁ 

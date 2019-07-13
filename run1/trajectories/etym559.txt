@@ -13,8 +13,8 @@ l ˈɑ k t̪ e m
 #lˈaçt̪# | Rule 395 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ} > {t̪;d̪;s;z;n̪;d͡z} / [+hi,+front,-syl] __ 
 #lˈaʝt̪# | Rule 464 : ç > ʝ 
 #lˈajt̪# | Rule 470 : ʝ > j / [-cons] __ 
-#lˈɛjt̪# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#lˈɛːt̪# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#lˈɛː# | Rule 734 : [-son] > ∅ / __ #
-#lɛː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#lɛ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#lˈɛjt̪# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#lˈɛːt̪# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#lˈɛː# | Rule 733 : [-son] > ∅ / __ #
+#lɛː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lɛ# | Rule 753 : [+syl,+long] > [-long,-splng] 

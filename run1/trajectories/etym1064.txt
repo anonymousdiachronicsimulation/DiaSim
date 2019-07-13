@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :1064:
-#sˌɑpˈeːre# >>> #savwɛʁ# ( Correct : #savwaʁ#) :
+#sˌɑpˈeːre# >>> #savwaʁ# ( Correct : #savwaʁ#) :
 s ˌɑ p ˈeː r e 
 #sˌɑpˈeːrɛ# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
 #sˌɑpˈerɛ# | Rule 58 : [+syl,+long] > [-long,-splng] 
@@ -13,11 +13,12 @@ s ˌɑ p ˈeː r e
 #sˌaβˈejr# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #sˌavˈejr# | Rule 442 : β > v 
 #sˌavˈojr# | Rule 520 : ˈe > ˈo / [+lab,+voi] __ j
-#sˌavˈoɛ̯r# | Rule 561 : j > ɛ̯ / [+syl,+back,+round] __ r
-#sˌavˈuɛ̯r# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#sˌavwˈɛr# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#sˌavwˈɛɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sˌavwˈɛr# | Rule 750 : ɹ > r 
-#sˌavwˈɛʀ# | Rule 752 : r > ʀ 
-#savwɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#savwɛʁ# | Rule 759 : ʀ > ʁ 
+#sˌavˈoɛ̯r# | Rule 560 : j > ɛ̯ / [+syl,+back,+round] __ r
+#sˌavˈuɛ̯r# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#sˌavwˈɛr# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#sˌavwˈɛɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sˌavwˈɛr# | Rule 749 : ɹ > r 
+#sˌavwˈɛʀ# | Rule 751 : r > ʀ 
+#savwɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#savwaʀ# | Rule 758 : ɛ > a / w __ 
+#savwaʁ# | Rule 759 : ʀ > ʁ 

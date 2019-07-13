@@ -21,9 +21,9 @@ i ˌeː i ˈuː n̪ i u m
 #d͡ʒˌoˈyɲ# | Rule 508 : [+hi,+round,-back] > [+front] 
 #d͡ʒˌoˈyj̃ɲ# | Rule 521 : ∅ > j̃ / [+tense] __ ɲ #
 #d͡ʒˌəˈyj̃ɲ# | Rule 540 : ˌo > ˌə / __ [+prim,+hi,+round,-back]
-#d͡ʒˌəˈyj̃n̪# | Rule 644 : ɲ > n̪ / __ #
-#ʒˌəˈyj̃n̪# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʒˌəˈyːj̃n̪# | Rule 691 : [+prim] > [+long] / ˌə __ 
-#ʒˈyːj̃n̪# | Rule 692 : ˌə > ∅ / __ [+syl]
-#ʒyːj̃n̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʒyj̃n̪# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#d͡ʒˌəˈyj̃n̪# | Rule 643 : ɲ > n̪ / __ #
+#ʒˌəˈyj̃n̪# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʒˌəˈyːj̃n̪# | Rule 690 : [+prim] > [+long] / ˌə __ 
+#ʒˈyːj̃n̪# | Rule 691 : ˌə > ∅ / __ [+syl]
+#ʒyːj̃n̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʒyj̃n̪# | Rule 753 : [+syl,+long] > [-long,-splng] 

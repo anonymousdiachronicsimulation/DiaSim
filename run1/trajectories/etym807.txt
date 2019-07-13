@@ -13,8 +13,8 @@ p ˈɑː n̪ e m
 #pˈajn̪# | Rule 443 : e̯ > j / [+lo,+stres] __ [+nas,+cons,-hi]
 #pˈaj̃n̪# | Rule 509 : j > j̃ / [+lo] __ [+nas,-syl]
 #pˈãj̃n̪# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#pˈɛ̃j̃n̪# | Rule 588 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
-#pˈɛ̃n̪# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#pˈɛ̃ː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#pɛ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pɛ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˈɛ̃j̃n̪# | Rule 587 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
+#pˈɛ̃n̪# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#pˈɛ̃ː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#pɛ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pɛ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 

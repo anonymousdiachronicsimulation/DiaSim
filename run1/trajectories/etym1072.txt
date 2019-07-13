@@ -17,9 +17,9 @@ s ˌɑ t̪ i ˈoː n̪ e m
 #sˌad͡zʲˈũːn̪# | Rule 360 : [-voi] > [+voi] / [-cons] __ [-cons]
 #sˌajd͡zˈũːn̪# | Rule 396 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z} / [-cons] __ 
 #sˌajzˈũːn̪# | Rule 401 : d͡z > z / [-cons] __ [-cons]
-#sˌɛjzˈũːn̪# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#sˌɛːzˈũːn̪# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#sˌɛːzˈũː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#sɛːzũː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sɛzũ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#sɛzɔ̃# | Rule 755 : ũ > ɔ̃ 
+#sˌɛjzˈũːn̪# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#sˌɛːzˈũːn̪# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#sˌɛːzˈũː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#sɛːzũː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sɛzũ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#sɛzɔ̃# | Rule 754 : ũ > ɔ̃ 

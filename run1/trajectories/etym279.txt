@@ -15,10 +15,10 @@ f ˈo r i ɑ m
 #fˈʉo̯jrə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #fˈyo̯jrə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #fˈye̯jrə# | Rule 537 : o̯ > e̯ 
-#fˈyjrə# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#fɥˈirə# | Rule 635 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
-#fɥˈirə̯# | Rule 708 : ə > ə̯ / __ #
-#fɥˈir# | Rule 736 : ə̯ > ∅ 
-#fɥˈiʀ# | Rule 752 : r > ʀ 
-#fɥiʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fˈyjrə# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#fɥˈirə# | Rule 634 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
+#fɥˈirə̯# | Rule 707 : ə > ə̯ / __ #
+#fɥˈir# | Rule 735 : ə̯ > ∅ 
+#fɥˈiʀ# | Rule 751 : r > ʀ 
+#fɥiʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #fɥiʁ# | Rule 759 : ʀ > ʁ 

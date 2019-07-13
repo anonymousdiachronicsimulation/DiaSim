@@ -23,12 +23,12 @@ s ˌɑː n̪ k t̪ i t̪ ˈɑː t̪ e m
 #sˌaɲt̪ʲˈie̯θ# | Rule 444 : [-delrel] > [+cont,0delrel] / [-cons] __ #
 #sˌaj̃n̪t̪ʲˈie̯θ# | Rule 449 : ɲ > j̃ n̪ / __ [+cons]
 #sˌãj̃n̪t̪ʲˈie̯θ# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#sˌɛ̃j̃n̪t̪ʲˈie̯θ# | Rule 588 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
-#sˌɛ̃j̃n̪t̪ʲjˈeθ# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#sˌɛ̃j̃n̪t̪ʲjˈe# | Rule 608 : {θ;ð} > {∅;∅} 
-#sˌɛ̃n̪t̪ʲjˈe# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#sˌɛ̃ːt̪ʲjˈe# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#sˌɛ̃ːt̪ʲˈe# | Rule 672 : j > ∅ / [+front,+cons] __ [+front,-hi,-lo,-round,+syl,-nas]
-#sˌɛ̃ːt̪ˈe# | Rule 673 : {sʲ;d̪ʲ;t̪ʲ} > {s;d̪;t̪} 
-#sɛ̃ːt̪e# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sɛ̃t̪e# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˌɛ̃j̃n̪t̪ʲˈie̯θ# | Rule 587 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
+#sˌɛ̃j̃n̪t̪ʲjˈeθ# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#sˌɛ̃j̃n̪t̪ʲjˈe# | Rule 607 : {θ;ð} > {∅;∅} 
+#sˌɛ̃n̪t̪ʲjˈe# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#sˌɛ̃ːt̪ʲjˈe# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#sˌɛ̃ːt̪ʲˈe# | Rule 671 : j > ∅ / [+front,+cons] __ [+front,-hi,-lo,-round,+syl,-nas]
+#sˌɛ̃ːt̪ˈe# | Rule 672 : {sʲ;d̪ʲ;t̪ʲ} > {s;d̪;t̪} 
+#sɛ̃ːt̪e# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sɛ̃t̪e# | Rule 753 : [+syl,+long] > [-long,-splng] 

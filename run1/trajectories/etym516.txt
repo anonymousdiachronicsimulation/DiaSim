@@ -13,8 +13,8 @@ k r ˈuː d̪ u m
 #krˈʉːð# | Rule 308 : ə̯ > ∅ 
 #krˈʉːθ# | Rule 450 : [-son] > [-voi] / __ #
 #krˈyːθ# | Rule 508 : [+hi,+round,-back] > [+front] 
-#krˈyː# | Rule 608 : {θ;ð} > {∅;∅} 
-#kʀˈyː# | Rule 752 : r > ʀ 
-#kʀyː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#kʀy# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#krˈyː# | Rule 607 : {θ;ð} > {∅;∅} 
+#kʀˈyː# | Rule 751 : r > ʀ 
+#kʀyː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kʀy# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #kʁy# | Rule 759 : ʀ > ʁ 

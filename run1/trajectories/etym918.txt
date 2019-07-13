@@ -15,9 +15,9 @@ p l ˈo w i ɑ m
 #plˈʉo̯jə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #plˈyo̯jə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #plˈye̯jə# | Rule 537 : o̯ > e̯ 
-#plˈyjə# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#plɥˈiə# | Rule 635 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
-#plɥˈiːə# | Rule 695 : [+stres] > [+long] / __ ə
-#plɥˈiː# | Rule 696 : ə > ∅ / [+syl] __ 
-#plɥiː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#plɥi# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#plˈyjə# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#plɥˈiə# | Rule 634 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
+#plɥˈiːə# | Rule 694 : [+stres] > [+long] / __ ə
+#plɥˈiː# | Rule 695 : ə > ∅ / [+syl] __ 
+#plɥiː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#plɥi# | Rule 753 : [+syl,+long] > [-long,-splng] 

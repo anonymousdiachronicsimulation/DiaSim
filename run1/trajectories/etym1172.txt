@@ -7,10 +7,10 @@ t̪ ˌɑ b ˈe r n̪ ɑ m
 #t̪ˌaβˈɛrn̪a# | Rule 205 : [+lo] > [+front,-back] 
 #t̪ˌavˈɛrn̪a# | Rule 442 : β > v 
 #t̪ˌavˈɛrn̪ə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#t̪ˌavˈɛrn̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#t̪ˌavˈɛɹn̪ə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#t̪ˌavˈɛɹn̪# | Rule 736 : ə̯ > ∅ 
-#t̪ˌavˈɛrn̪# | Rule 750 : ɹ > r 
-#t̪ˌavˈɛʀn̪# | Rule 752 : r > ʀ 
-#t̪avɛʀn̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˌavˈɛrn̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#t̪ˌavˈɛɹn̪ə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#t̪ˌavˈɛɹn̪# | Rule 735 : ə̯ > ∅ 
+#t̪ˌavˈɛrn̪# | Rule 749 : ɹ > r 
+#t̪ˌavˈɛʀn̪# | Rule 751 : r > ʀ 
+#t̪avɛʀn̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #t̪avɛʁn̪# | Rule 759 : ʀ > ʁ 

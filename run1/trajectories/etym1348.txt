@@ -13,12 +13,12 @@ w ˈi r ɡ ɑ m
 #βˈerd͡ʒa# | Rule 263 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
 #vˈerd͡ʒa# | Rule 442 : β > v 
 #vˈerd͡ʒə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#vˈɛrd͡ʒə# | Rule 591 : ˈe > ˈɛ / __ r [+cons]
-#vˈɛrʒə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#vˈɛrʒə̯# | Rule 708 : ə > ə̯ / __ #
-#vˈɛɹʒə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#vˈɛɹʒ# | Rule 736 : ə̯ > ∅ 
-#vˈɛrʒ# | Rule 750 : ɹ > r 
-#vˈɛʀʒ# | Rule 752 : r > ʀ 
-#vɛʀʒ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vˈɛrd͡ʒə# | Rule 590 : ˈe > ˈɛ / __ r [+cons]
+#vˈɛrʒə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#vˈɛrʒə̯# | Rule 707 : ə > ə̯ / __ #
+#vˈɛɹʒə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#vˈɛɹʒ# | Rule 735 : ə̯ > ∅ 
+#vˈɛrʒ# | Rule 749 : ɹ > r 
+#vˈɛʀʒ# | Rule 751 : r > ʀ 
+#vɛʀʒ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #vɛʁʒ# | Rule 759 : ʀ > ʁ 

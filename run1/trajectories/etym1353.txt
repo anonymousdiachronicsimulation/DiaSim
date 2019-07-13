@@ -21,15 +21,15 @@ w ˈi t̪ r u m
 #βˈejðrə# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #vˈejðrə# | Rule 442 : β > v 
 #vˈojðrə# | Rule 520 : ˈe > ˈo / [+lab,+voi] __ j
-#vˈujðrə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#vˈʌjðrə# | Rule 604 : ˈu > ˈʌ / __ j [+ant,+voi,+distr] ( r ) ə #
-#vˈʌjrə# | Rule 608 : {θ;ð} > {∅;∅} 
-#vˈajrə# | Rule 619 : ˈʌ > ˈa 
-#vˈɛjrə# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#vˈɛːrə# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#vˈɛːrə̯# | Rule 708 : ə > ə̯ / __ #
-#vˈɛːr# | Rule 736 : ə̯ > ∅ 
-#vˈɛːʀ# | Rule 752 : r > ʀ 
-#vɛːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vɛʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˈujðrə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#vˈʌjðrə# | Rule 603 : ˈu > ˈʌ / __ j [+ant,+voi,+distr] ( r ) ə #
+#vˈʌjrə# | Rule 607 : {θ;ð} > {∅;∅} 
+#vˈajrə# | Rule 618 : ˈʌ > ˈa 
+#vˈɛjrə# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#vˈɛːrə# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#vˈɛːrə̯# | Rule 707 : ə > ə̯ / __ #
+#vˈɛːr# | Rule 735 : ə̯ > ∅ 
+#vˈɛːʀ# | Rule 751 : r > ʀ 
+#vɛːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vɛʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #vɛʁ# | Rule 759 : ʀ > ʁ 

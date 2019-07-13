@@ -15,11 +15,11 @@ k ˈi r k i n̪ u m
 #t͡sʲˈerɾ# | Rule 308 : ə̯ > ∅ 
 #t͡sʲˈerr# | Rule 390 : ɾ > r 
 #t͡sˈerr# | Rule 549 : t͡sʲ > t͡s / # __ 
-#t͡sˈɛrr# | Rule 591 : ˈe > ˈɛ / __ r [+cons]
-#t͡sˈɛr# | Rule 605 : r r > r 
-#sˈɛr# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˈɛɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sˈɛr# | Rule 750 : ɹ > r 
-#sˈɛʀ# | Rule 752 : r > ʀ 
-#sɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡sˈɛrr# | Rule 590 : ˈe > ˈɛ / __ r [+cons]
+#t͡sˈɛr# | Rule 604 : r r > r 
+#sˈɛr# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˈɛɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sˈɛr# | Rule 749 : ɹ > r 
+#sˈɛʀ# | Rule 751 : r > ʀ 
+#sɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #sɛʁ# | Rule 759 : ʀ > ʁ 

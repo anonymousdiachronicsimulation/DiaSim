@@ -13,12 +13,12 @@ b ˌe r b ˈiː k e m
 #bˌɛrbˈiːt͡sʲ# | Rule 308 : ə̯ > ∅ 
 #bˌerbˈiːt͡sʲ# | Rule 432 : ˌɛ > ˌe / __ @ @
 #bˌerbˈiːt͡s# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#bˌerbˈiːs# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#bˌɛrbˈiːs# | Rule 685 : [-hi,-lo,+syl,+front] > [-tense,-cons,-lat,+cont,0delrel] / __ r [+cons,-strid]
-#bˌɛɹbˈiːs# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#bˌɛɹbˈiː# | Rule 734 : [-son] > ∅ / __ #
-#bˌɛrbˈiː# | Rule 750 : ɹ > r 
-#bˌɛʀbˈiː# | Rule 752 : r > ʀ 
-#bɛʀbiː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#bɛʀbi# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#bˌerbˈiːs# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#bˌɛrbˈiːs# | Rule 684 : [-hi,-lo,+syl,+front] > [-tense,-cons,-lat,+cont,0delrel] / __ r [+cons,-strid]
+#bˌɛɹbˈiːs# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#bˌɛɹbˈiː# | Rule 733 : [-son] > ∅ / __ #
+#bˌɛrbˈiː# | Rule 749 : ɹ > r 
+#bˌɛʀbˈiː# | Rule 751 : r > ʀ 
+#bɛʀbiː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bɛʀbi# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #bɛʁbi# | Rule 759 : ʀ > ʁ 

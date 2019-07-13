@@ -11,8 +11,8 @@ t͡s ˈu k k ɑ m
 #t͡sˈot̪t͡ʃa# | Rule 264 : {k t͡ʃ;ɡ d͡ʒ} > {t̪ t͡ʃ;d̪ d͡ʒ} 
 #t͡sˈot̪t͡ʃə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #t͡sˈot͡ʃə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#t͡sˈut͡ʃə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#sˈuʃə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˈuʃə̯# | Rule 708 : ə > ə̯ / __ #
-#sˈuʃ# | Rule 736 : ə̯ > ∅ 
-#suʃ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡sˈut͡ʃə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#sˈuʃə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˈuʃə̯# | Rule 707 : ə > ə̯ / __ #
+#sˈuʃ# | Rule 735 : ə̯ > ∅ 
+#suʃ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

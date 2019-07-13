@@ -18,9 +18,9 @@ w ˈe t̪ u l ɑː s
 #βˈie̯ʎas# | Rule 252 : [+hi,+front,-lat,-syl] > ∅ / __ ʎ
 #vˈie̯ʎas# | Rule 442 : β > v 
 #vˈie̯ʎəs# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#vjˈeʎəs# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#vjˈɛʎəs# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#vjˈɛʎə# | Rule 734 : [-son] > ∅ / __ #
-#vjɛʎə# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vjˈeʎəs# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#vjˈɛʎəs# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#vjˈɛʎə# | Rule 733 : [-son] > ∅ / __ #
+#vjɛʎə# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #vjɛjə# | Rule 760 : ʎ > j 
 #vjɛj# | Rule 762 : ə > ∅ / [+syl] ( [-syl] )* __ #

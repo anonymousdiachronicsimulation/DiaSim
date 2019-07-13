@@ -24,8 +24,8 @@ i ˈuː d̪ i k e m
 #d͡ʒˈʉθt͡sʲə# | Rule 496 : [-son] > [-voi] / __ [-voi]
 #d͡ʒˈyθt͡sʲə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #d͡ʒˈyθt͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#d͡ʒˈyt͡sə# | Rule 608 : {θ;ð} > {∅;∅} 
-#ʒˈysə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʒˈysə̯# | Rule 708 : ə > ə̯ / __ #
-#ʒˈys# | Rule 736 : ə̯ > ∅ 
-#ʒys# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#d͡ʒˈyt͡sə# | Rule 607 : {θ;ð} > {∅;∅} 
+#ʒˈysə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʒˈysə̯# | Rule 707 : ə > ə̯ / __ #
+#ʒˈys# | Rule 735 : ə̯ > ∅ 
+#ʒys# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

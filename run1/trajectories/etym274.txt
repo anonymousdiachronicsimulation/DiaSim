@@ -8,7 +8,7 @@ f ˈo l l eː s
 #fˈɔlls# | Rule 308 : ə̯ > ∅ 
 #fˈɔls# | Rule 477 : [+cons] > ∅ / [+cons] __ [-son]
 #fˈɔɫs# | Rule 506 : [+lat] > ɫ / __ [+cons]
-#fˈɔws# | Rule 582 : [+lat,+back] > w 
-#fˈus# | Rule 625 : [-hi,-lo,+back,+round] w > [+hi,+tense,-cons,-lat,+cont,0delrel] ∅
-#fˈu# | Rule 734 : [-son] > ∅ / __ #
-#fu# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fˈɔws# | Rule 581 : [+lat,+back] > w 
+#fˈus# | Rule 624 : [-hi,-lo,+back,+round] w > [+hi,+tense,-cons,-lat,+cont,0delrel] ∅
+#fˈu# | Rule 733 : [-son] > ∅ / __ #
+#fu# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

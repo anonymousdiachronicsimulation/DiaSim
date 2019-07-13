@@ -20,11 +20,11 @@ p ˌe d̪ i t̪ ˈɑː l i ɑ
 #pˌɛðt̪ˈaʎa# | Rule 436 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
 #pˌɛðt̪ˈaʎə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #pˌɛθt̪ˈaʎə# | Rule 496 : [-son] > [-voi] / __ [-voi]
-#pˌɛt̪ˈaʎə# | Rule 608 : {θ;ð} > {∅;∅} 
-#pˌɛt̪ˈaːʎə# | Rule 706 : [+lo] > [+long] / __ ʎ ə #
-#pˌɛt̪ˈaːʎə̯# | Rule 708 : ə > ə̯ / __ #
-#pˌɛt̪ˈɑːʎə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#pˌɛt̪ˈɑːʎ# | Rule 736 : ə̯ > ∅ 
-#pɛt̪ɑːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pɛt̪ɑʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˌɛt̪ˈaʎə# | Rule 607 : {θ;ð} > {∅;∅} 
+#pˌɛt̪ˈaːʎə# | Rule 705 : [+lo] > [+long] / __ ʎ ə #
+#pˌɛt̪ˈaːʎə̯# | Rule 707 : ə > ə̯ / __ #
+#pˌɛt̪ˈɑːʎə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#pˌɛt̪ˈɑːʎ# | Rule 735 : ə̯ > ∅ 
+#pɛt̪ɑːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pɛt̪ɑʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #pɛt̪ɑj# | Rule 760 : ʎ > j 

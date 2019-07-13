@@ -12,10 +12,10 @@ f ˈo l i ɑ
 #fˈʉo̯ʎə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #fˈyo̯ʎə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #fˈye̯ʎə# | Rule 537 : o̯ > e̯ 
-#fˈøːʎə# | Rule 581 : [+hi,+round,+tense,+prim] e̯ > ˈøː
-#fˈøːʎə̯# | Rule 708 : ə > ə̯ / __ #
-#fˈøːʎ# | Rule 736 : ə̯ > ∅ 
-#fˈœːʎ# | Rule 740 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-#fœːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fœʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˈøːʎə# | Rule 580 : [+hi,+round,+tense,+prim] e̯ > ˈøː
+#fˈøːʎə̯# | Rule 707 : ə > ə̯ / __ #
+#fˈøːʎ# | Rule 735 : ə̯ > ∅ 
+#fˈœːʎ# | Rule 739 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+#fœːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fœʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #fœj# | Rule 760 : ʎ > j 

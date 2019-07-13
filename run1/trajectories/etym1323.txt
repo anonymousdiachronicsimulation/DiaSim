@@ -20,7 +20,7 @@ w ˈe t̪ u l u m
 #βˈie̯ʎə̯# | Rule 284 : ə > ə̯ 
 #βˈie̯ʎ# | Rule 308 : ə̯ > ∅ 
 #vˈie̯ʎ# | Rule 442 : β > v 
-#vjˈeʎ# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#vjˈɛʎ# | Rule 614 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons,-cor] #
-#vjɛʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vjˈeʎ# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#vjˈɛʎ# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons,-cor] #
+#vjɛʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #vjɛj# | Rule 760 : ʎ > j 

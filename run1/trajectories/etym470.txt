@@ -9,12 +9,12 @@ k l ˈeː t̪ ɑ
 #klˈejða# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #klˈejðə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #klˈojðə# | Rule 545 : [+front,+tense,-hi,-lo,+syl] > [+back,-front,+round,+lab] / __ j
-#klˈujðə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#klˈʌjðə# | Rule 604 : ˈu > ˈʌ / __ j [+ant,+voi,+distr] ( r ) ə #
-#klˈʌjə# | Rule 608 : {θ;ð} > {∅;∅} 
-#klˈajə# | Rule 619 : ˈʌ > ˈa 
-#klˈaːjə# | Rule 705 : [+prim] > [+long] / __ ( j ) ə #
-#klˈaːj# | Rule 707 : ə > ∅ / [+prim] ( j ) __ 
-#klˈɛː# | Rule 709 : ˈaː j > ˈɛː / __ #
-#klɛː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#klɛ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#klˈujðə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#klˈʌjðə# | Rule 603 : ˈu > ˈʌ / __ j [+ant,+voi,+distr] ( r ) ə #
+#klˈʌjə# | Rule 607 : {θ;ð} > {∅;∅} 
+#klˈajə# | Rule 618 : ˈʌ > ˈa 
+#klˈaːjə# | Rule 704 : [+prim] > [+long] / __ ( j ) ə #
+#klˈaːj# | Rule 706 : ə > ∅ / [+prim] ( j ) __ 
+#klˈɛː# | Rule 708 : ˈaː j > ˈɛː / __ #
+#klɛː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#klɛ# | Rule 753 : [+syl,+long] > [-long,-splng] 

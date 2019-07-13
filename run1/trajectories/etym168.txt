@@ -13,12 +13,12 @@ d̪ ˌeː r ˈe t̪ r oː
 #d̪ˌerˈie̯t̪rə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
 #d̪ˌerˈie̯d̪rə# | Rule 361 : [-voi,-delrel,+ant] > [+voi] / [-cons] __ [+cor,+son,-nas]
 #d̪ˌerˈie̯ðrə# | Rule 386 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
-#d̪ˌɛrˈie̯ðrə# | Rule 593 : ˌe > ˌɛ / __ [+cont,-lat,-nas,+voi] [+syl]
-#d̪ˌɛrjˈeðrə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#d̪ˌɛrjˈerə# | Rule 608 : {θ;ð} > {∅;∅} 
-#d̪ˌɛrjˈɛrə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#d̪ˌɛrjˈɛrə̯# | Rule 708 : ə > ə̯ / __ #
-#d̪ˌɛrjˈɛr# | Rule 736 : ə̯ > ∅ 
-#d̪ˌɛʀjˈɛʀ# | Rule 752 : r > ʀ 
-#d̪ɛʀjɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#d̪ˌɛrˈie̯ðrə# | Rule 592 : ˌe > ˌɛ / __ [+cont,-lat,-nas,+voi] [+syl]
+#d̪ˌɛrjˈeðrə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#d̪ˌɛrjˈerə# | Rule 607 : {θ;ð} > {∅;∅} 
+#d̪ˌɛrjˈɛrə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#d̪ˌɛrjˈɛrə̯# | Rule 707 : ə > ə̯ / __ #
+#d̪ˌɛrjˈɛr# | Rule 735 : ə̯ > ∅ 
+#d̪ˌɛʀjˈɛʀ# | Rule 751 : r > ʀ 
+#d̪ɛʀjɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #d̪ɛʁjɛʁ# | Rule 759 : ʀ > ʁ 

@@ -7,9 +7,9 @@ r ˈu p t̪ ɑ
 #rˈot̪t̪a# | Rule 207 : [+lab,-nas,-round,-cont] > t̪ / __ [-cont,+cor,-voi]
 #rˈot̪t̪ə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #rˈot̪ə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#rˈut̪ə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#rˈut̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#rˈut̪# | Rule 736 : ə̯ > ∅ 
-#ʀˈut̪# | Rule 752 : r > ʀ 
-#ʀut̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#rˈut̪ə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#rˈut̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#rˈut̪# | Rule 735 : ə̯ > ∅ 
+#ʀˈut̪# | Rule 751 : r > ʀ 
+#ʀut̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ʁut̪# | Rule 759 : ʀ > ʁ 

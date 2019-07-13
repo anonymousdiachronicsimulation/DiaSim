@@ -16,12 +16,12 @@ d̪ ˈe k i m u m
 #d̪ˈie̯t͡sʲmə# | Rule 308 : ə̯ > ∅ 
 #d̪ˈie̯jt͡sʲmə# | Rule 423 : ∅ > j / e̯ __ t͡sʲ
 #d̪ˈie̯jt͡smə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#d̪ˈijt͡smə# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#d̪ˈit͡smə# | Rule 560 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
-#d̪ˈismə# | Rule 594 : t͡s > s / __ [-cor,+cons]
-#d̪ˈixmə# | Rule 595 : s > x / [-cons] __ [+cons]
-#d̪ˈiːmə# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#d̪ˈiːmə̯# | Rule 708 : ə > ə̯ / __ #
-#d̪ˈiːm# | Rule 736 : ə̯ > ∅ 
-#d̪iːm# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#d̪im# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#d̪ˈijt͡smə# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#d̪ˈit͡smə# | Rule 559 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
+#d̪ˈismə# | Rule 593 : t͡s > s / __ [-cor,+cons]
+#d̪ˈixmə# | Rule 594 : s > x / [-cons] __ [+cons]
+#d̪ˈiːmə# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#d̪ˈiːmə̯# | Rule 707 : ə > ə̯ / __ #
+#d̪ˈiːm# | Rule 735 : ə̯ > ∅ 
+#d̪iːm# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#d̪im# | Rule 753 : [+syl,+long] > [-long,-splng] 

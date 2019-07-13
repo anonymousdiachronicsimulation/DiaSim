@@ -14,10 +14,10 @@ k ˌɑ r r ˈuː k ɑ m
 #t͡ʃˌarrˈʉːa# | Rule 263 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
 #t͡ʃˌarrˈʉːə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #t͡ʃˌarrˈyːə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#t͡ʃˌarˈyːə# | Rule 605 : r r > r 
-#ʃˌarˈyːə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˌarˈyː# | Rule 696 : ə > ∅ / [+syl] __ 
-#ʃˌaʀˈyː# | Rule 752 : r > ʀ 
-#ʃaʀyː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʃaʀy# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t͡ʃˌarˈyːə# | Rule 604 : r r > r 
+#ʃˌarˈyːə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˌarˈyː# | Rule 695 : ə > ∅ / [+syl] __ 
+#ʃˌaʀˈyː# | Rule 751 : r > ʀ 
+#ʃaʀyː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʃaʀy# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ʃaʁy# | Rule 759 : ʀ > ʁ 

@@ -12,10 +12,10 @@ t͡s r ˈo k n̪ ɑ m
 #frˈũɲɲa# | Rule 220 : ŋ > ɲ / __ ɲ
 #frˈũɲɲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #frˈũɲə# | Rule 448 : ɲ > ∅ / __ ɲ
-#frˈũɲə̯# | Rule 708 : ə > ə̯ / __ #
-#frˈũɲ# | Rule 736 : ə̯ > ∅ 
-#fʀˈũɲ# | Rule 752 : r > ʀ 
-#fʀũɲ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fʀɔ̃ɲ# | Rule 755 : ũ > ɔ̃ 
-#fʀɔɲ# | Rule 757 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
+#frˈũɲə̯# | Rule 707 : ə > ə̯ / __ #
+#frˈũɲ# | Rule 735 : ə̯ > ∅ 
+#fʀˈũɲ# | Rule 751 : r > ʀ 
+#fʀũɲ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʀɔ̃ɲ# | Rule 754 : ũ > ɔ̃ 
+#fʀɔɲ# | Rule 756 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
 #fʁɔɲ# | Rule 759 : ʀ > ʁ 

@@ -9,5 +9,5 @@ p l ˈɑ t̪ t̪ u m
 #plˈat̪t̪ə̯# | Rule 284 : ə > ə̯ 
 #plˈat̪t̪# | Rule 308 : ə̯ > ∅ 
 #plˈat̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#plˈa# | Rule 734 : [-son] > ∅ / __ #
-#pla# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#plˈa# | Rule 733 : [-son] > ∅ / __ #
+#pla# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

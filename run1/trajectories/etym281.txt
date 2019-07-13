@@ -17,10 +17,10 @@ f ˌo r m ˈiː k u m
 #fˌormˈiːʝ# | Rule 464 : ç > ʝ 
 #fˌormˈiːj# | Rule 470 : ʝ > j / [-cons] __ 
 #fˌormˈiː# | Rule 471 : j > ∅ / [+hi,+front,+tense] __ 
-#fˌurmˈiː# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#fˌuɹmˈiː# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#fˌurmˈiː# | Rule 750 : ɹ > r 
-#fˌuʀmˈiː# | Rule 752 : r > ʀ 
-#fuʀmiː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fuʀmi# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˌurmˈiː# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#fˌuɹmˈiː# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#fˌurmˈiː# | Rule 749 : ɹ > r 
+#fˌuʀmˈiː# | Rule 751 : r > ʀ 
+#fuʀmiː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fuʀmi# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #fuʁmi# | Rule 759 : ʀ > ʁ 

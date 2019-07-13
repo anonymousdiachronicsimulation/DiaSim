@@ -15,11 +15,11 @@ k ˈɑ r k e r e m
 #t͡ʃˈart̪rə̯# | Rule 284 : ə > ə̯ 
 #t͡ʃˈart̪r# | Rule 308 : ə̯ > ∅ 
 #t͡ʃˈart̪rə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
-#ʃˈart̪rə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˈart̪rə̯# | Rule 708 : ə > ə̯ / __ #
-#ʃˈaɹt̪rə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#ʃˈaɹt̪r# | Rule 736 : ə̯ > ∅ 
-#ʃˈart̪r# | Rule 750 : ɹ > r 
-#ʃˈaʀt̪ʀ# | Rule 752 : r > ʀ 
-#ʃaʀt̪ʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʃˈart̪rə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˈart̪rə̯# | Rule 707 : ə > ə̯ / __ #
+#ʃˈaɹt̪rə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#ʃˈaɹt̪r# | Rule 735 : ə̯ > ∅ 
+#ʃˈart̪r# | Rule 749 : ɹ > r 
+#ʃˈaʀt̪ʀ# | Rule 751 : r > ʀ 
+#ʃaʀt̪ʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ʃaʁt̪ʁ# | Rule 759 : ʀ > ʁ 

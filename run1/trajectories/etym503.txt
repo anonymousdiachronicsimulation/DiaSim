@@ -15,9 +15,9 @@ k ˌo s t̪ ˈɑː t̪ u m
 #kˌɔst̪ˈae̯t̪# | Rule 436 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
 #kˌɔst̪ˈae̯θ# | Rule 444 : [-delrel] > [+cont,0delrel] / [-cons] __ #
 #kˌɔst̪ˈeːθ# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#kˌɔxt̪ˈeːθ# | Rule 595 : s > x / [-cons] __ [+cons]
-#kˌɔxt̪ˈeː# | Rule 608 : {θ;ð} > {∅;∅} 
-#kˌɔːt̪ˈeː# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#kˌoːt̪ˈeː# | Rule 723 : [-hi,-lo,+back,+syl,+long] > [+tense,-cons,-lat,+cont,0delrel] 
-#koːt̪eː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#kot̪e# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#kˌɔxt̪ˈeːθ# | Rule 594 : s > x / [-cons] __ [+cons]
+#kˌɔxt̪ˈeː# | Rule 607 : {θ;ð} > {∅;∅} 
+#kˌɔːt̪ˈeː# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#kˌoːt̪ˈeː# | Rule 722 : [-hi,-lo,+back,+syl,+long] > [+tense,-cons,-lat,+cont,0delrel] 
+#koːt̪eː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kot̪e# | Rule 753 : [+syl,+long] > [-long,-splng] 

@@ -10,8 +10,8 @@ r ˈu p t̪ u m
 #rˈot̪t̪# | Rule 308 : ə̯ > ∅ 
 #rˈot̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #rˈɔt̪# | Rule 551 : {ˌo;ˈo} > {ˌɔ;ˈɔ} / __ [-cont,-lab,-delrel] #
-#rˈɔ# | Rule 734 : [-son] > ∅ / __ #
-#ʀˈɔ# | Rule 752 : r > ʀ 
-#ʀɔ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀo# | Rule 758 : ɔ > o / __ #
+#rˈɔ# | Rule 733 : [-son] > ∅ / __ #
+#ʀˈɔ# | Rule 751 : r > ʀ 
+#ʀɔ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀo# | Rule 757 : ɔ > o / __ #
 #ʁo# | Rule 759 : ʀ > ʁ 

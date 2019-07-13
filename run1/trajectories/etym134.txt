@@ -13,10 +13,10 @@ b r ˈɑː k ɑ m
 #brˈae̯ja# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #brˈaja# | Rule 425 : e̯ > ∅ / ˈa __ [+front,+son,-syl]
 #brˈajə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#brˈaːjə# | Rule 705 : [+prim] > [+long] / __ ( j ) ə #
-#brˈaːj# | Rule 707 : ə > ∅ / [+prim] ( j ) __ 
-#brˈɛː# | Rule 709 : ˈaː j > ˈɛː / __ #
-#bʀˈɛː# | Rule 752 : r > ʀ 
-#bʀɛː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#bʀɛ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#brˈaːjə# | Rule 704 : [+prim] > [+long] / __ ( j ) ə #
+#brˈaːj# | Rule 706 : ə > ∅ / [+prim] ( j ) __ 
+#brˈɛː# | Rule 708 : ˈaː j > ˈɛː / __ #
+#bʀˈɛː# | Rule 751 : r > ʀ 
+#bʀɛː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bʀɛ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #bʁɛ# | Rule 759 : ʀ > ʁ 

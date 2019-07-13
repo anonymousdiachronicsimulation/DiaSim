@@ -12,5 +12,5 @@ w ˈiː l e m
 #βˈiːlə̯# | Rule 284 : ə > ə̯ 
 #βˈiːl# | Rule 308 : ə̯ > ∅ 
 #vˈiːl# | Rule 442 : β > v 
-#viːl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vil# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#viːl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vil# | Rule 753 : [+syl,+long] > [-long,-splng] 

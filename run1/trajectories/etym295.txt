@@ -18,10 +18,10 @@ f r ˈiː k t̪ i ˈoː n̪ e m
 #frˈit̪t͡sʲˈũːn̪# | Rule 308 : ə̯ > ∅ 
 #frˈit͡sʲˈũːn̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #frˈit͡sˈũːn̪# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#frˈisˈũːn̪# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#frˈisˈũː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#fʀˈisˈũː# | Rule 752 : r > ʀ 
-#fʀisũː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fʀisũ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#fʀisɔ̃# | Rule 755 : ũ > ɔ̃ 
+#frˈisˈũːn̪# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#frˈisˈũː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#fʀˈisˈũː# | Rule 751 : r > ʀ 
+#fʀisũː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʀisũ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#fʀisɔ̃# | Rule 754 : ũ > ɔ̃ 
 #fʁisɔ̃# | Rule 759 : ʀ > ʁ 

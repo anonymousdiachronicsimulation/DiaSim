@@ -18,8 +18,8 @@ f ˌiː l ˈi o l u m
 #fˌiʎˈʉo̯l# | Rule 308 : ə̯ > ∅ 
 #fˌiʎˈyo̯l# | Rule 508 : [+hi,+round,-back] > [+front] 
 #fˌiʎˈye̯l# | Rule 537 : o̯ > e̯ 
-#fˌiʎˈøːl# | Rule 581 : [+hi,+round,+tense,+prim] e̯ > ˈøː
-#fˌiʎˈœːl# | Rule 740 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-#fiʎœːl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fiʎœl# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˌiʎˈøːl# | Rule 580 : [+hi,+round,+tense,+prim] e̯ > ˈøː
+#fˌiʎˈœːl# | Rule 739 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+#fiʎœːl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fiʎœl# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #fijœl# | Rule 760 : ʎ > j 

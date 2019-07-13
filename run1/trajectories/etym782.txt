@@ -15,11 +15,11 @@ n̪ ˌu t̪ r ˈiː k i ɑ
 #n̪ˌoðrˈit̪t͡sʲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #n̪ˌoðrˈit͡sʲə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #n̪ˌoðrˈit͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#n̪ˌuðrˈit͡sə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#n̪ˌurˈit͡sə# | Rule 608 : {θ;ð} > {∅;∅} 
-#n̪ˌurˈisə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#n̪ˌurˈisə̯# | Rule 708 : ə > ə̯ / __ #
-#n̪ˌurˈis# | Rule 736 : ə̯ > ∅ 
-#n̪ˌuʀˈis# | Rule 752 : r > ʀ 
-#n̪uʀis# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#n̪ˌuðrˈit͡sə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#n̪ˌurˈit͡sə# | Rule 607 : {θ;ð} > {∅;∅} 
+#n̪ˌurˈisə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#n̪ˌurˈisə̯# | Rule 707 : ə > ə̯ / __ #
+#n̪ˌurˈis# | Rule 735 : ə̯ > ∅ 
+#n̪ˌuʀˈis# | Rule 751 : r > ʀ 
+#n̪uʀis# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #n̪uʁis# | Rule 759 : ʀ > ʁ 

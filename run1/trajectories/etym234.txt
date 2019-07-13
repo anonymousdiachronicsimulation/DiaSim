@@ -12,7 +12,7 @@ f ˈɑ k i ɑ m
 #fˈat̪t͡sʲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #fˈat͡sʲə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #fˈat͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#fˈasə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#fˈasə̯# | Rule 708 : ə > ə̯ / __ #
-#fˈas# | Rule 736 : ə̯ > ∅ 
-#fas# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fˈasə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#fˈasə̯# | Rule 707 : ə > ə̯ / __ #
+#fˈas# | Rule 735 : ə̯ > ∅ 
+#fas# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

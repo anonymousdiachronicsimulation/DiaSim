@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :84:
-#ˌɑwikˈellum# >>> #wɛzo# ( Correct : #wazo#) :
+#ˌɑwikˈellum# >>> #wazo# ( Correct : #wazo#) :
 ˌɑ w i k ˈe l l u m 
 #ˌɑɣʷikˈellum# | Rule 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
 #ˌɑɣʷɪkˈɛllʊm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -21,15 +21,16 @@ Trajectory file for run 'run1'; etymon number :84:
 #ˌɔjzˈɛll# | Rule 402 : w > ∅ / [+round,+syl] __ j
 #ˌojzˈɛll# | Rule 435 : ˌɔ > ˌo 
 #ˌojzˈɛl# | Rule 497 : {p p;b b;f f;m m;t̪ t̪;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d͡ʒ;n̪ n̪;s s;z z;l l;k k;ɡ ɡ;n̪ n̪} > {p;b;f;m;t̪;t͡s;t͡sʲ;t͡ʃ;d̪;d͡ʒ;n̪;s;z;l;k;ɡ;n̪} 
-#ˌujzˈɛl# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#ˌujzˈɛɫ# | Rule 579 : l > ɫ / [+syl,-hi,-lo,-long] __ #
-#ˌujzˈɛw# | Rule 582 : [+lat,+back] > w 
-#ˌujzˈɛa̯w# | Rule 585 : ∅ > a̯ / [-hi,-lo,+front,-tense,+stres] __ w
-#ˌujze̯ˈaw# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#ˌuɛ̯ze̯ˈaw# | Rule 632 : j > ɛ̯ / [+syl,+back,+round] __ 
-#wˌɛze̯ˈaw# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#wˌɛze̯ˈoː# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#wˌɛzə̯ˈoː# | Rule 667 : e̯ > ə̯ / __ [+round,+back,-hi]
-#wˌɛzˈoː# | Rule 736 : ə̯ > ∅ 
-#wɛzoː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#wɛzo# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌujzˈɛl# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#ˌujzˈɛɫ# | Rule 578 : l > ɫ / [+syl,-hi,-lo,-long] __ #
+#ˌujzˈɛw# | Rule 581 : [+lat,+back] > w 
+#ˌujzˈɛa̯w# | Rule 584 : ∅ > a̯ / [-hi,-lo,+front,-tense,+stres] __ w
+#ˌujze̯ˈaw# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#ˌuɛ̯ze̯ˈaw# | Rule 631 : j > ɛ̯ / [+syl,+back,+round] __ 
+#wˌɛze̯ˈaw# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#wˌɛze̯ˈoː# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#wˌɛzə̯ˈoː# | Rule 666 : e̯ > ə̯ / __ [+round,+back,-hi]
+#wˌɛzˈoː# | Rule 735 : ə̯ > ∅ 
+#wɛzoː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#wɛzo# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#wazo# | Rule 758 : ɛ > a / w __ 

@@ -5,11 +5,11 @@ r ˈe m
 #rˈɛːm# | Rule 119 : [+prim] > [+long] / # ( [-syl] )* __ [+cons] #
 #rˈie̯m# | Rule 173 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
 #rˈie̯n̪# | Rule 543 : m > n̪ / [-cons] __ #
-#rjˈen̪# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#rjˈẽn̪# | Rule 628 : [+syl,-hi] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#rjˈẽː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#rjˈɛ̃ː# | Rule 741 : [+nas,+front,+syl,-lo] > [-hi,-tense,-cons,-lat,+cont,0delrel] 
-#ʀjˈɛ̃ː# | Rule 752 : r > ʀ 
-#ʀjɛ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀjɛ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#rjˈen̪# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#rjˈẽn̪# | Rule 627 : [+syl,-hi] > [+nas,+son,0delrel] / __ [+nas,-syl]
+#rjˈẽː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#rjˈɛ̃ː# | Rule 740 : [+nas,+front,+syl,-lo] > [-hi,-tense,-cons,-lat,+cont,0delrel] 
+#ʀjˈɛ̃ː# | Rule 751 : r > ʀ 
+#ʀjɛ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀjɛ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ʁjɛ̃# | Rule 759 : ʀ > ʁ 

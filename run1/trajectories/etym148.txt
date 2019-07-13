@@ -10,10 +10,10 @@ b ˈu l ɡ ɑ m
 #bˈoɫɟa# | Rule 254 : [+back,+front] > [-back] 
 #bˈoɫd͡ʒa# | Rule 263 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
 #bˈoɫd͡ʒə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#bˈuɫd͡ʒə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#bˈuwd͡ʒə# | Rule 582 : [+lat,+back] > w 
-#bˈud͡ʒə# | Rule 583 : w > ∅ / [+syl,+hi,+round] __ 
-#bˈuʒə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#bˈuʒə̯# | Rule 708 : ə > ə̯ / __ #
-#bˈuʒ# | Rule 736 : ə̯ > ∅ 
-#buʒ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bˈuɫd͡ʒə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#bˈuwd͡ʒə# | Rule 581 : [+lat,+back] > w 
+#bˈud͡ʒə# | Rule 582 : w > ∅ / [+syl,+hi,+round] __ 
+#bˈuʒə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#bˈuʒə̯# | Rule 707 : ə > ə̯ / __ #
+#bˈuʒ# | Rule 735 : ə̯ > ∅ 
+#buʒ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

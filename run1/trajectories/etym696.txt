@@ -14,9 +14,9 @@ m ˌi n̪ ˈɑː k i ɑ
 #mˌen̪ˈat͡sʲə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #mˌən̪ˈat͡sʲə# | Rule 513 : ˌe > ˌə / # [+son] __ ( [+cons] ) [+syl]
 #mˌən̪ˈat͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#mˌə̃n̪ˈat͡sə# | Rule 627 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#mˌə̃n̪ˈasə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#mˌən̪ˈasə# | Rule 654 : {ə̃;ˌə̃} > {ə;ˌə} 
-#mˌən̪ˈasə̯# | Rule 708 : ə > ə̯ / __ #
-#mˌən̪ˈas# | Rule 736 : ə̯ > ∅ 
-#mən̪as# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mˌə̃n̪ˈat͡sə# | Rule 626 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
+#mˌə̃n̪ˈasə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#mˌən̪ˈasə# | Rule 653 : {ə̃;ˌə̃} > {ə;ˌə} 
+#mˌən̪ˈasə̯# | Rule 707 : ə > ə̯ / __ #
+#mˌən̪ˈas# | Rule 735 : ə̯ > ∅ 
+#mən̪as# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

@@ -18,11 +18,11 @@ k ˌɑ w ˈɑ n̪ n̪ u m
 #t͡ʃˌowˈan̪# | Rule 497 : {p p;b b;f f;m m;t̪ t̪;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d͡ʒ;n̪ n̪;s s;z z;l l;k k;ɡ ɡ;n̪ n̪} > {p;b;f;m;t̪;t͡s;t͡sʲ;t͡ʃ;d̪;d͡ʒ;n̪;s;z;l;k;ɡ;n̪} 
 #t͡ʃˌowˈãn̪# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #t͡ʃˌowˈæ̃n̪# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#t͡ʃˌuwˈæ̃n̪# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#t͡ʃˌuwˈãn̪# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#t͡ʃˌuˈãn̪# | Rule 583 : w > ∅ / [+syl,+hi,+round] __ 
-#ʃˌuˈãn̪# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˌuˈãː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#ʃˌuˈɑ̃ː# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#ʃuɑ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʃuɑ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t͡ʃˌuwˈæ̃n̪# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#t͡ʃˌuwˈãn̪# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#t͡ʃˌuˈãn̪# | Rule 582 : w > ∅ / [+syl,+hi,+round] __ 
+#ʃˌuˈãn̪# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˌuˈãː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#ʃˌuˈɑ̃ː# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#ʃuɑ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʃuɑ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 

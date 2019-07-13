@@ -14,9 +14,9 @@ s ˈe k w o
 #sˈie̯ɣwə# | Rule 360 : [-voi] > [+voi] / [-cons] __ [-cons]
 #sˈʉe̯jə# | Rule 452 : ˈi e̯ ɣ w > ˈʉ e̯ j / @ __ 
 #sˈye̯jə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#sˈyjə# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#sɥˈiə# | Rule 635 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
-#sɥˈiːə# | Rule 695 : [+stres] > [+long] / __ ə
-#sɥˈiː# | Rule 696 : ə > ∅ / [+syl] __ 
-#sɥiː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sɥi# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˈyjə# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#sɥˈiə# | Rule 634 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
+#sɥˈiːə# | Rule 694 : [+stres] > [+long] / __ ə
+#sɥˈiː# | Rule 695 : ə > ∅ / [+syl] __ 
+#sɥiː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sɥi# | Rule 753 : [+syl,+long] > [-long,-splng] 

@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :854:
-#pˈeːn̪silem# >>> #pwɛl# ( Correct : #pwal#) :
+#pˈeːn̪silem# >>> #pwal# ( Correct : #pwal#) :
 p ˈeː n̪ s i l e m 
 #pˈeːsilem# | Rule 9 : n̪ > ∅ / [+syl,+long] __ s
 #pˈeːsɪlɛm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -16,9 +16,10 @@ p ˈeː n̪ s i l e m
 #pˈejzlə# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #pˈejlə# | Rule 536 : z > ∅ / __ [+cons]
 #pˈojlə# | Rule 545 : [+front,+tense,-hi,-lo,+syl] > [+back,-front,+round,+lab] / __ j
-#pˈujlə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#pˈuɛ̯lə# | Rule 632 : j > ɛ̯ / [+syl,+back,+round] __ 
-#pwˈɛlə# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#pwˈɛlə̯# | Rule 708 : ə > ə̯ / __ #
-#pwˈɛl# | Rule 736 : ə̯ > ∅ 
-#pwɛl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pˈujlə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#pˈuɛ̯lə# | Rule 631 : j > ɛ̯ / [+syl,+back,+round] __ 
+#pwˈɛlə# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#pwˈɛlə̯# | Rule 707 : ə > ə̯ / __ #
+#pwˈɛl# | Rule 735 : ə̯ > ∅ 
+#pwɛl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pwal# | Rule 758 : ɛ > a / w __ 

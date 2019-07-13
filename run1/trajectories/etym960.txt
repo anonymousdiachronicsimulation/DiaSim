@@ -17,8 +17,8 @@ p r ˌiː w ˈɑː t̪ u m
 #prˌivˈae̯t̪# | Rule 442 : β > v 
 #prˌivˈae̯θ# | Rule 444 : [-delrel] > [+cont,0delrel] / [-cons] __ #
 #prˌivˈeːθ# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#prˌivˈeː# | Rule 608 : {θ;ð} > {∅;∅} 
-#pʀˌivˈeː# | Rule 752 : r > ʀ 
-#pʀiveː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pʀive# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#prˌivˈeː# | Rule 607 : {θ;ð} > {∅;∅} 
+#pʀˌivˈeː# | Rule 751 : r > ʀ 
+#pʀiveː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pʀive# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #pʁive# | Rule 759 : ʀ > ʁ 

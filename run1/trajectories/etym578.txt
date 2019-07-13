@@ -10,8 +10,8 @@ l ˈɑ w k k ɑ m
 #lˈɔwt̪t͡ʃa# | Rule 264 : {k t͡ʃ;ɡ d͡ʒ} > {t̪ t͡ʃ;d̪ d͡ʒ} 
 #lˈɔwt̪t͡ʃə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #lˈɔwt͡ʃə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#lˈɔt͡ʃə# | Rule 564 : {ˌɔ w;ˌo w;ˈɔ w} > {ˌɔ;ˌɔ;ˈɔ} / __ [+strid] @
-#lˈɔʃə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#lˈɔʃə̯# | Rule 708 : ə > ə̯ / __ #
-#lˈɔʃ# | Rule 736 : ə̯ > ∅ 
-#lɔʃ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lˈɔt͡ʃə# | Rule 563 : {ˌɔ w;ˌo w;ˈɔ w} > {ˌɔ;ˌɔ;ˈɔ} / __ [+strid] @
+#lˈɔʃə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#lˈɔʃə̯# | Rule 707 : ə > ə̯ / __ #
+#lˈɔʃ# | Rule 735 : ə̯ > ∅ 
+#lɔʃ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

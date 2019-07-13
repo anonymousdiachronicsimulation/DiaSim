@@ -11,6 +11,6 @@ l ˈiː ɡ ɑ m
 #lˈiːja# | Rule 391 : ʝ > j 
 #lˈiːjə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #lˈiːə# | Rule 471 : j > ∅ / [+hi,+front,+tense] __ 
-#lˈiː# | Rule 696 : ə > ∅ / [+syl] __ 
-#liː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#li# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#lˈiː# | Rule 695 : ə > ∅ / [+syl] __ 
+#liː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#li# | Rule 753 : [+syl,+long] > [-long,-splng] 

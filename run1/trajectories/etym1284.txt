@@ -15,12 +15,12 @@ w ˌɑ l ˈoː r e m
 #βˌalˈowr# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #vˌalˈowr# | Rule 442 : β > v 
 #vˌalˈewr# | Rule 544 : ˈo > ˈe / __ w
-#vˌalˈøwr# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#vˌalˈøːr# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#vˌalˈœːr# | Rule 687 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
-#vˌalˈœːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#vˌalˈœːr# | Rule 750 : ɹ > r 
-#vˌalˈœːʀ# | Rule 752 : r > ʀ 
-#valœːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#valœʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˌalˈøwr# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#vˌalˈøːr# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#vˌalˈœːr# | Rule 686 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
+#vˌalˈœːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#vˌalˈœːr# | Rule 749 : ɹ > r 
+#vˌalˈœːʀ# | Rule 751 : r > ʀ 
+#valœːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#valœʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #valœʁ# | Rule 759 : ʀ > ʁ 

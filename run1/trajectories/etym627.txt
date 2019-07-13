@@ -14,13 +14,13 @@ m ˌɑ ɡ ˈi s t̪ e r
 #mˌaʝˈist̪ə̯r# | Rule 284 : ə > ə̯ 
 #mˌaʝˈist̪rə# | Rule 289 : {ə̯ r;ə̯ ɾ} > {r ə;ɾ ə} / __ #
 #mˌajˈist̪rə# | Rule 391 : ʝ > j 
-#mˌajˈixt̪rə# | Rule 595 : s > x / [-cons] __ [+cons]
-#mˌajˈiːt̪rə# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#mˌajˈiːt̪rə̯# | Rule 708 : ə > ə̯ / __ #
-#mˌajˈiːt̪r# | Rule 736 : ə̯ > ∅ 
-#mˌeˈiːt̪r# | Rule 745 : [+lo,+front] j > [-lo] ∅/ __ [+prim,+tense]
-#mˌɛˈiːt̪r# | Rule 746 : [+syl,-lo,-hi] > [-tense,-cons,-lat,+cont,0delrel] / __ [-cons,+hi,+front]
-#mˌɛˈiːt̪ʀ# | Rule 752 : r > ʀ 
-#mɛiːt̪ʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mɛit̪ʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˌajˈixt̪rə# | Rule 594 : s > x / [-cons] __ [+cons]
+#mˌajˈiːt̪rə# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#mˌajˈiːt̪rə̯# | Rule 707 : ə > ə̯ / __ #
+#mˌajˈiːt̪r# | Rule 735 : ə̯ > ∅ 
+#mˌeˈiːt̪r# | Rule 744 : [+lo,+front] j > [-lo] ∅/ __ [+prim,+tense]
+#mˌɛˈiːt̪r# | Rule 745 : [+syl,-lo,-hi] > [-tense,-cons,-lat,+cont,0delrel] / __ [-cons,+hi,+front]
+#mˌɛˈiːt̪ʀ# | Rule 751 : r > ʀ 
+#mɛiːt̪ʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mɛit̪ʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #mɛit̪ʁ# | Rule 759 : ʀ > ʁ 

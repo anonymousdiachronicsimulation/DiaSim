@@ -14,11 +14,11 @@ r ˌuː t̪ ˈɑː r e
 #rˌʉðˈae̯r# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #rˌyðˈae̯r# | Rule 508 : [+hi,+round,-back] > [+front] 
 #rˌyðˈeːr# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#rˌyˈeːr# | Rule 608 : {θ;ð} > {∅;∅} 
-#rɥˈeːr# | Rule 718 : [+hi,+stres,-prim] [-hi,-lo,+syl] > [-syl,0stres,0prim] [+stres,+syl,+son,0delrel]
-#rɥˈeːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#rɥˈeːr# | Rule 750 : ɹ > r 
-#ʀɥˈeːʀ# | Rule 752 : r > ʀ 
-#ʀɥeːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀɥeʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#rˌyˈeːr# | Rule 607 : {θ;ð} > {∅;∅} 
+#rɥˈeːr# | Rule 717 : [+hi,+stres,-prim] [-hi,-lo,+syl] > [-syl,0stres,0prim] [+stres,+syl,+son,0delrel]
+#rɥˈeːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#rɥˈeːr# | Rule 749 : ɹ > r 
+#ʀɥˈeːʀ# | Rule 751 : r > ʀ 
+#ʀɥeːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀɥeʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ʁɥeʁ# | Rule 759 : ʀ > ʁ 

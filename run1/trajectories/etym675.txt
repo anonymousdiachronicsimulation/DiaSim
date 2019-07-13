@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :675:
-#mˌed̪iˈɑːn̪um# >>> #mwɛjɛ̃# ( Correct : #mwajɛ̃#) :
+#mˌed̪iˈɑːn̪um# >>> #mwajɛ̃# ( Correct : #mwajɛ̃#) :
 m ˌe d̪ i ˈɑː n̪ u m 
 #mˌɛd̪ɪˈɑːn̪ʊm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
 #mˌɛd̪jˈɑːn̪ʊm# | Rule 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
@@ -22,10 +22,11 @@ m ˌe d̪ i ˈɑː n̪ u m
 #mˌejˈaj̃n̪# | Rule 509 : j > j̃ / [+lo] __ [+nas,-syl]
 #mˌejˈãj̃n̪# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #mˌojˈãj̃n̪# | Rule 545 : [+front,+tense,-hi,-lo,+syl] > [+back,-front,+round,+lab] / __ j
-#mˌujˈãj̃n̪# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#mˌujˈɛ̃j̃n̪# | Rule 588 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
-#mwˌɛjˈɛ̃j̃n̪# | Rule 631 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
-#mwˌɛjˈɛ̃n̪# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#mwˌɛjˈɛ̃ː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#mwɛjɛ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mwɛjɛ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˌujˈãj̃n̪# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#mˌujˈɛ̃j̃n̪# | Rule 587 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
+#mwˌɛjˈɛ̃j̃n̪# | Rule 630 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
+#mwˌɛjˈɛ̃n̪# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#mwˌɛjˈɛ̃ː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#mwɛjɛ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mwɛjɛ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#mwajɛ̃# | Rule 758 : ɛ > a / w __ 

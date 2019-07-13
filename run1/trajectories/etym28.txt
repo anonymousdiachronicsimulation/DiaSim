@@ -23,8 +23,8 @@ Trajectory file for run 'run1'; etymon number :28:
 #ˌat̪t͡sʲˈie̯r# | Rule 394 : rʲ > r 
 #ˌat͡sʲˈie̯r# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #ˌat͡sˈie̯r# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#ˌat͡sjˈer# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#ˌasjˈer# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ˌasjˈeɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#ˌasjˈe# | Rule 748 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
-#asje# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌat͡sjˈer# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#ˌasjˈer# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ˌasjˈeɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#ˌasjˈe# | Rule 747 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+#asje# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

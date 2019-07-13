@@ -13,6 +13,6 @@ Trajectory file for run 'run1'; etymon number :1:
 #ˌabbˈae̯θ# | Rule 444 : [-delrel] > [+cont,0delrel] / [-cons] __ #
 #ˌabˈae̯θ# | Rule 497 : {p p;b b;f f;m m;t̪ t̪;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d͡ʒ;n̪ n̪;s s;z z;l l;k k;ɡ ɡ;n̪ n̪} > {p;b;f;m;t̪;t͡s;t͡sʲ;t͡ʃ;d̪;d͡ʒ;n̪;s;z;l;k;ɡ;n̪} 
 #ˌabˈeːθ# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#ˌabˈeː# | Rule 608 : {θ;ð} > {∅;∅} 
-#abeː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#abe# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌabˈeː# | Rule 607 : {θ;ð} > {∅;∅} 
+#abeː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#abe# | Rule 753 : [+syl,+long] > [-long,-splng] 

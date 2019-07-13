@@ -14,7 +14,7 @@ Trajectory file for run 'run1'; etymon number :368:
 #ˈiːzla# | Rule 308 : ə̯ > ∅ 
 #ˈiːzlə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #ˈiːlə# | Rule 536 : z > ∅ / __ [+cons]
-#ˈiːlə̯# | Rule 708 : ə > ə̯ / __ #
-#ˈiːl# | Rule 736 : ə̯ > ∅ 
-#iːl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#il# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈiːlə̯# | Rule 707 : ə > ə̯ / __ #
+#ˈiːl# | Rule 735 : ə̯ > ∅ 
+#iːl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#il# | Rule 753 : [+syl,+long] > [-long,-splng] 

@@ -21,15 +21,15 @@ p ˌe d̪ ˈu k u l oː s
 #pˌeðˈoʎt͡sʲ# | Rule 432 : ˌɛ > ˌe / __ @ @
 #pˌeðˈoɫt͡sʲ# | Rule 506 : [+lat] > ɫ / __ [+cons]
 #pˌeðˈoɫt͡s# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#pˌeðˈuɫt͡s# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#pˌeðˈuwt͡s# | Rule 582 : [+lat,+back] > w 
-#pˌeðˈut͡s# | Rule 583 : w > ∅ / [+syl,+hi,+round] __ 
-#pˌɛðˈut͡s# | Rule 593 : ˌe > ˌɛ / __ [+cont,-lat,-nas,+voi] [+syl]
-#pˌɛˈut͡s# | Rule 608 : {θ;ð} > {∅;∅} 
-#pˌəˈut͡s# | Rule 611 : ˌɛ > ˌə / __ ˈu
-#pˌəˈus# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#pˌəˈuːs# | Rule 691 : [+prim] > [+long] / ˌə __ 
-#pˈuːs# | Rule 692 : ˌə > ∅ / __ [+syl]
-#pˈuː# | Rule 734 : [-son] > ∅ / __ #
-#puː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pu# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˌeðˈuɫt͡s# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#pˌeðˈuwt͡s# | Rule 581 : [+lat,+back] > w 
+#pˌeðˈut͡s# | Rule 582 : w > ∅ / [+syl,+hi,+round] __ 
+#pˌɛðˈut͡s# | Rule 592 : ˌe > ˌɛ / __ [+cont,-lat,-nas,+voi] [+syl]
+#pˌɛˈut͡s# | Rule 607 : {θ;ð} > {∅;∅} 
+#pˌəˈut͡s# | Rule 610 : ˌɛ > ˌə / __ ˈu
+#pˌəˈus# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#pˌəˈuːs# | Rule 690 : [+prim] > [+long] / ˌə __ 
+#pˈuːs# | Rule 691 : ˌə > ∅ / __ [+syl]
+#pˈuː# | Rule 733 : [-son] > ∅ / __ #
+#puː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pu# | Rule 753 : [+syl,+long] > [-long,-splng] 

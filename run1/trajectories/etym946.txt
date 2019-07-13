@@ -6,11 +6,11 @@ p r ˈɑ e̯ s t̪ ɑ m
 #prˈɛst̪ɑ# | Rule 74 : [+nas,+cons] > ∅ / [-stres] __ #
 #prˈɛst̪a# | Rule 205 : [+lo] > [+front,-back] 
 #prˈɛst̪ə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#prˈɛxt̪ə# | Rule 595 : s > x / [-cons] __ [+cons]
-#prˈɛːt̪ə# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#prˈɛːt̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#prˈɛːt̪# | Rule 736 : ə̯ > ∅ 
-#pʀˈɛːt̪# | Rule 752 : r > ʀ 
-#pʀɛːt̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pʀɛt̪# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#prˈɛxt̪ə# | Rule 594 : s > x / [-cons] __ [+cons]
+#prˈɛːt̪ə# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#prˈɛːt̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#prˈɛːt̪# | Rule 735 : ə̯ > ∅ 
+#pʀˈɛːt̪# | Rule 751 : r > ʀ 
+#pʀɛːt̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pʀɛt̪# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #pʁɛt̪# | Rule 759 : ʀ > ʁ 

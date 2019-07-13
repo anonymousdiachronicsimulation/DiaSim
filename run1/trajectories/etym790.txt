@@ -15,11 +15,11 @@ Trajectory file for run 'run1'; etymon number :790:
 #ˈʉo̯vrə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #ˈyo̯vrə# | Rule 508 : [+hi,+round,-back] > [+front] 
 #ˈye̯vrə# | Rule 537 : o̯ > e̯ 
-#ˈøːvrə# | Rule 581 : [+hi,+round,+tense,+prim] e̯ > ˈøː
-#ˈøːvrə̯# | Rule 708 : ə > ə̯ / __ #
-#ˈøːvr# | Rule 736 : ə̯ > ∅ 
-#ˈœːvr# | Rule 740 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-#ˈœːvʀ# | Rule 752 : r > ʀ 
-#œːvʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#œvʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈøːvrə# | Rule 580 : [+hi,+round,+tense,+prim] e̯ > ˈøː
+#ˈøːvrə̯# | Rule 707 : ə > ə̯ / __ #
+#ˈøːvr# | Rule 735 : ə̯ > ∅ 
+#ˈœːvr# | Rule 739 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+#ˈœːvʀ# | Rule 751 : r > ʀ 
+#œːvʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#œvʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #œvʁ# | Rule 759 : ʀ > ʁ 

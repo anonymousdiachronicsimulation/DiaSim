@@ -10,11 +10,11 @@ f r ˈɑ n̪ k oː s
 #frˈaŋs# | Rule 446 : k > ∅ / __ s #
 #frˈãŋs# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #frˈæ̃ŋs# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#frˈãŋs# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#frˈãːs# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#frˈɑ̃ːs# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#frˈɑ̃ː# | Rule 734 : [-son] > ∅ / __ #
-#fʀˈɑ̃ː# | Rule 752 : r > ʀ 
-#fʀɑ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fʀɑ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#frˈãŋs# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#frˈãːs# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#frˈɑ̃ːs# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#frˈɑ̃ː# | Rule 733 : [-son] > ∅ / __ #
+#fʀˈɑ̃ː# | Rule 751 : r > ʀ 
+#fʀɑ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fʀɑ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #fʁɑ̃# | Rule 759 : ʀ > ʁ 

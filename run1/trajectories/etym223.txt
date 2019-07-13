@@ -18,13 +18,13 @@ Trajectory file for run 'run1'; etymon number :223:
 #ˌest̪rˈaɲ# | Rule 430 : ˌɛ > ˌe / # __ ( s ) [+distr,-voi]
 #ˌest̪rˈãɲ# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #ˌest̪rˈãj̃ɲ# | Rule 521 : ∅ > j̃ / [+tense] __ ɲ #
-#ˌest̪rˈɛ̃j̃ɲ# | Rule 588 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
-#ˌext̪rˈɛ̃j̃ɲ# | Rule 595 : s > x / [-cons] __ [+cons]
-#ˌext̪rˈɛ̃j̃n̪# | Rule 644 : ɲ > n̪ / __ #
-#ˌeːt̪rˈɛ̃j̃n̪# | Rule 658 : [+syl] x > [+long] ∅/ __ [+cons]
-#ˌeːt̪rˈɛ̃n̪# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#ˌeːt̪rˈɛ̃ː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#ˌeːt̪ʀˈɛ̃ː# | Rule 752 : r > ʀ 
-#eːt̪ʀɛ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#et̪ʀɛ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌest̪rˈɛ̃j̃ɲ# | Rule 587 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
+#ˌext̪rˈɛ̃j̃ɲ# | Rule 594 : s > x / [-cons] __ [+cons]
+#ˌext̪rˈɛ̃j̃n̪# | Rule 643 : ɲ > n̪ / __ #
+#ˌeːt̪rˈɛ̃j̃n̪# | Rule 657 : [+syl] x > [+long] ∅/ __ [+cons]
+#ˌeːt̪rˈɛ̃n̪# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#ˌeːt̪rˈɛ̃ː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#ˌeːt̪ʀˈɛ̃ː# | Rule 751 : r > ʀ 
+#eːt̪ʀɛ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#et̪ʀɛ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #et̪ʁɛ̃# | Rule 759 : ʀ > ʁ 

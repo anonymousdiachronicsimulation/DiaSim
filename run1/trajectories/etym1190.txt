@@ -9,9 +9,9 @@ t̪ ˈɑ r d̪ u m
 #t̪ˈard̪ə̯# | Rule 284 : ə > ə̯ 
 #t̪ˈard̪# | Rule 308 : ə̯ > ∅ 
 #t̪ˈart̪# | Rule 450 : [-son] > [-voi] / __ #
-#t̪ˈaɹt̪# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#t̪ˈaɹ# | Rule 734 : [-son] > ∅ / __ #
-#t̪ˈar# | Rule 750 : ɹ > r 
-#t̪ˈaʀ# | Rule 752 : r > ʀ 
-#t̪aʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈaɹt̪# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#t̪ˈaɹ# | Rule 733 : [-son] > ∅ / __ #
+#t̪ˈar# | Rule 749 : ɹ > r 
+#t̪ˈaʀ# | Rule 751 : r > ʀ 
+#t̪aʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #t̪aʁ# | Rule 759 : ʀ > ʁ 

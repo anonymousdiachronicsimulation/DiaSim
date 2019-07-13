@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :1219:
-#t̪ˌoːn̪siˈoːn̪em# >>> #t̪wɛzɔ̃# ( Correct : #t̪wazɔ̃#) :
+#t̪ˌoːn̪siˈoːn̪em# >>> #t̪wazɔ̃# ( Correct : #t̪wazɔ̃#) :
 t̪ ˌoː n̪ s i ˈoː n̪ e m 
 #t̪ˌoːsiˈoːn̪em# | Rule 9 : n̪ > ∅ / [+syl,+long] __ s
 #t̪ˌoːsɪˈoːn̪ɛm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
@@ -15,11 +15,12 @@ t̪ ˌoː n̪ s i ˈoː n̪ e m
 #t̪ˌozʲˈũːn̪ə̯# | Rule 284 : ə > ə̯ 
 #t̪ˌozʲˈũːn̪# | Rule 308 : ə̯ > ∅ 
 #t̪ˌojzˈũːn̪# | Rule 396 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z} / [-cons] __ 
-#t̪ˌujzˈũːn̪# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#t̪ˌuɛ̯zˈũːn̪# | Rule 632 : j > ɛ̯ / [+syl,+back,+round] __ 
-#t̪wˌɛzˈũːn̪# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#t̪wˌɛzˈũː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#t̪wˌɛːzˈũː# | Rule 719 : [+syl] > [+long] / __ z [+syl]
-#t̪wɛːzũː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#t̪wɛzũ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#t̪wɛzɔ̃# | Rule 755 : ũ > ɔ̃ 
+#t̪ˌujzˈũːn̪# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#t̪ˌuɛ̯zˈũːn̪# | Rule 631 : j > ɛ̯ / [+syl,+back,+round] __ 
+#t̪wˌɛzˈũːn̪# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#t̪wˌɛzˈũː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#t̪wˌɛːzˈũː# | Rule 718 : [+syl] > [+long] / __ z [+syl]
+#t̪wɛːzũː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪wɛzũ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#t̪wɛzɔ̃# | Rule 754 : ũ > ɔ̃ 
+#t̪wazɔ̃# | Rule 758 : ɛ > a / w __ 

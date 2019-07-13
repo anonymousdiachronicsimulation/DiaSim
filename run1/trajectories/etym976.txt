@@ -14,11 +14,11 @@ p ˈu l w e r e m
 #pˈoɫβr# | Rule 308 : ə̯ > ∅ 
 #pˈoɫβrə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
 #pˈoɫvrə# | Rule 442 : β > v 
-#pˈuɫvrə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#pˈuwvrə# | Rule 582 : [+lat,+back] > w 
-#pˈuvrə# | Rule 583 : w > ∅ / [+syl,+hi,+round] __ 
-#pˈuvrə̯# | Rule 708 : ə > ə̯ / __ #
-#pˈuvr# | Rule 736 : ə̯ > ∅ 
-#pˈuvʀ# | Rule 752 : r > ʀ 
-#puvʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pˈuɫvrə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#pˈuwvrə# | Rule 581 : [+lat,+back] > w 
+#pˈuvrə# | Rule 582 : w > ∅ / [+syl,+hi,+round] __ 
+#pˈuvrə̯# | Rule 707 : ə > ə̯ / __ #
+#pˈuvr# | Rule 735 : ə̯ > ∅ 
+#pˈuvʀ# | Rule 751 : r > ʀ 
+#puvʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #puvʁ# | Rule 759 : ʀ > ʁ 

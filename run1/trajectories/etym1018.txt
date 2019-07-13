@@ -16,12 +16,12 @@ r ˌoː b ˈiː k u l ɑ m
 #rˌoˈiʎa# | Rule 267 : β > ∅ / [-front] [+stres,-prim,+round,+back] __ [+syl,+front,+tense]
 #rˌoˈiːʎa# | Rule 368 : [+prim] > [+long] / __ [+cons] [+syl]
 #rˌoˈiːʎə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#rˌuˈiːʎə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#rˌuˈiːʎə̯# | Rule 708 : ə > ə̯ / __ #
-#rˌuˈiːʎ# | Rule 736 : ə̯ > ∅ 
-#ʀˌuˈiːʎ# | Rule 752 : r > ʀ 
-#ʀuiːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀuiʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#rˌuˈiːʎə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#rˌuˈiːʎə̯# | Rule 707 : ə > ə̯ / __ #
+#rˌuˈiːʎ# | Rule 735 : ə̯ > ∅ 
+#ʀˌuˈiːʎ# | Rule 751 : r > ʀ 
+#ʀuiːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀuiʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ʁuiʎ# | Rule 759 : ʀ > ʁ 
 #ʁuij# | Rule 760 : ʎ > j 
 #ʁuj# | Rule 761 : [+hi,+front,-round] > ∅ / [+syl] __ j

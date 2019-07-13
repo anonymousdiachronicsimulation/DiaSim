@@ -6,11 +6,11 @@ t̪ ˈu r t̪ ɑ m
 #t̪ˈort̪ɑ# | Rule 74 : [+nas,+cons] > ∅ / [-stres] __ #
 #t̪ˈort̪a# | Rule 205 : [+lo] > [+front,-back] 
 #t̪ˈort̪ə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#t̪ˈurt̪ə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#t̪ˈurt̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#t̪ˈuɹt̪ə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#t̪ˈuɹt̪# | Rule 736 : ə̯ > ∅ 
-#t̪ˈurt̪# | Rule 750 : ɹ > r 
-#t̪ˈuʀt̪# | Rule 752 : r > ʀ 
-#t̪uʀt̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈurt̪ə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#t̪ˈurt̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#t̪ˈuɹt̪ə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#t̪ˈuɹt̪# | Rule 735 : ə̯ > ∅ 
+#t̪ˈurt̪# | Rule 749 : ɹ > r 
+#t̪ˈuʀt̪# | Rule 751 : r > ʀ 
+#t̪uʀt̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #t̪uʁt̪# | Rule 759 : ʀ > ʁ 

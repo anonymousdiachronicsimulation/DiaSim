@@ -11,10 +11,10 @@ k ˈeː r ɑ m
 #t͡sʲˈiːra# | Rule 205 : [+lo] > [+front,-back] 
 #t͡sʲˈiːrə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #t͡sˈiːrə# | Rule 549 : t͡sʲ > t͡s / # __ 
-#sˈiːrə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˈiːrə̯# | Rule 708 : ə > ə̯ / __ #
-#sˈiːr# | Rule 736 : ə̯ > ∅ 
-#sˈiːʀ# | Rule 752 : r > ʀ 
-#siːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#siʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˈiːrə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˈiːrə̯# | Rule 707 : ə > ə̯ / __ #
+#sˈiːr# | Rule 735 : ə̯ > ∅ 
+#sˈiːʀ# | Rule 751 : r > ʀ 
+#siːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#siʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #siʁ# | Rule 759 : ʀ > ʁ 

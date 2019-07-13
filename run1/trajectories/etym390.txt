@@ -15,11 +15,11 @@ k ˈa e̯ l oː s
 #t͡sʲˈie̯ls# | Rule 308 : ə̯ > ∅ 
 #t͡sʲˈie̯ɫs# | Rule 506 : [+lat] > ɫ / __ [+cons]
 #t͡sˈie̯ɫs# | Rule 549 : t͡sʲ > t͡s / # __ 
-#t͡sˈie̯ws# | Rule 582 : [+lat,+back] > w 
-#t͡sjˈews# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#t͡sjˈøws# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#t͡sjˈøːs# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#sjˈøːs# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sjˈøː# | Rule 734 : [-son] > ∅ / __ #
-#sjøː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sjø# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t͡sˈie̯ws# | Rule 581 : [+lat,+back] > w 
+#t͡sjˈews# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#t͡sjˈøws# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#t͡sjˈøːs# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#sjˈøːs# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sjˈøː# | Rule 733 : [-son] > ∅ / __ #
+#sjøː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sjø# | Rule 753 : [+syl,+long] > [-long,-splng] 

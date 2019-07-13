@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :684:
-#mˈen̪sem# >>> #mwɛ# ( Correct : #mwa#) :
+#mˈen̪sem# >>> #mwa# ( Correct : #mwa#) :
 m ˈe n̪ s e m 
 #mˈeːn̪sem# | Rule 8 : [+syl] > [+long] / __ n̪ s ( [-syl] )* [-stres]
 #mˈeːsem# | Rule 9 : n̪ > ∅ / [+syl,+long] __ s
@@ -14,8 +14,9 @@ m ˈe n̪ s e m
 #mˈejz# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #mˈejs# | Rule 450 : [-son] > [-voi] / __ #
 #mˈojs# | Rule 520 : ˈe > ˈo / [+lab,+voi] __ j
-#mˈujs# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#mˈuɛ̯s# | Rule 632 : j > ɛ̯ / [+syl,+back,+round] __ 
-#mwˈɛs# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#mwˈɛ# | Rule 734 : [-son] > ∅ / __ #
-#mwɛ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mˈujs# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#mˈuɛ̯s# | Rule 631 : j > ɛ̯ / [+syl,+back,+round] __ 
+#mwˈɛs# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#mwˈɛ# | Rule 733 : [-son] > ∅ / __ #
+#mwɛ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mwa# | Rule 758 : ɛ > a / w __ 

@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :130:
-#bˌot̪ˈelloːs# >>> #bwɛjo# ( Correct : #bwajo#) :
+#bˌot̪ˈelloːs# >>> #bwajo# ( Correct : #bwajo#) :
 b ˌo t̪ ˈe l l oː s 
 #bˌɔt̪ˈɛlloːs# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
 #bˌɔt̪ˈɛllos# | Rule 58 : [+syl,+long] > [-long,-splng] 
@@ -12,13 +12,14 @@ b ˌo t̪ ˈe l l oː s
 #bˌoðˈɛls# | Rule 477 : [+cons] > ∅ / [+cons] __ [-son]
 #bˌoðˈɛɫs# | Rule 506 : [+lat] > ɫ / __ [+cons]
 #bˌɔðˈɛɫs# | Rule 527 : {ˌo;ˈo} > {ˌɔ;ˈɔ} / __ ð ( [-syl] )* [+syl,-tense]
-#bˌɔðˈɛws# | Rule 582 : [+lat,+back] > w 
-#bˌɔðˈɛa̯ws# | Rule 585 : ∅ > a̯ / [-hi,-lo,+front,-tense,+stres] __ w
-#bˌɔðe̯ˈaws# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#bˌɔe̯ˈaws# | Rule 608 : {θ;ð} > {∅;∅} 
-#bˌɔjˈaws# | Rule 630 : e̯ > j / ˌɔ __ [+front,+prim]
-#bwˌɛjˈaws# | Rule 631 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
-#bwˌɛjˈoːs# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#bwˌɛjˈoː# | Rule 734 : [-son] > ∅ / __ #
-#bwɛjoː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#bwɛjo# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#bˌɔðˈɛws# | Rule 581 : [+lat,+back] > w 
+#bˌɔðˈɛa̯ws# | Rule 584 : ∅ > a̯ / [-hi,-lo,+front,-tense,+stres] __ w
+#bˌɔðe̯ˈaws# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#bˌɔe̯ˈaws# | Rule 607 : {θ;ð} > {∅;∅} 
+#bˌɔjˈaws# | Rule 629 : e̯ > j / ˌɔ __ [+front,+prim]
+#bwˌɛjˈaws# | Rule 630 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
+#bwˌɛjˈoːs# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#bwˌɛjˈoː# | Rule 733 : [-son] > ∅ / __ #
+#bwɛjoː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bwɛjo# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#bwajo# | Rule 758 : ɛ > a / w __ 

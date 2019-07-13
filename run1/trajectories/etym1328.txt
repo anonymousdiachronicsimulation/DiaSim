@@ -19,12 +19,12 @@ w ˌi d̪ ˈu b i u m
 #vˌeðˈod̪d͡ʒə# | Rule 442 : β > v 
 #vˌeðˈod͡ʒə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #vˌəðˈod͡ʒə# | Rule 512 : ˌe > ˌə / v __ ( [+cons] ) [+syl]
-#vˌəðˈud͡ʒə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#vˌəˈud͡ʒə# | Rule 608 : {θ;ð} > {∅;∅} 
-#vˌəˈuʒə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#vˌəˈuːʒə# | Rule 691 : [+prim] > [+long] / ˌə __ 
-#vˈuːʒə# | Rule 692 : ˌə > ∅ / __ [+syl]
-#vˈuːʒə̯# | Rule 708 : ə > ə̯ / __ #
-#vˈuːʒ# | Rule 736 : ə̯ > ∅ 
-#vuːʒ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vuʒ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˌəðˈud͡ʒə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#vˌəˈud͡ʒə# | Rule 607 : {θ;ð} > {∅;∅} 
+#vˌəˈuʒə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#vˌəˈuːʒə# | Rule 690 : [+prim] > [+long] / ˌə __ 
+#vˈuːʒə# | Rule 691 : ˌə > ∅ / __ [+syl]
+#vˈuːʒə̯# | Rule 707 : ə > ə̯ / __ #
+#vˈuːʒ# | Rule 735 : ə̯ > ∅ 
+#vuːʒ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vuʒ# | Rule 753 : [+syl,+long] > [-long,-splng] 

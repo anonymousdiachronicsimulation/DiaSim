@@ -9,11 +9,11 @@ r ˈu m p e r e
 #rˈũmprə̯# | Rule 284 : ə > ə̯ 
 #rˈũmpr# | Rule 308 : ə̯ > ∅ 
 #rˈũmprə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
-#rˈũːprə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#rˈũːprə̯# | Rule 708 : ə > ə̯ / __ #
-#rˈũːpr# | Rule 736 : ə̯ > ∅ 
-#ʀˈũːpʀ# | Rule 752 : r > ʀ 
-#ʀũːpʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀũpʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#ʀɔ̃pʀ# | Rule 755 : ũ > ɔ̃ 
+#rˈũːprə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#rˈũːprə̯# | Rule 707 : ə > ə̯ / __ #
+#rˈũːpr# | Rule 735 : ə̯ > ∅ 
+#ʀˈũːpʀ# | Rule 751 : r > ʀ 
+#ʀũːpʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀũpʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#ʀɔ̃pʀ# | Rule 754 : ũ > ɔ̃ 
 #ʁɔ̃pʁ# | Rule 759 : ʀ > ʁ 

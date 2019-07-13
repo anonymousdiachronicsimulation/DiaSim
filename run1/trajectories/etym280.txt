@@ -19,14 +19,14 @@ f ˌo r m ˈɑː t̪ i k u m
 #fˌɔrmˈad̪d͡ʒə# | Rule 404 : [+syl] > [-long,-splng] / __ [-syl] [+cons,-son]
 #fˌormˈad̪d͡ʒə# | Rule 435 : ˌɔ > ˌo 
 #fˌormˈad͡ʒə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#fˌurmˈad͡ʒə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#fˌurmˈaʒə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#fˌurmˈaʒə̯# | Rule 708 : ə > ə̯ / __ #
-#fˌurmˈaːʒə̯# | Rule 720 : [+lo] > [+long] / __ ʒ ə̯ #
-#fˌuɹmˈaːʒə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#fˌuɹmˈaːʒ# | Rule 736 : ə̯ > ∅ 
-#fˌurmˈaːʒ# | Rule 750 : ɹ > r 
-#fˌuʀmˈaːʒ# | Rule 752 : r > ʀ 
-#fuʀmaːʒ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fuʀmaʒ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#fˌurmˈad͡ʒə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#fˌurmˈaʒə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#fˌurmˈaʒə̯# | Rule 707 : ə > ə̯ / __ #
+#fˌurmˈaːʒə̯# | Rule 719 : [+lo] > [+long] / __ ʒ ə̯ #
+#fˌuɹmˈaːʒə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#fˌuɹmˈaːʒ# | Rule 735 : ə̯ > ∅ 
+#fˌurmˈaːʒ# | Rule 749 : ɹ > r 
+#fˌuʀmˈaːʒ# | Rule 751 : r > ʀ 
+#fuʀmaːʒ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fuʀmaʒ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #fuʁmaʒ# | Rule 759 : ʀ > ʁ 

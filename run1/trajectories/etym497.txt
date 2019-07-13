@@ -17,10 +17,10 @@ k ˈo r i u m
 #kˈʉo̯jr# | Rule 394 : rʲ > r 
 #kˈyo̯jr# | Rule 508 : [+hi,+round,-back] > [+front] 
 #kˈye̯jr# | Rule 537 : o̯ > e̯ 
-#kˈyjr# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#kɥˈir# | Rule 635 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
-#kɥˈiɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#kɥˈir# | Rule 750 : ɹ > r 
-#kɥˈiʀ# | Rule 752 : r > ʀ 
-#kɥiʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kˈyjr# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#kɥˈir# | Rule 634 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
+#kɥˈiɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#kɥˈir# | Rule 749 : ɹ > r 
+#kɥˈiʀ# | Rule 751 : r > ʀ 
+#kɥiʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #kɥiʁ# | Rule 759 : ʀ > ʁ 

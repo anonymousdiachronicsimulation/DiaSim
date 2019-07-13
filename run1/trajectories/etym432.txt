@@ -11,10 +11,10 @@ k ˈɑ r r u m
 #t͡ʃˈarrə# | Rule 276 : [-stres,-lo,+syl] > ə / __ #
 #t͡ʃˈarrə̯# | Rule 284 : ə > ə̯ 
 #t͡ʃˈarr# | Rule 308 : ə̯ > ∅ 
-#t͡ʃˈar# | Rule 605 : r r > r 
-#ʃˈar# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˈaɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#ʃˈar# | Rule 750 : ɹ > r 
-#ʃˈaʀ# | Rule 752 : r > ʀ 
-#ʃaʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡ʃˈar# | Rule 604 : r r > r 
+#ʃˈar# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˈaɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#ʃˈar# | Rule 749 : ɹ > r 
+#ʃˈaʀ# | Rule 751 : r > ʀ 
+#ʃaʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ʃaʁ# | Rule 759 : ʀ > ʁ 

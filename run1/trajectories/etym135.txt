@@ -13,9 +13,9 @@ b r ˈɑ kʰ i ɑ m
 #brˈat̪t͡sʲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #brˈat͡sʲə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #brˈat͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#brˈasə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#brˈasə̯# | Rule 708 : ə > ə̯ / __ #
-#brˈas# | Rule 736 : ə̯ > ∅ 
-#bʀˈas# | Rule 752 : r > ʀ 
-#bʀas# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#brˈasə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#brˈasə̯# | Rule 707 : ə > ə̯ / __ #
+#brˈas# | Rule 735 : ə̯ > ∅ 
+#bʀˈas# | Rule 751 : r > ʀ 
+#bʀas# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #bʁas# | Rule 759 : ʀ > ʁ 

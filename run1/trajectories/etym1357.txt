@@ -14,7 +14,7 @@ w ˈiː w u m
 #βˈiːβ# | Rule 308 : ə̯ > ∅ 
 #vˈiːv# | Rule 442 : β > v 
 #vˈiːf# | Rule 450 : [-son] > [-voi] / __ #
-#vˈiːfə̯# | Rule 732 : ∅ > ə̯ / f __ #
-#vˈiːf# | Rule 736 : ə̯ > ∅ 
-#viːf# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vif# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˈiːfə̯# | Rule 731 : ∅ > ə̯ / f __ #
+#vˈiːf# | Rule 735 : ə̯ > ∅ 
+#viːf# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vif# | Rule 753 : [+syl,+long] > [-long,-splng] 

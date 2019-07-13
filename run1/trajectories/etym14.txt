@@ -17,11 +17,11 @@ Trajectory file for run 'run1'; etymon number :14:
 #ˈaːjr# | Rule 394 : rʲ > r 
 #ˈajr# | Rule 403 : [+syl] > [-long,-splng] / __ [-syl] [-syl] ( [-syl] )* #
 #ˈajrə# | Rule 500 : ∅ > ə / [+lo] j r __ #
-#ˈɛjrə# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#ˈɛːrə# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#ˈɛːrə̯# | Rule 708 : ə > ə̯ / __ #
-#ˈɛːr# | Rule 736 : ə̯ > ∅ 
-#ˈɛːʀ# | Rule 752 : r > ʀ 
-#ɛːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ɛʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈɛjrə# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#ˈɛːrə# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#ˈɛːrə̯# | Rule 707 : ə > ə̯ / __ #
+#ˈɛːr# | Rule 735 : ə̯ > ∅ 
+#ˈɛːʀ# | Rule 751 : r > ʀ 
+#ɛːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ɛʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ɛʁ# | Rule 759 : ʀ > ʁ 

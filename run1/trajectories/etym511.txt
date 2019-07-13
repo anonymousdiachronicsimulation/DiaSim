@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :511:
-#krˌeːskˈen̪t̪em# >>> #kʁwɛsɑ̃# ( Correct : #kʁwasɑ̃#) :
+#krˌeːskˈen̪t̪em# >>> #kʁwasɑ̃# ( Correct : #kʁwasɑ̃#) :
 k r ˌeː s k ˈe n̪ t̪ e m 
 #krˌeːskˈɛn̪t̪ɛm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
 #krˌeskˈɛn̪t̪ɛm# | Rule 58 : [+syl,+long] > [-long,-splng] 
@@ -15,14 +15,15 @@ k r ˌeː s k ˈe n̪ t̪ e m
 #krˌejsˈɛn̪t̪# | Rule 497 : {p p;b b;f f;m m;t̪ t̪;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d͡ʒ;n̪ n̪;s s;z z;l l;k k;ɡ ɡ;n̪ n̪} > {p;b;f;m;t̪;t͡s;t͡sʲ;t͡ʃ;d̪;d͡ʒ;n̪;s;z;l;k;ɡ;n̪} 
 #krˌejsˈɛ̃n̪t̪# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #krˌojsˈɛ̃n̪t̪# | Rule 545 : [+front,+tense,-hi,-lo,+syl] > [+back,-front,+round,+lab] / __ j
-#krˌujsˈɛ̃n̪t̪# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#krˌujsˈãn̪t̪# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#krˌuɛ̯sˈãn̪t̪# | Rule 632 : j > ɛ̯ / [+syl,+back,+round] __ 
-#krwˌɛsˈãn̪t̪# | Rule 633 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-#krwˌɛsˈãːt̪# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#krwˌɛsˈɑ̃ːt̪# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#krwˌɛsˈɑ̃ː# | Rule 734 : [-son] > ∅ / __ #
-#kʀwˌɛsˈɑ̃ː# | Rule 752 : r > ʀ 
-#kʀwɛsɑ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#kʀwɛsɑ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#kʁwɛsɑ̃# | Rule 759 : ʀ > ʁ 
+#krˌujsˈɛ̃n̪t̪# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#krˌujsˈãn̪t̪# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#krˌuɛ̯sˈãn̪t̪# | Rule 631 : j > ɛ̯ / [+syl,+back,+round] __ 
+#krwˌɛsˈãn̪t̪# | Rule 632 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+#krwˌɛsˈãːt̪# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#krwˌɛsˈɑ̃ːt̪# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#krwˌɛsˈɑ̃ː# | Rule 733 : [-son] > ∅ / __ #
+#kʀwˌɛsˈɑ̃ː# | Rule 751 : r > ʀ 
+#kʀwɛsɑ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kʀwɛsɑ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#kʀwasɑ̃# | Rule 758 : ɛ > a / w __ 
+#kʁwasɑ̃# | Rule 759 : ʀ > ʁ 

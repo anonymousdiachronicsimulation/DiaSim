@@ -14,9 +14,9 @@ s ˈɑ l w u m
 #sˈaɫβ# | Rule 308 : ə̯ > ∅ 
 #sˈaɫv# | Rule 442 : β > v 
 #sˈaɫf# | Rule 450 : [-son] > [-voi] / __ #
-#sˈawf# | Rule 582 : [+lat,+back] > w 
-#sˈoːf# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#sˈoːfə̯# | Rule 732 : ∅ > ə̯ / f __ #
-#sˈoːf# | Rule 736 : ə̯ > ∅ 
-#soːf# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sof# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˈawf# | Rule 581 : [+lat,+back] > w 
+#sˈoːf# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#sˈoːfə̯# | Rule 731 : ∅ > ə̯ / f __ #
+#sˈoːf# | Rule 735 : ə̯ > ∅ 
+#soːf# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sof# | Rule 753 : [+syl,+long] > [-long,-splng] 

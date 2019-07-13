@@ -8,10 +8,10 @@ m ˈɑ r m o r
 #mˈarmrə# | Rule 289 : {ə̯ r;ə̯ ɾ} > {r ə;ɾ ə} / __ #
 #mˈarmbrə# | Rule 353 : ∅ > b / m __ [+cor,-nas,+son,-syl]
 #mˈarbrə# | Rule 477 : [+cons] > ∅ / [+cons] __ [-son]
-#mˈarbrə̯# | Rule 708 : ə > ə̯ / __ #
-#mˈaɹbrə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#mˈaɹbr# | Rule 736 : ə̯ > ∅ 
-#mˈarbr# | Rule 750 : ɹ > r 
-#mˈaʀbʀ# | Rule 752 : r > ʀ 
-#maʀbʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mˈarbrə̯# | Rule 707 : ə > ə̯ / __ #
+#mˈaɹbrə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#mˈaɹbr# | Rule 735 : ə̯ > ∅ 
+#mˈarbr# | Rule 749 : ɹ > r 
+#mˈaʀbʀ# | Rule 751 : r > ʀ 
+#maʀbʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #maʁbʁ# | Rule 759 : ʀ > ʁ 

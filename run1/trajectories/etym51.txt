@@ -13,10 +13,10 @@ Trajectory file for run 'run1'; etymon number :51:
 #ˈaŋɡlə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
 #ˈãŋɡlə# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #ˈæ̃ŋɡlə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#ˈãŋɡlə# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#ˈãːɡlə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#ˈãːɡlə̯# | Rule 708 : ə > ə̯ / __ #
-#ˈɑ̃ːɡlə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#ˈɑ̃ːɡl# | Rule 736 : ə̯ > ∅ 
-#ɑ̃ːɡl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ɑ̃ɡl# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈãŋɡlə# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#ˈãːɡlə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#ˈãːɡlə̯# | Rule 707 : ə > ə̯ / __ #
+#ˈɑ̃ːɡlə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#ˈɑ̃ːɡl# | Rule 735 : ə̯ > ∅ 
+#ɑ̃ːɡl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ɑ̃ɡl# | Rule 753 : [+syl,+long] > [-long,-splng] 

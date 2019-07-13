@@ -5,9 +5,9 @@ Trajectory file for run 'run1'; etymon number :18:
 #ˈɑɫbɑ# | Rule 74 : [+nas,+cons] > ∅ / [-stres] __ #
 #ˈaɫba# | Rule 205 : [+lo] > [+front,-back] 
 #ˈaɫbə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#ˈawbə# | Rule 582 : [+lat,+back] > w 
-#ˈoːbə# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#ˈoːbə̯# | Rule 708 : ə > ə̯ / __ #
-#ˈoːb# | Rule 736 : ə̯ > ∅ 
-#oːb# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ob# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˈawbə# | Rule 581 : [+lat,+back] > w 
+#ˈoːbə# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#ˈoːbə̯# | Rule 707 : ə > ə̯ / __ #
+#ˈoːb# | Rule 735 : ə̯ > ∅ 
+#oːb# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ob# | Rule 753 : [+syl,+long] > [-long,-splng] 

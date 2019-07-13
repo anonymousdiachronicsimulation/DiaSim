@@ -7,9 +7,9 @@ f ˈe r r u m
 #fˈɛrrə# | Rule 276 : [-stres,-lo,+syl] > ə / __ #
 #fˈɛrrə̯# | Rule 284 : ə > ə̯ 
 #fˈɛrr# | Rule 308 : ə̯ > ∅ 
-#fˈɛr# | Rule 605 : r r > r 
-#fˈɛɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#fˈɛr# | Rule 750 : ɹ > r 
-#fˈɛʀ# | Rule 752 : r > ʀ 
-#fɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fˈɛr# | Rule 604 : r r > r 
+#fˈɛɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#fˈɛr# | Rule 749 : ɹ > r 
+#fˈɛʀ# | Rule 751 : r > ʀ 
+#fɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #fɛʁ# | Rule 759 : ʀ > ʁ 

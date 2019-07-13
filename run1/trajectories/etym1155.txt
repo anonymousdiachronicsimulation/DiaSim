@@ -15,6 +15,6 @@ s ˈuː d̪ i ɑ m
 #sˈʉːja# | Rule 391 : ʝ > j 
 #sˈʉːjə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #sˈyːjə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#sˈyːj# | Rule 707 : ə > ∅ / [+prim] ( j ) __ 
-#syːj# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#syj# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˈyːj# | Rule 706 : ə > ∅ / [+prim] ( j ) __ 
+#syːj# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#syj# | Rule 753 : [+syl,+long] > [-long,-splng] 

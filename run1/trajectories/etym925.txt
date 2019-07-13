@@ -18,6 +18,6 @@ p ˈo d̪ i u m
 #pˈʉo̯j# | Rule 384 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
 #pˈyo̯j# | Rule 508 : [+hi,+round,-back] > [+front] 
 #pˈye̯j# | Rule 537 : o̯ > e̯ 
-#pˈyj# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#pɥˈi# | Rule 635 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
-#pɥi# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pˈyj# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#pɥˈi# | Rule 634 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
+#pɥi# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

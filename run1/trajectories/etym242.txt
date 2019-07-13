@@ -13,10 +13,10 @@ f ˈe b r e m
 #fˈie̯βr# | Rule 308 : ə̯ > ∅ 
 #fˈie̯βrə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
 #fˈie̯vrə# | Rule 442 : β > v 
-#fjˈevrə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#fjˈɛvrə# | Rule 617 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [-son] [+son,+cor,-nas,+cons] [+syl]
-#fjˈɛvrə̯# | Rule 708 : ə > ə̯ / __ #
-#fjˈɛvr# | Rule 736 : ə̯ > ∅ 
-#fjˈɛvʀ# | Rule 752 : r > ʀ 
-#fjɛvʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fjˈevrə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#fjˈɛvrə# | Rule 616 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [-son] [+son,+cor,-nas,+cons] [+syl]
+#fjˈɛvrə̯# | Rule 707 : ə > ə̯ / __ #
+#fjˈɛvr# | Rule 735 : ə̯ > ∅ 
+#fjˈɛvʀ# | Rule 751 : r > ʀ 
+#fjɛvʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #fjɛvʁ# | Rule 759 : ʀ > ʁ 

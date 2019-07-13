@@ -23,13 +23,13 @@ w ˌe r eː k ˈu n̪ d̪ i ɑ m
 #βˌerɡˈũɲa# | Rule 432 : ˌɛ > ˌe / __ @ @
 #vˌerɡˈũɲa# | Rule 442 : β > v 
 #vˌerɡˈũɲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#vˌɛrɡˈũɲə# | Rule 685 : [-hi,-lo,+syl,+front] > [-tense,-cons,-lat,+cont,0delrel] / __ r [+cons,-strid]
-#vˌɛrɡˈũɲə̯# | Rule 708 : ə > ə̯ / __ #
-#vˌɛɹɡˈũɲə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#vˌɛɹɡˈũɲ# | Rule 736 : ə̯ > ∅ 
-#vˌɛrɡˈũɲ# | Rule 750 : ɹ > r 
-#vˌɛʀɡˈũɲ# | Rule 752 : r > ʀ 
-#vɛʀɡũɲ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vɛʀɡɔ̃ɲ# | Rule 755 : ũ > ɔ̃ 
-#vɛʀɡɔɲ# | Rule 757 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
+#vˌɛrɡˈũɲə# | Rule 684 : [-hi,-lo,+syl,+front] > [-tense,-cons,-lat,+cont,0delrel] / __ r [+cons,-strid]
+#vˌɛrɡˈũɲə̯# | Rule 707 : ə > ə̯ / __ #
+#vˌɛɹɡˈũɲə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#vˌɛɹɡˈũɲ# | Rule 735 : ə̯ > ∅ 
+#vˌɛrɡˈũɲ# | Rule 749 : ɹ > r 
+#vˌɛʀɡˈũɲ# | Rule 751 : r > ʀ 
+#vɛʀɡũɲ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vɛʀɡɔ̃ɲ# | Rule 754 : ũ > ɔ̃ 
+#vɛʀɡɔɲ# | Rule 756 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
 #vɛʁɡɔɲ# | Rule 759 : ʀ > ʁ 

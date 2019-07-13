@@ -11,9 +11,9 @@ s ˈe k s
 #sˈie̯ʝt͡sʲ# | Rule 464 : ç > ʝ 
 #sˈie̯jt͡sʲ# | Rule 470 : ʝ > j / [-cons] __ 
 #sˈie̯jt͡s# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#sˈijt͡s# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#sˈit͡s# | Rule 560 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
-#sˈis# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˈisə̯# | Rule 733 : ∅ > ə̯ / # [+strid] [-round,+hi,+syl] s __ #
-#sˈis# | Rule 736 : ə̯ > ∅ 
-#sis# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sˈijt͡s# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#sˈit͡s# | Rule 559 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
+#sˈis# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˈisə̯# | Rule 732 : ∅ > ə̯ / # [+strid] [-round,+hi,+syl] s __ #
+#sˈis# | Rule 735 : ə̯ > ∅ 
+#sis# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

@@ -13,10 +13,10 @@ l ˈe p o r e m
 #lˈie̯brə# | Rule 361 : [-voi,-delrel,+ant] > [+voi] / [-cons] __ [+cor,+son,-nas]
 #lˈie̯βrə# | Rule 386 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
 #lˈie̯vrə# | Rule 442 : β > v 
-#ljˈevrə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#ljˈɛvrə# | Rule 617 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [-son] [+son,+cor,-nas,+cons] [+syl]
-#ljˈɛvrə̯# | Rule 708 : ə > ə̯ / __ #
-#ljˈɛvr# | Rule 736 : ə̯ > ∅ 
-#ljˈɛvʀ# | Rule 752 : r > ʀ 
-#ljɛvʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ljˈevrə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#ljˈɛvrə# | Rule 616 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [-son] [+son,+cor,-nas,+cons] [+syl]
+#ljˈɛvrə̯# | Rule 707 : ə > ə̯ / __ #
+#ljˈɛvr# | Rule 735 : ə̯ > ∅ 
+#ljˈɛvʀ# | Rule 751 : r > ʀ 
+#ljɛvʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ljɛvʁ# | Rule 759 : ʀ > ʁ 

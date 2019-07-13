@@ -14,11 +14,11 @@ k ˈɑ t̪ʰ e d̪ r ɑ m
 #t͡ʃˌad̪ˈɛðra# | Rule 360 : [-voi] > [+voi] / [-cons] __ [-cons]
 #t͡ʃˌaðˈɛðra# | Rule 385 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [-cons]
 #t͡ʃˌaðˈɛðrə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#t͡ʃˌaˈɛrə# | Rule 608 : {θ;ð} > {∅;∅} 
-#ʃˌaˈɛrə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˈɛrə# | Rule 704 : ˌa > ∅ / __ [+prim]
-#ʃˈɛrə̯# | Rule 708 : ə > ə̯ / __ #
-#ʃˈɛr# | Rule 736 : ə̯ > ∅ 
-#ʃˈɛʀ# | Rule 752 : r > ʀ 
-#ʃɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡ʃˌaˈɛrə# | Rule 607 : {θ;ð} > {∅;∅} 
+#ʃˌaˈɛrə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˈɛrə# | Rule 703 : ˌa > ∅ / __ [+prim]
+#ʃˈɛrə̯# | Rule 707 : ə > ə̯ / __ #
+#ʃˈɛr# | Rule 735 : ə̯ > ∅ 
+#ʃˈɛʀ# | Rule 751 : r > ʀ 
+#ʃɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ʃɛʁ# | Rule 759 : ʀ > ʁ 

@@ -15,12 +15,12 @@ t̪ ˌe r r ˈeː n̪ u m
 #t̪ˌerrˈejn̪# | Rule 437 : ˌɛ > ˌe / __ r r
 #t̪ˌerrˈej̃n̪# | Rule 522 : j > j̃ / [+front,-hi,+syl] __ [+nas,-syl]
 #t̪ˌerrˈẽj̃n̪# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#t̪ˌerrˈɛ̃j̃n̪# | Rule 573 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
-#t̪ˌerˈɛ̃j̃n̪# | Rule 605 : r r > r 
-#t̪ˌərˈɛ̃j̃n̪# | Rule 610 : ˌe > ˌə / __ [+cont] [+prim,+front,-hi,-lo]
-#t̪ˌərˈɛ̃n̪# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#t̪ˌərˈɛ̃ː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#t̪ˌəʀˈɛ̃ː# | Rule 752 : r > ʀ 
-#t̪əʀɛ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#t̪əʀɛ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t̪ˌerrˈɛ̃j̃n̪# | Rule 572 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
+#t̪ˌerˈɛ̃j̃n̪# | Rule 604 : r r > r 
+#t̪ˌərˈɛ̃j̃n̪# | Rule 609 : ˌe > ˌə / __ [+cont] [+prim,+front,-hi,-lo]
+#t̪ˌərˈɛ̃n̪# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#t̪ˌərˈɛ̃ː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#t̪ˌəʀˈɛ̃ː# | Rule 751 : r > ʀ 
+#t̪əʀɛ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪əʀɛ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #t̪əʁɛ̃# | Rule 759 : ʀ > ʁ 

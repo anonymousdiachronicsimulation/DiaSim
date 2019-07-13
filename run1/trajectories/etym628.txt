@@ -14,11 +14,11 @@ m ˈɑː j o r
 #mˈaːjrə# | Rule 394 : rʲ > r 
 #mˈae̯jrə# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #mˈajrə# | Rule 425 : e̯ > ∅ / ˈa __ [+front,+son,-syl]
-#mˈɛjrə# | Rule 620 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
-#mˈɛːrə# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#mˈɛːrə̯# | Rule 708 : ə > ə̯ / __ #
-#mˈɛːr# | Rule 736 : ə̯ > ∅ 
-#mˈɛːʀ# | Rule 752 : r > ʀ 
-#mɛːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mɛʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˈɛjrə# | Rule 619 : [+lo] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+#mˈɛːrə# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#mˈɛːrə̯# | Rule 707 : ə > ə̯ / __ #
+#mˈɛːr# | Rule 735 : ə̯ > ∅ 
+#mˈɛːʀ# | Rule 751 : r > ʀ 
+#mɛːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mɛʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #mɛʁ# | Rule 759 : ʀ > ʁ 

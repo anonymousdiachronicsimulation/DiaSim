@@ -18,9 +18,9 @@ t̪ ˌɑ m ˈe s i u m
 #t̪ˌamˈie̯js# | Rule 450 : [-son] > [-voi] / __ #
 #t̪ˌãmˈie̯js# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #t̪ˌæ̃mˈie̯js# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#t̪ˌæ̃mˈijs# | Rule 559 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-#t̪ˌæ̃mˈis# | Rule 560 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
-#t̪ˌãmˈis# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#t̪ˌãmˈi# | Rule 734 : [-son] > ∅ / __ #
-#t̪ˌamˈi# | Rule 743 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
-#t̪ami# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˌæ̃mˈijs# | Rule 558 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+#t̪ˌæ̃mˈis# | Rule 559 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
+#t̪ˌãmˈis# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#t̪ˌãmˈi# | Rule 733 : [-son] > ∅ / __ #
+#t̪ˌamˈi# | Rule 742 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
+#t̪ami# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

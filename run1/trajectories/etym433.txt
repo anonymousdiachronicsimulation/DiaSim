@@ -16,10 +16,10 @@ k ˈɑ r t̪ u n̪ eː s
 #t͡ʃˈart̪ɾs# | Rule 308 : ə̯ > ∅ 
 #t͡ʃˈart̪rs# | Rule 390 : ɾ > r 
 #t͡ʃˈart̪s# | Rule 477 : [+cons] > ∅ / [+cons] __ [-son]
-#ʃˈart̪s# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˈaɹt̪s# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#ʃˈaɹt̪# | Rule 734 : [-son] > ∅ / __ #
-#ʃˈart̪# | Rule 750 : ɹ > r 
-#ʃˈaʀt̪# | Rule 752 : r > ʀ 
-#ʃaʀt̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʃˈart̪s# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˈaɹt̪s# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#ʃˈaɹt̪# | Rule 733 : [-son] > ∅ / __ #
+#ʃˈart̪# | Rule 749 : ɹ > r 
+#ʃˈaʀt̪# | Rule 751 : r > ʀ 
+#ʃaʀt̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ʃaʁt̪# | Rule 759 : ʀ > ʁ 

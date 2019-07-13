@@ -12,11 +12,11 @@ Trajectory file for run 'run1'; etymon number :314:
 #d͡ʒˈɔrd͡ʒəs# | Rule 275 : [-stres,-lo,+syl] > ə / __ [-syl]
 #d͡ʒˈɔrd͡ʒə̯s# | Rule 284 : ə > ə̯ 
 #d͡ʒˈɔrd͡ʒəs# | Rule 302 : ə̯ > ə / [+delrel,-ant] __ 
-#ʒˈɔrʒəs# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʒˈɔɹʒəs# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#ʒˈɔɹʒə# | Rule 734 : [-son] > ∅ / __ #
-#ʒˈɔrʒə# | Rule 750 : ɹ > r 
-#ʒˈɔʀʒə# | Rule 752 : r > ʀ 
-#ʒɔʀʒə# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʒˈɔrʒəs# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʒˈɔɹʒəs# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#ʒˈɔɹʒə# | Rule 733 : [-son] > ∅ / __ #
+#ʒˈɔrʒə# | Rule 749 : ɹ > r 
+#ʒˈɔʀʒə# | Rule 751 : r > ʀ 
+#ʒɔʀʒə# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #ʒɔʁʒə# | Rule 759 : ʀ > ʁ 
 #ʒɔʁʒ# | Rule 762 : ə > ∅ / [+syl] ( [-syl] )* __ #

@@ -12,10 +12,10 @@ k l ˈɑː r u m
 #klˈaːr# | Rule 308 : ə̯ > ∅ 
 #klˈae̯r# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #klˈeːr# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#klˈɛːr# | Rule 686 : [-hi,-lo,+syl,+front,-round] > [-tense,-cons,-lat,+cont,0delrel] / # ( [-syl] )* __ r #
-#klˈɛːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#klˈɛːr# | Rule 750 : ɹ > r 
-#klˈɛːʀ# | Rule 752 : r > ʀ 
-#klɛːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#klɛʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#klˈɛːr# | Rule 685 : [-hi,-lo,+syl,+front,-round] > [-tense,-cons,-lat,+cont,0delrel] / # ( [-syl] )* __ r #
+#klˈɛːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#klˈɛːr# | Rule 749 : ɹ > r 
+#klˈɛːʀ# | Rule 751 : r > ʀ 
+#klɛːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#klɛʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #klɛʁ# | Rule 759 : ʀ > ʁ 

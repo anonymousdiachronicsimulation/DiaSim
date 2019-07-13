@@ -17,8 +17,8 @@ m ˌɑ k i ˈoː n̪ e m
 #mˌat̪t͡sʲˈũːn̪# | Rule 308 : ə̯ > ∅ 
 #mˌat͡sʲˈũːn̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #mˌat͡sˈũːn̪# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#mˌasˈũːn̪# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#mˌasˈũː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#masũː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#masũ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#masɔ̃# | Rule 755 : ũ > ɔ̃ 
+#mˌasˈũːn̪# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#mˌasˈũː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#masũː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#masũ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#masɔ̃# | Rule 754 : ũ > ɔ̃ 

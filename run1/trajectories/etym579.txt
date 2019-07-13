@@ -14,7 +14,7 @@ l ˌɑ w ˈɑː r e
 #lˌaβˈae̯r# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #lˌavˈae̯r# | Rule 442 : β > v 
 #lˌavˈeːr# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#lˌavˈeːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#lˌavˈeː# | Rule 748 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
-#laveː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#lave# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#lˌavˈeːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#lˌavˈeː# | Rule 747 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+#laveː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lave# | Rule 753 : [+syl,+long] > [-long,-splng] 

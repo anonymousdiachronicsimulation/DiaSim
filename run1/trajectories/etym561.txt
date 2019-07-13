@@ -18,6 +18,6 @@ l ˈɑ k w e u m
 #lˈat̪t͡sʲ# | Rule 308 : ə̯ > ∅ 
 #lˈat͡sʲ# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #lˈat͡s# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#lˈas# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#lˈa# | Rule 734 : [-son] > ∅ / __ #
-#la# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lˈas# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#lˈa# | Rule 733 : [-son] > ∅ / __ #
+#la# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

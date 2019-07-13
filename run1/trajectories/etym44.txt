@@ -22,9 +22,9 @@ Trajectory file for run 'run1'; etymon number :44:
 #ˌãmˌit͡sʲt̪ˈie̯θ# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #ˌæ̃mˌit͡sʲt̪ˈie̯θ# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
 #ˌæ̃mˌit͡st̪ˈie̯θ# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#ˌãmˌit͡st̪ˈie̯θ# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#ˌãmˌit͡st̪jˈeθ# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#ˌãmˌit͡st̪jˈe# | Rule 608 : {θ;ð} > {∅;∅} 
-#ˌãmˌit̪jˈe# | Rule 648 : t͡s > ∅ / __ [+cons]
-#ˌamˌit̪jˈe# | Rule 743 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
-#amit̪je# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ˌãmˌit͡st̪ˈie̯θ# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#ˌãmˌit͡st̪jˈeθ# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#ˌãmˌit͡st̪jˈe# | Rule 607 : {θ;ð} > {∅;∅} 
+#ˌãmˌit̪jˈe# | Rule 647 : t͡s > ∅ / __ [+cons]
+#ˌamˌit̪jˈe# | Rule 742 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
+#amit̪je# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

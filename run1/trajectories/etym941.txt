@@ -13,7 +13,7 @@ p ˈo t̪ e t̪
 #pˈʉo̯t̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #pˈyo̯t̪# | Rule 508 : [+hi,+round,-back] > [+front] 
 #pˈye̯t̪# | Rule 537 : o̯ > e̯ 
-#pˈøːt̪# | Rule 581 : [+hi,+round,+tense,+prim] e̯ > ˈøː
-#pˈøː# | Rule 734 : [-son] > ∅ / __ #
-#pøː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pø# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˈøːt̪# | Rule 580 : [+hi,+round,+tense,+prim] e̯ > ˈøː
+#pˈøː# | Rule 733 : [-son] > ∅ / __ #
+#pøː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pø# | Rule 753 : [+syl,+long] > [-long,-splng] 

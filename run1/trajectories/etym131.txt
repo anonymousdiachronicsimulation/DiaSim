@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :131:
-#bˌot̪ˈellum# >>> #bwɛjo# ( Correct : #bwajo#) :
+#bˌot̪ˈellum# >>> #bwajo# ( Correct : #bwajo#) :
 b ˌo t̪ ˈe l l u m 
 #bˌɔt̪ˈɛllʊm# | Rule 14 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
 #bˌɔt̪ˈɛllom# | Rule 69 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
@@ -12,13 +12,14 @@ b ˌo t̪ ˈe l l u m
 #bˌoðˈɛll# | Rule 435 : ˌɔ > ˌo 
 #bˌoðˈɛl# | Rule 497 : {p p;b b;f f;m m;t̪ t̪;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d͡ʒ;n̪ n̪;s s;z z;l l;k k;ɡ ɡ;n̪ n̪} > {p;b;f;m;t̪;t͡s;t͡sʲ;t͡ʃ;d̪;d͡ʒ;n̪;s;z;l;k;ɡ;n̪} 
 #bˌɔðˈɛl# | Rule 527 : {ˌo;ˈo} > {ˌɔ;ˈɔ} / __ ð ( [-syl] )* [+syl,-tense]
-#bˌɔðˈɛɫ# | Rule 579 : l > ɫ / [+syl,-hi,-lo,-long] __ #
-#bˌɔðˈɛw# | Rule 582 : [+lat,+back] > w 
-#bˌɔðˈɛa̯w# | Rule 585 : ∅ > a̯ / [-hi,-lo,+front,-tense,+stres] __ w
-#bˌɔðe̯ˈaw# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#bˌɔe̯ˈaw# | Rule 608 : {θ;ð} > {∅;∅} 
-#bˌɔjˈaw# | Rule 630 : e̯ > j / ˌɔ __ [+front,+prim]
-#bwˌɛjˈaw# | Rule 631 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
-#bwˌɛjˈoː# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#bwɛjoː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#bwɛjo# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#bˌɔðˈɛɫ# | Rule 578 : l > ɫ / [+syl,-hi,-lo,-long] __ #
+#bˌɔðˈɛw# | Rule 581 : [+lat,+back] > w 
+#bˌɔðˈɛa̯w# | Rule 584 : ∅ > a̯ / [-hi,-lo,+front,-tense,+stres] __ w
+#bˌɔðe̯ˈaw# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#bˌɔe̯ˈaw# | Rule 607 : {θ;ð} > {∅;∅} 
+#bˌɔjˈaw# | Rule 629 : e̯ > j / ˌɔ __ [+front,+prim]
+#bwˌɛjˈaw# | Rule 630 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
+#bwˌɛjˈoː# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#bwɛjoː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bwɛjo# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#bwajo# | Rule 758 : ɛ > a / w __ 

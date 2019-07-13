@@ -21,6 +21,6 @@ Trajectory file for run 'run1'; etymon number :7:
 #ˌaðvɔˈae̯t̪# | Rule 442 : β > v 
 #ˌaðvɔˈae̯θ# | Rule 444 : [-delrel] > [+cont,0delrel] / [-cons] __ #
 #ˌaðvɔˈeːθ# | Rule 554 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
-#ˌavɔˈeː# | Rule 608 : {θ;ð} > {∅;∅} 
-#avɔeː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#avɔe# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#ˌavɔˈeː# | Rule 607 : {θ;ð} > {∅;∅} 
+#avɔeː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#avɔe# | Rule 753 : [+syl,+long] > [-long,-splng] 

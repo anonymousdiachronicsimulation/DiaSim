@@ -20,13 +20,13 @@ k ˌe r t̪ ˈɑː n̪ u m
 #t͡sʲˌɛrt̪ˈaj̃n̪# | Rule 509 : j > j̃ / [+lo] __ [+nas,-syl]
 #t͡sʲˌɛrt̪ˈãj̃n̪# | Rule 510 : [+lo] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #t͡sˌɛrt̪ˈãj̃n̪# | Rule 549 : t͡sʲ > t͡s / # __ 
-#t͡sˌɛrt̪ˈɛ̃j̃n̪# | Rule 588 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
-#sˌɛrt̪ˈɛ̃j̃n̪# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˌɛrt̪ˈɛ̃n̪# | Rule 665 : j̃ > ∅ / [+nas,+front,-tense] __ 
-#sˌɛrt̪ˈɛ̃ː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#sˌɛɹt̪ˈɛ̃ː# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#sˌɛrt̪ˈɛ̃ː# | Rule 750 : ɹ > r 
-#sˌɛʀt̪ˈɛ̃ː# | Rule 752 : r > ʀ 
-#sɛʀt̪ɛ̃ː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#sɛʀt̪ɛ̃# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t͡sˌɛrt̪ˈɛ̃j̃n̪# | Rule 587 : [+lo,+nas] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j̃
+#sˌɛrt̪ˈɛ̃j̃n̪# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˌɛrt̪ˈɛ̃n̪# | Rule 664 : j̃ > ∅ / [+nas,+front,-tense] __ 
+#sˌɛrt̪ˈɛ̃ː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#sˌɛɹt̪ˈɛ̃ː# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#sˌɛrt̪ˈɛ̃ː# | Rule 749 : ɹ > r 
+#sˌɛʀt̪ˈɛ̃ː# | Rule 751 : r > ʀ 
+#sɛʀt̪ɛ̃ː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sɛʀt̪ɛ̃# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #sɛʁt̪ɛ̃# | Rule 759 : ʀ > ʁ 

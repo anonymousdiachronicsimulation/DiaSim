@@ -6,11 +6,11 @@ k ˈo n̪ t̪ r ɑː
 #kˈũn̪t̪rɑ# | Rule 172 : [+round,-hi] > [+tense,+hi,+nas,-cons,+son,-lat,+cont,0delrel] / __ [+nas]
 #kˈũn̪t̪ra# | Rule 205 : [+lo] > [+front,-back] 
 #kˈũn̪t̪rə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#kˈũːt̪rə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#kˈũːt̪rə̯# | Rule 708 : ə > ə̯ / __ #
-#kˈũːt̪r# | Rule 736 : ə̯ > ∅ 
-#kˈũːt̪ʀ# | Rule 752 : r > ʀ 
-#kũːt̪ʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#kũt̪ʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#kɔ̃t̪ʀ# | Rule 755 : ũ > ɔ̃ 
+#kˈũːt̪rə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#kˈũːt̪rə̯# | Rule 707 : ə > ə̯ / __ #
+#kˈũːt̪r# | Rule 735 : ə̯ > ∅ 
+#kˈũːt̪ʀ# | Rule 751 : r > ʀ 
+#kũːt̪ʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kũt̪ʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#kɔ̃t̪ʀ# | Rule 754 : ũ > ɔ̃ 
 #kɔ̃t̪ʁ# | Rule 759 : ʀ > ʁ 

@@ -8,10 +8,10 @@ b ˈu r ɡ u m
 #bˈorɡə̯# | Rule 284 : ə > ə̯ 
 #bˈorɡ# | Rule 308 : ə̯ > ∅ 
 #bˈork# | Rule 450 : [-son] > [-voi] / __ #
-#bˈurk# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#bˈuɹk# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#bˈuɹ# | Rule 734 : [-son] > ∅ / __ #
-#bˈur# | Rule 750 : ɹ > r 
-#bˈuʀ# | Rule 752 : r > ʀ 
-#buʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#bˈurk# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#bˈuɹk# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#bˈuɹ# | Rule 733 : [-son] > ∅ / __ #
+#bˈur# | Rule 749 : ɹ > r 
+#bˈuʀ# | Rule 751 : r > ʀ 
+#buʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #buʁ# | Rule 759 : ʀ > ʁ 

@@ -10,11 +10,11 @@ p ˈu r p p u r ɑ m
 #pˈorpə̯ra# | Rule 284 : ə > ə̯ 
 #pˈorpra# | Rule 308 : ə̯ > ∅ 
 #pˈorprə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#pˈurprə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#pˈurprə̯# | Rule 708 : ə > ə̯ / __ #
-#pˈuɹprə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#pˈuɹpr# | Rule 736 : ə̯ > ∅ 
-#pˈurpr# | Rule 750 : ɹ > r 
-#pˈuʀpʀ# | Rule 752 : r > ʀ 
-#puʀpʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pˈurprə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#pˈurprə̯# | Rule 707 : ə > ə̯ / __ #
+#pˈuɹprə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#pˈuɹpr# | Rule 735 : ə̯ > ∅ 
+#pˈurpr# | Rule 749 : ɹ > r 
+#pˈuʀpʀ# | Rule 751 : r > ʀ 
+#puʀpʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #puʁpʁ# | Rule 759 : ʀ > ʁ 

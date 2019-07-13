@@ -17,15 +17,15 @@ p ˌe r w ˈi n̪ k ɑ m
 #pˌervˈeŋt͡ʃə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #pˌervˈẽŋt͡ʃə# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #pˌervˈɛ̃ŋt͡ʃə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#pˌervˈãŋt͡ʃə# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#pˌervˈãŋʃə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#pˌervˈãːʃə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#pˌervˈãːʃə̯# | Rule 708 : ə > ə̯ / __ #
-#pˌervˈɑ̃ːʃə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#pˌeɹvˈɑ̃ːʃə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#pˌeɹvˈɑ̃ːʃ# | Rule 736 : ə̯ > ∅ 
-#pˌervˈɑ̃ːʃ# | Rule 750 : ɹ > r 
-#pˌeʀvˈɑ̃ːʃ# | Rule 752 : r > ʀ 
-#peʀvɑ̃ːʃ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#peʀvɑ̃ʃ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pˌervˈãŋt͡ʃə# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#pˌervˈãŋʃə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#pˌervˈãːʃə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#pˌervˈãːʃə̯# | Rule 707 : ə > ə̯ / __ #
+#pˌervˈɑ̃ːʃə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#pˌeɹvˈɑ̃ːʃə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#pˌeɹvˈɑ̃ːʃ# | Rule 735 : ə̯ > ∅ 
+#pˌervˈɑ̃ːʃ# | Rule 749 : ɹ > r 
+#pˌeʀvˈɑ̃ːʃ# | Rule 751 : r > ʀ 
+#peʀvɑ̃ːʃ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#peʀvɑ̃ʃ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #peʁvɑ̃ʃ# | Rule 759 : ʀ > ʁ 

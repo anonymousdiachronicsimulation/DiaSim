@@ -14,10 +14,10 @@ k ˌe b ˈe n̪ n̪ ɑ s
 #t͡sʲˌɛvˈɛn̪əs# | Rule 497 : {p p;b b;f f;m m;t̪ t̪;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d͡ʒ;n̪ n̪;s s;z z;l l;k k;ɡ ɡ;n̪ n̪} > {p;b;f;m;t̪;t͡s;t͡sʲ;t͡ʃ;d̪;d͡ʒ;n̪;s;z;l;k;ɡ;n̪} 
 #t͡sʲˌɛvˈɛ̃n̪əs# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #t͡sˌɛvˈɛ̃n̪əs# | Rule 549 : t͡sʲ > t͡s / # __ 
-#t͡sˌɛvˈãn̪əs# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#t͡sˌevˈãn̪əs# | Rule 609 : ˌɛ > ˌe / __ [+cont,-lat,-nas,+voi] [+syl]
-#sˌevˈãn̪əs# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˌevˈãn̪ə# | Rule 734 : [-son] > ∅ / __ #
-#sˌevˈan̪ə# | Rule 743 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
-#sevan̪ə# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡sˌɛvˈãn̪əs# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#t͡sˌevˈãn̪əs# | Rule 608 : ˌɛ > ˌe / __ [+cont,-lat,-nas,+voi] [+syl]
+#sˌevˈãn̪əs# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˌevˈãn̪ə# | Rule 733 : [-son] > ∅ / __ #
+#sˌevˈan̪ə# | Rule 742 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
+#sevan̪ə# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #sevan̪# | Rule 762 : ə > ∅ / [+syl] ( [-syl] )* __ #

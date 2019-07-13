@@ -12,10 +12,10 @@ s ˌe r w ˈiː r e
 #sˌɛrβˈiːr# | Rule 308 : ə̯ > ∅ 
 #sˌerβˈiːr# | Rule 432 : ˌɛ > ˌe / __ @ @
 #sˌervˈiːr# | Rule 442 : β > v 
-#sˌervˈiːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sˌeɹvˈiːɹ# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#sˌervˈiːr# | Rule 750 : ɹ > r 
-#sˌeʀvˈiːʀ# | Rule 752 : r > ʀ 
-#seʀviːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#seʀviʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#sˌervˈiːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sˌeɹvˈiːɹ# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#sˌervˈiːr# | Rule 749 : ɹ > r 
+#sˌeʀvˈiːʀ# | Rule 751 : r > ʀ 
+#seʀviːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#seʀviʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #seʁviʁ# | Rule 759 : ʀ > ʁ 

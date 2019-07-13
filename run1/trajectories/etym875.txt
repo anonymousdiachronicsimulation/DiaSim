@@ -12,9 +12,9 @@ p ˈe t̪ t̪ i ɑ m
 #pˈie̯t̪t͡sʲə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #pˈie̯t͡sʲə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #pˈie̯t͡sə# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#pjˈet͡sə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#pjˈɛt͡sə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#pjˈɛsə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#pjˈɛsə̯# | Rule 708 : ə > ə̯ / __ #
-#pjˈɛs# | Rule 736 : ə̯ > ∅ 
-#pjɛs# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pjˈet͡sə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#pjˈɛt͡sə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#pjˈɛsə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#pjˈɛsə̯# | Rule 707 : ə > ə̯ / __ #
+#pjˈɛs# | Rule 735 : ə̯ > ∅ 
+#pjɛs# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

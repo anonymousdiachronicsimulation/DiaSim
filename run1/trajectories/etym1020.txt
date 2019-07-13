@@ -23,12 +23,12 @@ r ˈo t̪ u n̪ u m
 #rˈɔzn̪ə# | Rule 530 : ð > z / r [+syl] __ n̪
 #rˈɔːzn̪ə# | Rule 533 : [+prim] > [+long] / @ __ z [+cons]
 #rˈɔːn̪ə# | Rule 536 : z > ∅ / __ [+cons]
-#rˈɔ̃ːn̪ə# | Rule 627 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
-#rˈõːn̪ə# | Rule 642 : [-lo,-hi,+back,-tense,+long] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] ) [+syl]
-#rˈõːn̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#rˈõːn̪# | Rule 736 : ə̯ > ∅ 
-#ʀˈõːn̪# | Rule 752 : r > ʀ 
-#ʀõːn̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʀõn̪# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#ʀon̪# | Rule 757 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
+#rˈɔ̃ːn̪ə# | Rule 626 : [+syl,-front] > [+nas,+son,0delrel] / __ [+nas,-syl]
+#rˈõːn̪ə# | Rule 641 : [-lo,-hi,+back,-tense,+long] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] ) [+syl]
+#rˈõːn̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#rˈõːn̪# | Rule 735 : ə̯ > ∅ 
+#ʀˈõːn̪# | Rule 751 : r > ʀ 
+#ʀõːn̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʀõn̪# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#ʀon̪# | Rule 756 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
 #ʁon̪# | Rule 759 : ʀ > ʁ 

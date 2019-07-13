@@ -16,11 +16,11 @@ m ˌo l i t̪ ˈuː r ɑ m
 #mˌɔlt̪ˈʉːrə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #mˌɔɫt̪ˈʉːrə# | Rule 506 : [+lat] > ɫ / __ [+cons]
 #mˌɔɫt̪ˈyːrə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#mˌɔwt̪ˈyːrə# | Rule 582 : [+lat,+back] > w 
-#mˌut̪ˈyːrə# | Rule 625 : [-hi,-lo,+back,+round] w > [+hi,+tense,-cons,-lat,+cont,0delrel] ∅
-#mˌut̪ˈyːrə̯# | Rule 708 : ə > ə̯ / __ #
-#mˌut̪ˈyːr# | Rule 736 : ə̯ > ∅ 
-#mˌut̪ˈyːʀ# | Rule 752 : r > ʀ 
-#mut̪yːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#mut̪yʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#mˌɔwt̪ˈyːrə# | Rule 581 : [+lat,+back] > w 
+#mˌut̪ˈyːrə# | Rule 624 : [-hi,-lo,+back,+round] w > [+hi,+tense,-cons,-lat,+cont,0delrel] ∅
+#mˌut̪ˈyːrə̯# | Rule 707 : ə > ə̯ / __ #
+#mˌut̪ˈyːr# | Rule 735 : ə̯ > ∅ 
+#mˌut̪ˈyːʀ# | Rule 751 : r > ʀ 
+#mut̪yːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#mut̪yʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #mut̪yʁ# | Rule 759 : ʀ > ʁ 

@@ -11,8 +11,8 @@ t̪ r ˈɑː d̪ i t̪ o r
 #t̪rˈat̪t̪ə̯r# | Rule 284 : ə > ə̯ 
 #t̪rˈat̪t̪rə# | Rule 289 : {ə̯ r;ə̯ ɾ} > {r ə;ɾ ə} / __ #
 #t̪rˈat̪rə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#t̪rˈat̪rə̯# | Rule 708 : ə > ə̯ / __ #
-#t̪rˈat̪r# | Rule 736 : ə̯ > ∅ 
-#t̪ʀˈat̪ʀ# | Rule 752 : r > ʀ 
-#t̪ʀat̪ʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪rˈat̪rə̯# | Rule 707 : ə > ə̯ / __ #
+#t̪rˈat̪r# | Rule 735 : ə̯ > ∅ 
+#t̪ʀˈat̪ʀ# | Rule 751 : r > ʀ 
+#t̪ʀat̪ʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #t̪ʁat̪ʁ# | Rule 759 : ʀ > ʁ 

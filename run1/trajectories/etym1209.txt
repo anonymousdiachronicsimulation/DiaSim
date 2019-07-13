@@ -5,9 +5,9 @@ t̪ ˈe r r ɑ m
 #t̪ˈɛrrɑ# | Rule 74 : [+nas,+cons] > ∅ / [-stres] __ #
 #t̪ˈɛrra# | Rule 205 : [+lo] > [+front,-back] 
 #t̪ˈɛrrə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#t̪ˈɛrə# | Rule 605 : r r > r 
-#t̪ˈɛrə̯# | Rule 708 : ə > ə̯ / __ #
-#t̪ˈɛr# | Rule 736 : ə̯ > ∅ 
-#t̪ˈɛʀ# | Rule 752 : r > ʀ 
-#t̪ɛʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t̪ˈɛrə# | Rule 604 : r r > r 
+#t̪ˈɛrə̯# | Rule 707 : ə > ə̯ / __ #
+#t̪ˈɛr# | Rule 735 : ə̯ > ∅ 
+#t̪ˈɛʀ# | Rule 751 : r > ʀ 
+#t̪ɛʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #t̪ɛʁ# | Rule 759 : ʀ > ʁ 

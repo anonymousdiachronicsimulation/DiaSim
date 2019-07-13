@@ -9,10 +9,10 @@ d̪ r ˈɑ p p oː s
 #d̪rˈaps# | Rule 337 : {b b;p p} > {b;p} / __ [+cons] #
 #d̪rˈass# | Rule 342 : [+lab,-nas,-round,+cons] > s / __ s
 #d̪rˈas# | Rule 497 : {p p;b b;f f;m m;t̪ t̪;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d͡ʒ;n̪ n̪;s s;z z;l l;k k;ɡ ɡ;n̪ n̪} > {p;b;f;m;t̪;t͡s;t͡sʲ;t͡ʃ;d̪;d͡ʒ;n̪;s;z;l;k;ɡ;n̪} 
-#d̪rˈaːs# | Rule 647 : [+prim,+lo] > [+long] / __ s #
-#d̪rˈɑːs# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#d̪rˈɑː# | Rule 734 : [-son] > ∅ / __ #
-#d̪ʀˈɑː# | Rule 752 : r > ʀ 
-#d̪ʀɑː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#d̪ʀɑ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#d̪rˈaːs# | Rule 646 : [+prim,+lo] > [+long] / __ s #
+#d̪rˈɑːs# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#d̪rˈɑː# | Rule 733 : [-son] > ∅ / __ #
+#d̪ʀˈɑː# | Rule 751 : r > ʀ 
+#d̪ʀɑː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#d̪ʀɑ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #d̪ʁɑ# | Rule 759 : ʀ > ʁ 

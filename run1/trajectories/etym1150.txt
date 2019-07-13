@@ -17,11 +17,11 @@ s ˌu b d̪ i ˈu r n̪ u m
 #sˌod̪d͡ʒˈorr# | Rule 390 : ɾ > r 
 #sˌod͡ʒˈorr# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #sˌəd͡ʒˈorr# | Rule 542 : ˌo > ˌə / __ [+delrel,-ant] [+tense,+prim,+round]
-#sˌəd͡ʒˈurr# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#sˌəd͡ʒˈur# | Rule 605 : r r > r 
-#sˌəʒˈur# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˌəʒˈuɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sˌəʒˈur# | Rule 750 : ɹ > r 
-#sˌəʒˈuʀ# | Rule 752 : r > ʀ 
-#səʒuʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sˌəd͡ʒˈurr# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#sˌəd͡ʒˈur# | Rule 604 : r r > r 
+#sˌəʒˈur# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˌəʒˈuɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sˌəʒˈur# | Rule 749 : ɹ > r 
+#sˌəʒˈuʀ# | Rule 751 : r > ʀ 
+#səʒuʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #səʒuʁ# | Rule 759 : ʀ > ʁ 

@@ -14,13 +14,13 @@ k ˌɑ l ˈoː r e m
 #t͡ʃˌalˈoːr# | Rule 308 : ə̯ > ∅ 
 #t͡ʃˌalˈowr# | Rule 420 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 #t͡ʃˌalˈewr# | Rule 544 : ˈo > ˈe / __ w
-#t͡ʃˌalˈøwr# | Rule 612 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
-#t͡ʃˌalˈøːr# | Rule 622 : [+round,+front,-hi,+syl] w > [+long] ∅
-#ʃˌalˈøːr# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʃˌalˈœːr# | Rule 687 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
-#ʃˌalˈœːɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#ʃˌalˈœːr# | Rule 750 : ɹ > r 
-#ʃˌalˈœːʀ# | Rule 752 : r > ʀ 
-#ʃalœːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʃalœʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#t͡ʃˌalˈøwr# | Rule 611 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+#t͡ʃˌalˈøːr# | Rule 621 : [+round,+front,-hi,+syl] w > [+long] ∅
+#ʃˌalˈøːr# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʃˌalˈœːr# | Rule 686 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
+#ʃˌalˈœːɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#ʃˌalˈœːr# | Rule 749 : ɹ > r 
+#ʃˌalˈœːʀ# | Rule 751 : r > ʀ 
+#ʃalœːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʃalœʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #ʃalœʁ# | Rule 759 : ʀ > ʁ 

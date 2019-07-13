@@ -25,13 +25,13 @@ i ˌu w e n̪ k ˈe l l ɑ m
 #d͡ʒˌoveŋt͡sʲˈɛlə# | Rule 519 : ə > e / __ [+nas] [-nas,+cons] ( [-syl] )* [+syl]
 #d͡ʒˌovẽŋt͡sʲˈɛlə# | Rule 523 : [+front,-hi,+syl] > [+nas,+son,0delrel] / __ [+nas,-syl]
 #d͡ʒˌovɛ̃ŋt͡sʲˈɛlə# | Rule 524 : [+nas,+front,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
-#d͡ʒˌuvɛ̃ŋt͡sʲˈɛlə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#d͡ʒˌuvãŋt͡sʲˈɛlə# | Rule 577 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-#ʒˌuvãŋsʲˈɛlə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#ʒˌuvãːsʲˈɛlə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#ʒˌuvãːsˈɛlə# | Rule 673 : {sʲ;d̪ʲ;t̪ʲ} > {s;d̪;t̪} 
-#ʒˌuvãːsˈɛlə̯# | Rule 708 : ə > ə̯ / __ #
-#ʒˌuvɑ̃ːsˈɛlə̯# | Rule 715 : [+lo,+long,+syl] > [+back,-front] 
-#ʒˌuvɑ̃ːsˈɛl# | Rule 736 : ə̯ > ∅ 
-#ʒuvɑ̃ːsɛl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#ʒuvɑ̃sɛl# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#d͡ʒˌuvɛ̃ŋt͡sʲˈɛlə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#d͡ʒˌuvãŋt͡sʲˈɛlə# | Rule 576 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+#ʒˌuvãŋsʲˈɛlə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#ʒˌuvãːsʲˈɛlə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#ʒˌuvãːsˈɛlə# | Rule 672 : {sʲ;d̪ʲ;t̪ʲ} > {s;d̪;t̪} 
+#ʒˌuvãːsˈɛlə̯# | Rule 707 : ə > ə̯ / __ #
+#ʒˌuvɑ̃ːsˈɛlə̯# | Rule 714 : [+lo,+long,+syl] > [+back,-front] 
+#ʒˌuvɑ̃ːsˈɛl# | Rule 735 : ə̯ > ∅ 
+#ʒuvɑ̃ːsɛl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#ʒuvɑ̃sɛl# | Rule 753 : [+syl,+long] > [-long,-splng] 

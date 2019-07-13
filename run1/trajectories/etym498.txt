@@ -9,12 +9,12 @@ k ˌo r ˈoː n̪ ɑ m
 #kˌɔrˈũːn̪a# | Rule 205 : [+lo] > [+front,-back] 
 #kˌorˈũːn̪a# | Rule 435 : ˌɔ > ˌo 
 #kˌorˈũːn̪ə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
-#kˌurˈũːn̪ə# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#kˌurˈũːn̪ə̯# | Rule 708 : ə > ə̯ / __ #
-#kˌurˈũːn̪# | Rule 736 : ə̯ > ∅ 
-#kˌuʀˈũːn̪# | Rule 752 : r > ʀ 
-#kuʀũːn̪# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#kuʀũn̪# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#kuʀɔ̃n̪# | Rule 755 : ũ > ɔ̃ 
-#kuʀɔn̪# | Rule 757 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
+#kˌurˈũːn̪ə# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#kˌurˈũːn̪ə̯# | Rule 707 : ə > ə̯ / __ #
+#kˌurˈũːn̪# | Rule 735 : ə̯ > ∅ 
+#kˌuʀˈũːn̪# | Rule 751 : r > ʀ 
+#kuʀũːn̪# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kuʀũn̪# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#kuʀɔ̃n̪# | Rule 754 : ũ > ɔ̃ 
+#kuʀɔn̪# | Rule 756 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
 #kuʁɔn̪# | Rule 759 : ʀ > ʁ 

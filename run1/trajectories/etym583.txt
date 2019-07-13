@@ -1,5 +1,5 @@
 Trajectory file for run 'run1'; etymon number :583:
-#lˌeːɡˈɑːleːs# >>> #lwɛjo# ( Correct : #lwajo#) :
+#lˌeːɡˈɑːleːs# >>> #lwajo# ( Correct : #lwajo#) :
 l ˌeː ɡ ˈɑː l eː s 
 #lˌeɡˈɑles# | Rule 58 : [+syl,+long] > [-long,-splng] 
 #lˌeɣˈɑles# | Rule 91 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
@@ -13,10 +13,11 @@ l ˌeː ɡ ˈɑː l eː s
 #lˌejˈals# | Rule 363 : [+syl] > [-long,-splng] / __ [-syl] [+cons,-son]
 #lˌejˈaɫs# | Rule 506 : [+lat] > ɫ / __ [+cons]
 #lˌojˈaɫs# | Rule 545 : [+front,+tense,-hi,-lo,+syl] > [+back,-front,+round,+lab] / __ j
-#lˌujˈaɫs# | Rule 567 : [+round,+tense,+back] > [+hi] 
-#lˌujˈaws# | Rule 582 : [+lat,+back] > w 
-#lwˌɛjˈaws# | Rule 631 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
-#lwˌɛjˈoːs# | Rule 666 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
-#lwˌɛjˈoː# | Rule 734 : [-son] > ∅ / __ #
-#lwɛjoː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#lwɛjo# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#lˌujˈaɫs# | Rule 566 : [+round,+tense,+back] > [+hi] 
+#lˌujˈaws# | Rule 581 : [+lat,+back] > w 
+#lwˌɛjˈaws# | Rule 630 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
+#lwˌɛjˈoːs# | Rule 665 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+#lwˌɛjˈoː# | Rule 733 : [-son] > ∅ / __ #
+#lwɛjoː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lwɛjo# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#lwajo# | Rule 758 : ɛ > a / w __ 

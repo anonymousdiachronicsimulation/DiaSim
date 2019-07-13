@@ -21,9 +21,9 @@ k ˈeː r e u m
 #t͡sʲˈijr# | Rule 403 : [+syl] > [-long,-splng] / __ [-syl] [-syl] ( [-syl] )* #
 #t͡sʲˈir# | Rule 471 : j > ∅ / [+hi,+front,+tense] __ 
 #t͡sˈir# | Rule 549 : t͡sʲ > t͡s / # __ 
-#sˈir# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˈiɹ# | Rule 726 : r > ɹ / [-cons] __ #
-#sˈir# | Rule 750 : ɹ > r 
-#sˈiʀ# | Rule 752 : r > ʀ 
-#siʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sˈir# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˈiɹ# | Rule 725 : r > ɹ / [-cons] __ #
+#sˈir# | Rule 749 : ɹ > r 
+#sˈiʀ# | Rule 751 : r > ʀ 
+#siʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #siʁ# | Rule 759 : ʀ > ʁ 

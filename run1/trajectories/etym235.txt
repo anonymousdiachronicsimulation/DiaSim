@@ -19,8 +19,8 @@ f ˌɑ k t̪ i ˈoː n̪ e m
 #fˌat̪t͡sʲˈũːn̪# | Rule 308 : ə̯ > ∅ 
 #fˌat͡sʲˈũːn̪# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
 #fˌat͡sˈũːn̪# | Rule 548 : t͡sʲ > t͡s / [-nas] __ 
-#fˌasˈũːn̪# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#fˌasˈũː# | Rule 669 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
-#fasũː# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#fasũ# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#fasɔ̃# | Rule 755 : ũ > ɔ̃ 
+#fˌasˈũːn̪# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#fˌasˈũː# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+#fasũː# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#fasũ# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#fasɔ̃# | Rule 754 : ũ > ɔ̃ 

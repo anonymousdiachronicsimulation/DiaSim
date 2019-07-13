@@ -18,9 +18,9 @@ s ˈeː d̪ i k u m
 #sˈɛːd̪d͡ʒə# | Rule 376 : {t̪ ə ɣ;d̪ ə ɣ;ð ə ɣ} > {t̪ t͡ʃ;d̪ d͡ʒ;d̪ d͡ʒ} 
 #sˈie̯d̪d͡ʒə# | Rule 382 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
 #sˈie̯d͡ʒə# | Rule 494 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-#sjˈed͡ʒə# | Rule 596 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-#sjˈɛd͡ʒə# | Rule 613 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
-#sjˈɛʒə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sjˈɛʒə̯# | Rule 708 : ə > ə̯ / __ #
-#sjˈɛʒ# | Rule 736 : ə̯ > ∅ 
-#sjɛʒ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#sjˈed͡ʒə# | Rule 595 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+#sjˈɛd͡ʒə# | Rule 612 : {ˈeː;ˈe} > {ˈɛː;ˈɛ} / __ [+cons] [+syl]
+#sjˈɛʒə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sjˈɛʒə̯# | Rule 707 : ə > ə̯ / __ #
+#sjˈɛʒ# | Rule 735 : ə̯ > ∅ 
+#sjɛʒ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 

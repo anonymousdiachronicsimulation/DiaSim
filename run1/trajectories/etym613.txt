@@ -10,11 +10,11 @@ l ˈo n̪ d̪ i n̪ eː s
 #lˈũn̪d̪rəs# | Rule 275 : [-stres,-lo,+syl] > ə / __ [-syl]
 #lˈũn̪d̪rə̯s# | Rule 284 : ə > ə̯ 
 #lˈũn̪d̪rəs# | Rule 306 : ə̯ > ə / [-cont] r __ [+cons]
-#lˈũːd̪rəs# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#lˈũːd̪rə# | Rule 734 : [-son] > ∅ / __ #
-#lˈũːd̪ʀə# | Rule 752 : r > ʀ 
-#lũːd̪ʀə# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#lũd̪ʀə# | Rule 754 : [+syl,+long] > [-long,-splng] 
-#lɔ̃d̪ʀə# | Rule 755 : ũ > ɔ̃ 
+#lˈũːd̪rəs# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#lˈũːd̪rə# | Rule 733 : [-son] > ∅ / __ #
+#lˈũːd̪ʀə# | Rule 751 : r > ʀ 
+#lũːd̪ʀə# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#lũd̪ʀə# | Rule 753 : [+syl,+long] > [-long,-splng] 
+#lɔ̃d̪ʀə# | Rule 754 : ũ > ɔ̃ 
 #lɔ̃d̪ʁə# | Rule 759 : ʀ > ʁ 
 #lɔ̃d̪ʁ# | Rule 762 : ə > ∅ / [+syl] ( [-syl] )* __ #

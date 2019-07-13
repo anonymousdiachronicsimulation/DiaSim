@@ -13,12 +13,12 @@ k ˈi r k u l u m
 #t͡sʲˈerkl# | Rule 308 : ə̯ > ∅ 
 #t͡sʲˈerklə# | Rule 323 : ∅ > ə / [+cons,-son] [+son,-syl] __ #
 #t͡sˈerklə# | Rule 549 : t͡sʲ > t͡s / # __ 
-#t͡sˈɛrklə# | Rule 591 : ˈe > ˈɛ / __ r [+cons]
-#sˈɛrklə# | Rule 649 : [+delrel] > [+cont,0delrel] 
-#sˈɛrklə̯# | Rule 708 : ə > ə̯ / __ #
-#sˈɛɹklə̯# | Rule 727 : r > ɹ / [-cons] __ [+cons]
-#sˈɛɹkl# | Rule 736 : ə̯ > ∅ 
-#sˈɛrkl# | Rule 750 : ɹ > r 
-#sˈɛʀkl# | Rule 752 : r > ʀ 
-#sɛʀkl# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#t͡sˈɛrklə# | Rule 590 : ˈe > ˈɛ / __ r [+cons]
+#sˈɛrklə# | Rule 648 : [+delrel] > [+cont,0delrel] 
+#sˈɛrklə̯# | Rule 707 : ə > ə̯ / __ #
+#sˈɛɹklə̯# | Rule 726 : r > ɹ / [-cons] __ [+cons]
+#sˈɛɹkl# | Rule 735 : ə̯ > ∅ 
+#sˈɛrkl# | Rule 749 : ɹ > r 
+#sˈɛʀkl# | Rule 751 : r > ʀ 
+#sɛʀkl# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #sɛʁkl# | Rule 759 : ʀ > ʁ 

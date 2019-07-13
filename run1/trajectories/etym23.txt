@@ -17,5 +17,5 @@ Trajectory file for run 'run1'; etymon number :23:
 #ˈaʎ# | Rule 372 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
 #ˈaːʎ# | Rule 412 : [+prim] > [+long] / # ( [-syl] )* __ [+cons] #
 #ˈaʎ# | Rule 413 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
-#aʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#aʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #aj# | Rule 760 : ʎ > j 

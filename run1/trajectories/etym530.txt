@@ -27,9 +27,9 @@ k ˈuː p r e u m
 #kˈʉjβrə# | Rule 404 : [+syl] > [-long,-splng] / __ [-syl] [+cons,-son]
 #kˈʉjvrə# | Rule 442 : β > v 
 #kˈyjvrə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#kɥˈivrə# | Rule 635 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
-#kɥˈivrə̯# | Rule 708 : ə > ə̯ / __ #
-#kɥˈivr# | Rule 736 : ə̯ > ∅ 
-#kɥˈivʀ# | Rule 752 : r > ʀ 
-#kɥivʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#kɥˈivrə# | Rule 634 : {y j;ˌy j;ˈy j} > {ɥ i;ɥ ˌi;ɥ ˈi} 
+#kɥˈivrə̯# | Rule 707 : ə > ə̯ / __ #
+#kɥˈivr# | Rule 735 : ə̯ > ∅ 
+#kɥˈivʀ# | Rule 751 : r > ʀ 
+#kɥivʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
 #kɥivʁ# | Rule 759 : ʀ > ʁ 

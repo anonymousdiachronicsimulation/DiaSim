@@ -17,13 +17,13 @@ p ˌu n̪ k t̪ ˈuː r ɑ m
 #pˌũɲt̪ˈʉːrə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #pˌũj̃n̪t̪ˈʉːrə# | Rule 449 : ɲ > j̃ n̪ / __ [+cons]
 #pˌũj̃n̪t̪ˈyːrə# | Rule 508 : [+hi,+round,-back] > [+front] 
-#pwˌĩn̪t̪ˈyːrə# | Rule 629 : {ũ j̃;ˌũ j̃;ˈũ j̃} > {w ĩ;w ˌĩ;w ˈĩ} 
-#pwˌẽn̪t̪ˈyːrə# | Rule 661 : [+front,+nas,+syl] > [-hi] / w __ 
-#pwˌẽːt̪ˈyːrə# | Rule 668 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-#pwˌɛ̃ːt̪ˈyːrə# | Rule 677 : [+front,-round,+syl,-lo] > [-hi,-tense,-cons,-lat,+cont,0delrel] / w __ 
-#pwˌɛ̃ːt̪ˈyːrə̯# | Rule 708 : ə > ə̯ / __ #
-#pwˌɛ̃ːt̪ˈyːr# | Rule 736 : ə̯ > ∅ 
-#pwˌɛ̃ːt̪ˈyːʀ# | Rule 752 : r > ʀ 
-#pwɛ̃ːt̪yːʀ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#pwɛ̃t̪yʀ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#pwˌĩn̪t̪ˈyːrə# | Rule 628 : {ũ j̃;ˌũ j̃;ˈũ j̃} > {w ĩ;w ˌĩ;w ˈĩ} 
+#pwˌẽn̪t̪ˈyːrə# | Rule 660 : [+front,+nas,+syl] > [-hi] / w __ 
+#pwˌẽːt̪ˈyːrə# | Rule 667 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+#pwˌɛ̃ːt̪ˈyːrə# | Rule 676 : [+front,-round,+syl,-lo] > [-hi,-tense,-cons,-lat,+cont,0delrel] / w __ 
+#pwˌɛ̃ːt̪ˈyːrə̯# | Rule 707 : ə > ə̯ / __ #
+#pwˌɛ̃ːt̪ˈyːr# | Rule 735 : ə̯ > ∅ 
+#pwˌɛ̃ːt̪ˈyːʀ# | Rule 751 : r > ʀ 
+#pwɛ̃ːt̪yːʀ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#pwɛ̃t̪yʀ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #pwɛ̃t̪yʁ# | Rule 759 : ʀ > ʁ 

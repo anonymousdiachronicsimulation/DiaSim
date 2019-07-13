@@ -25,11 +25,11 @@ w ˌi ɡ ˈi l i ɑ m
 #vˌeˈeʎə# | Rule 447 : a > ə / [+syl] ( [-syl] )* __ 
 #vˌəˈeʎə# | Rule 512 : ˌe > ˌə / v __ ( [+cons] ) [+syl]
 #vˌəˈɛʎə# | Rule 550 : [+front,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ʎ
-#vˌəˈɛjʎə# | Rule 568 : ∅ > j / [-hi,-lo,-round,+stres] __ ʎ [+syl]
-#vˌəˈɛːʎə# | Rule 641 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
-#vˈɛːʎə# | Rule 692 : ˌə > ∅ / __ [+syl]
-#vˈɛːʎə̯# | Rule 708 : ə > ə̯ / __ #
-#vˈɛːʎ# | Rule 736 : ə̯ > ∅ 
-#vɛːʎ# | Rule 753 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
-#vɛʎ# | Rule 754 : [+syl,+long] > [-long,-splng] 
+#vˌəˈɛjʎə# | Rule 567 : ∅ > j / [-hi,-lo,-round,+stres] __ ʎ [+syl]
+#vˌəˈɛːʎə# | Rule 640 : {ˌɛ j;ˌɛː j;ˈɛ j;ˈɛː j} > {ˌɛː;ˌɛː;ˈɛː;ˈɛː} / __ [+cons]
+#vˈɛːʎə# | Rule 691 : ˌə > ∅ / __ [+syl]
+#vˈɛːʎə̯# | Rule 707 : ə > ə̯ / __ #
+#vˈɛːʎ# | Rule 735 : ə̯ > ∅ 
+#vɛːʎ# | Rule 752 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+#vɛʎ# | Rule 753 : [+syl,+long] > [-long,-splng] 
 #vɛj# | Rule 760 : ʎ > j 
